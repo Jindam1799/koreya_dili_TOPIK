@@ -1,6 +1,8 @@
 """TOPIK Ⅰ seviyesini üretir: tools/topik1_words.txt (kelimeler) + mevcut seviyelerdeki anlamlar
 (önce A1–A2, sonra B, sonra TOPIK Ⅱ) + tools/topik1_tr.txt (yeni anlamlar) + data/topik1_pairs.txt (eş kelimeler).
 Kullanım: python3 tools/build_topik1.py  → data/topik1.js"""
+import sys
+sys.exit("Azərbaycan versiyasında data/topik1.js birbaşa redaktə olunur (tərcümə: tools/az/topik1.txt + tools/az_apply.py). Bu skripti işlətməyin — tərcüməni silər.")
 import os,re
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P=lambda *a:os.path.join(ROOT,*a)
