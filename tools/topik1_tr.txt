@@ -1,0 +1,829 @@
+# TOPIK I kelimeleri için Türkçe anlamlar (mevcut seviyelerde olmayanlar). Biçim: kelime|anlam
+가깝다|yakın olmak
+가다|gitmek
+가방|çanta
+가수|şarkıcı
+가슴|göğüs
+가요|popüler şarkı
+가위|makas
+가족|aile
+각|her bir
+간단히|kısaca, basitçe
+갈비|kaburga (ızgara)
+갈비탕|kaburga çorbası
+감|hurma (Trabzon hurması)
+감기약|soğuk algınlığı ilacı
+감동하다|duygulanmak, etkilenmek
+감사|teşekkür
+감사드립니다|teşekkür ederim (çok saygılı)
+감사하다|teşekkür etmek
+감사합니다|teşekkür ederim
+감자탕|patatesli domuz kemiği çorbası
+값|fiyat, değer
+강|nehir
+개나리|forsitya (sarı bahar çiçeği)
+거기|orası
+거울|ayna
+거짓말|yalan
+걱정하다|endişelenmek
+건강|sağlık
+건강하다|sağlıklı olmak
+건너다|karşıya geçmek
+건배|şerefe
+걸다|asmak; (telefon) etmek
+걸어가다|yürüyerek gitmek
+것|şey
+게임|oyun
+겨울방학|kış tatili
+결정|karar
+결혼|evlilik
+경기장|stadyum
+경복궁|Gyeongbokgung Sarayı
+경주|Gyeongju (şehir)
+경찰관|polis memuru
+경찰서|karakol
+계산하다|hesap ödemek, hesaplamak
+고등학생|lise öğrencisi
+고마웠습니다|teşekkür ederim (geçmiş için)
+고맙다|minnettar olmak
+고맙습니다|teşekkür ederim
+고모|hala
+고모부|enişte (halanın eşi)
+고속버스|şehirlerarası otobüs
+고장|arıza
+고프다|(karnı) aç olmak
+고향|memleket
+골프|golf
+곱다|güzel, zarif olmak
+곳|yer
+공부|ders çalışma
+공부하다|ders çalışmak
+공중전화|ankesörlü telefon
+공휴일|resmî tatil
+과|bölüm (üniversite)
+과학|bilim, fen
+관광하다|turistik gezi yapmak
+괜찮다|iyi olmak, sorun olmamak
+괜찮습니다|sorun değil, iyiyim
+교과서|ders kitabı
+교수|profesör
+교체|değiştirme
+교통|trafik, ulaşım
+교통사고|trafik kazası
+구두|ayakkabı (deri)
+구십|doksan (Çince kökenli)
+국립|devlete ait, ulusal
+국어|ana dil (Korece dersi)
+국적|uyruk
+국제|uluslararası
+그|o
+그거|o (şey)
+그것|o (şey)
+그곳|orası
+그날|o gün
+그들|onlar
+그래|evet, tamam (samimi)
+그램|gram
+그런|öyle, o tür
+그럼|o zaman
+그렇게|öyle, o kadar
+그렇구나|anlıyorum, demek öyle
+그렇다|öyle olmak
+그렇습니다|evet, öyle
+그렇지만|ama, fakat
+그만|yeter, artık (durmak)
+그분|o kişi (saygılı)
+그중|aralarında
+그쪽|o taraf
+글|yazı
+금연|sigara içilmez
+금주|alkol yasağı, içkiyi bırakma
+급|seviye, sınıf
+기간|süre, dönem
+기다리다|beklemek
+기분|ruh hâli, keyif
+기뻐하다|sevinmek
+기억하다|hatırlamak
+기온|hava sıcaklığı
+기타|gitar; diğer
+김밥|kimbap
+김치|kimçi
+김치찌개|kimçi güveci
+김포공항|Gimpo Havalimanı
+까만색|siyah renk
+까맣다|siyah olmak
+깎다|kesmek, soymak; indirim yapmak
+깨다|uyanmak; kırmak
+깨지다|kırılmak
+껌|sakız
+꽃집|çiçekçi
+꾸다|(rüya) görmek
+끄다|kapatmak, söndürmek
+끝내다|bitirmek
+나|ben
+나가다|dışarı çıkmak
+나다|çıkmak, oluşmak
+나라|ülke
+나빠지다|kötüleşmek
+나쁘다|kötü olmak
+나이|yaş
+날|gün
+남녀|kadın ve erkek
+남대문시장|Namdaemun Pazarı
+남동생|erkek kardeş (küçük)
+남미|Güney Amerika
+남북|kuzey ve güney
+남자|erkek
+남편|koca, eş
+남학생|erkek öğrenci
+내|benim
+내가|ben (özne)
+내과|dahiliye
+내다|ödemek; çıkarmak
+내려오다|aşağı inmek (gelmek)
+내리다|inmek; (yağmur) yağmak
+냉면|soğuk erişte
+너|sen
+너무|çok, fazla
+네|evet; dört
+넷째|dördüncü
+노랗다|sarı olmak
+노래|şarkı
+노래방|karaoke
+노래하다|şarkı söylemek
+노트|defter
+녹색|yeşil
+놀다|oynamak, eğlenmek
+놀라다|şaşırmak
+놓다|koymak
+누가|kim (özne)
+누구|kim
+누나|abla (erkeğin ablası)
+누르다|basmak
+눈|göz; kar
+눈물|gözyaşı
+눈사람|kardan adam
+눈싸움|kar topu savaşı
+뉴스|haberler
+뉴욕|New York
+느끼다|hissetmek
+늘|her zaman
+늦잠|geç uyanma
+님|Bay/Bayan (saygı eki)
+다|hepsi
+다니다|gidip gelmek, devam etmek
+다른|başka, farklı
+다음달|gelecek ay
+다음주|gelecek hafta
+다음해|ertesi yıl
+닫다|kapatmak
+닮다|benzemek
+담그다|(turşu, kimçi) kurmak
+당신|siz, sen
+대답|cevap
+대답하다|cevap vermek
+대학|üniversite
+대학교|üniversite
+대학생|üniversite öğrencisi
+대학원생|lisansüstü öğrenci
+대한민국|Kore Cumhuriyeti
+더럽다|kirli olmak
+더운물|sıcak su
+덕분|sayesinde
+데리다|yanına almak
+데이트|randevu, buluşma
+도서관|kütüphane
+도움|yardım
+도착|varış
+도쿄|Tokyo
+독서실|okuma salonu
+독서하다|kitap okumak
+돈|para
+돕다|yardım etmek
+동대문시장|Dongdaemun Pazarı
+동생|küçük kardeş
+동아리|kulüp
+동안|süresince
+동양|Doğu (Asya)
+되다|olmak
+된장|soya fasulyesi ezmesi
+된장국|soya ezmesi çorbası
+된장찌개|soya ezmesi güveci
+두|iki (sayı önünde)
+두껍다|kalın olmak
+두다|koymak, bırakmak
+두부찌개|tofu güveci
+둘째|ikinci
+뒤쪽|arka taraf
+드라마|dizi
+듣기|dinleme
+듣다|dinlemek
+들어오다|içeri girmek (gelmek)
+등산복|dağcılık kıyafeti
+디브이디|DVD
+디자인|tasarım
+따뜻하다|ılık, sıcak olmak
+따라가다|peşinden gitmek
+따라오다|peşinden gelmek
+따르다|takip etmek; (sıvı) dökmek
+딸|kız evlat
+때|zaman, an
+때문|yüzünden, için
+떡|pirinç keki
+떡국|pirinç keki çorbası
+떡볶이|tteokbokki
+또|yine, ayrıca
+뜨다|(göz) açmak; (güneş) doğmak
+라디오|radyo
+라면|ramen
+러시아|Rusya
+로션|losyon
+마시다|içmek
+마음|kalp, gönül
+마지막|son
+마치다|bitirmek
+막히다|tıkanmak
+만나다|buluşmak
+만두|mantı
+만들다|yapmak
+많다|çok olmak
+많이|çok
+말하기|konuşma
+말하다|söylemek, konuşmak
+맛없다|lezzetsiz olmak
+맛있다|lezzetli olmak
+맞다|doğru olmak; uymak
+맞습니다|doğru
+맞아요|doğru, evet
+맞은편|karşı taraf
+매우|çok, son derece
+먹다|yemek
+메뉴|menü
+메모|not
+멕시코|Meksika
+면도|tıraş
+몇|kaç
+모르겠습니다|bilmiyorum
+모으다|toplamak, biriktirmek
+모자|şapka
+목욕|banyo
+목욕하다|banyo yapmak
+몸살|halsizlik, kırgınlık
+못하다|yapamamak
+몽골|Moğolistan
+무궁화|Kore gülü (ulusal çiçek)
+무슨|ne, hangi
+무엇|ne
+무엇이|ne (özne)
+문|kapı
+문구점|kırtasiye
+물|su
+뭐|ne
+미국|Amerika
+미술|resim sanatı
+미안합니다|özür dilerim
+미터|metre
+민속촌|halk köyü
+밀리다|birikmek; itilmek
+밑|alt
+바다|deniz
+바람|rüzgâr
+바르다|sürmek
+바쁘다|meşgul olmak
+바이올린|keman
+바지|pantolon
+박수|alkış
+반갑다|memnun olmak
+반갑습니다|memnun oldum
+반년|yarım yıl
+반지|yüzük
+받다|almak
+발전|gelişme
+밥|pilav, yemek
+방|oda
+방법|yöntem
+방송|yayın
+방학|okul tatili
+배고프다|karnı aç olmak
+배부르다|karnı tok olmak
+배우다|öğrenmek
+백화점|alışveriş merkezi
+버리다|atmak
+버스|otobüs
+번호|numara
+벌다|(para) kazanmak
+벗다|çıkarmak (giysi)
+베이징|Pekin
+베트남|Vietnam
+변호사|avukat
+별|yıldız
+보다|görmek, bakmak
+볶다|kavurmak
+볶음밥|kavrulmuş pilav
+봉지|poşet
+부모|anne baba
+부산|Busan
+부업|ek iş
+부인|eş (hanım)
+부장|müdür
+부치다|göndermek (posta)
+부탁|rica
+불|ateş; ışık
+불고기|bulgogi
+붓다|dökmek; şişmek
+브라질|Brezilya
+블라우스|bluz
+비|yağmur
+비디오|video
+비빔밥|bibimbap
+비싸다|pahalı olmak
+비행장|havaalanı
+빌딩|bina
+빨갛다|kırmızı olmak
+빨다|yıkamak (çamaşır)
+빨래|çamaşır
+빨리|çabuk
+빵|ekmek
+빵집|fırın
+빼다|çıkarmak
+뿐|sadece
+사고|kaza
+사다|satın almak
+사람|insan
+사랑|aşk, sevgi
+사랑하다|sevmek
+사십|kırk (Çince kökenli)
+사업가|iş insanı
+사원|çalışan
+사이다|gazoz
+사이즈|beden, ölçü
+사인하다|imzalamak
+사장|şirket sahibi, patron
+사진|fotoğraf
+사진기|fotoğraf makinesi
+사탕|şeker (bonbon)
+산책|yürüyüş
+살|yaş (öz Korece sayılarla)
+살다|yaşamak
+삼거리|üç yol ağzı
+삼계탕|tavuk ginseng çorbası
+삼십|otuz (Çince kökenli)
+삼촌|amca
+상관|ilgi, bağlantı
+새로|yeniden
+색|renk
+샌드위치|sandviç
+생각되다|düşünülmek, gibi gelmek
+생각하다|düşünmek
+생일|doğum günü
+샤워하다|duş almak
+샴푸|şampuan
+서다|ayakta durmak
+서류|belge
+서비스|servis; ikram
+서울|Seul
+서울역|Seul İstasyonu
+선생님|öğretmen
+설렁탕|öküz kemiği çorbası
+설명|açıklama
+설명하다|açıklamak
+설악산|Seorak Dağı
+성|soyadı
+세계|dünya
+세수하다|yüz yıkamak
+세일하다|indirim yapmak
+세탁소|kuru temizleme
+센터|merkez
+센티미터|santimetre
+셋째|üçüncü
+소개|tanıtma
+소리|ses
+소포|koli
+소풍|piknik, gezi
+소화제|hazım ilacı
+쇼핑|alışveriş
+수술하다|ameliyat etmek
+수업|ders
+수영|yüzme
+쉬다|dinlenmek
+쉽다|kolay olmak
+슈퍼마켓|süpermarket
+스웨터|kazak
+스케이트|paten
+스키장|kayak merkezi
+스타|ünlü, yıldız
+스타킹|külotlu çorap
+스트레스|stres
+스페인어|İspanyolca
+스포츠|spor
+슬퍼하다|üzülmek
+슬프다|üzgün olmak
+시간표|ders programı
+시계|saat (alet)
+시디|CD
+시외|şehir dışı
+시작|başlangıç
+시작되다|başlamak
+시작하다|başlamak, başlatmak
+시험|sınav
+식당|lokanta
+식탁|yemek masası
+신|tanrı; yeni
+신발|ayakkabı
+실례|kabalık, rahatsızlık
+실례하다|rahatsız etmek
+실수|hata
+싫다|istememek, hoşlanmamak
+싶다|istemek (-mek istemek)
+쌀밥|beyaz pilav
+썰다|doğramak
+쓰기|yazma
+쓰레기|çöp
+쓰이다|yazılmak; kullanılmak
+씩|-er, -şer (her biri)
+씹다|çiğnemek
+아가씨|genç hanım
+아기|bebek
+아내|karı, eş
+아뇨|hayır
+아니다|değil
+아니오|hayır
+아니요|hayır
+아들|oğul
+아랍어|Arapça
+아무|hiç kimse, herhangi
+아버님|baba (saygılı)
+아버지|baba
+아빠|babacığım
+아시아|Asya
+아이스크림|dondurma
+아저씨|amca, bey
+아주머니|teyze, hanımefendi
+아줌마|teyze (samimi)
+아침|sabah; kahvaltı
+아침밥|kahvaltı
+아침식사|kahvaltı
+아프다|ağrımak, hasta olmak
+아프리카|Afrika
+안경|gözlük
+안내하다|rehberlik etmek
+안녕하세요|merhaba
+안녕하십니까|merhaba (resmî)
+앉다|oturmak
+알맞다|uygun olmak
+알았습니다|anladım
+애|çocuk (samimi)
+액세서리|aksesuar
+야채|sebze
+약간|biraz
+약사|eczacı
+약속|söz; randevu
+얇다|ince olmak
+양복|takım elbise (erkek)
+양식|Batı yemeği; form
+얘기하다|konuşmak, anlatmak
+어느|hangi
+어디|nerede, nere
+어떤|nasıl bir, hangi
+어떻게|nasıl
+어떻다|nasıl olmak
+어떻습니까?|nasıl?
+어렵다|zor olmak
+어머니|anne
+어머님|anne (saygılı)
+어저께|dün
+언니|abla (kızın ablası)
+엄마|anneciğim
+없다|yok olmak, olmamak
+없이|-sız, olmadan
+에어컨|klima
+엔|yen
+여기|burası
+여기저기|orada burada
+여동생|kız kardeş (küçük)
+여러가지|çeşitli
+여러분|herkes, sevgili arkadaşlar
+여보세요|alo
+여자|kadın
+여학생|kız öğrenci
+여행|seyahat
+여행사|seyahat acentesi
+연습|alıştırma
+열차|tren
+영국|İngiltere
+영어|İngilizce
+영어회화|İngilizce konuşma
+영하|sıfırın altı
+영화|film
+영화관|sinema salonu
+영화배우|sinema oyuncusu
+영화표|sinema bileti
+예|evet
+예문|örnek cümle
+예쁘다|güzel olmak
+예약|rezervasyon
+오다|gelmek
+오래간만|uzun zaman sonra
+오래간만입니다|uzun zamandır görüşemedik
+오랜만|uzun zaman sonra
+오랜만에|uzun zaman sonra
+오랫동안|uzun süre boyunca
+오렌지|portakal
+오르다|çıkmak, tırmanmak
+오빠|ağabey (kızın ağabeyi)
+오십|elli (Çince kökenli)
+오징어|kalamar
+올라오다|yukarı çıkmak (gelmek)
+올려놓다|üstüne koymak
+올림픽|olimpiyat
+옮기다|taşımak
+옷|giysi
+옷가게|giyim mağazası
+와이셔츠|gömlek
+왜|neden
+왜냐하면|çünkü
+외국|yabancı ülke
+외국인|yabancı
+외삼촌|dayı
+외숙모|yenge (dayının eşi)
+외출하다|dışarı çıkmak
+외할머니|anneanne
+외할아버지|dedem (annenin babası)
+요르단|Ürdün
+요리|yemek pişirme, mutfak
+요일|haftanın günü
+우리|biz
+우리나라|ülkemiz (Kore)
+우산|şemsiye
+우선|önce
+우유|süt
+우표|pul
+운동|spor, egzersiz
+운동선수|sporcu
+운동하다|spor yapmak
+운동화|spor ayakkabı
+운전하다|araba kullanmak
+울리다|ağlatmak; çalmak (zil)
+웃기다|güldürmek, komik olmak
+원|won (Kore parası)
+원피스|elbise (tek parça)
+원하다|istemek
+월|ay
+월급|aylık maaş
+월드컵|Dünya Kupası
+웬일|ne oldu, hayırdır
+유럽|Avrupa
+유학|yurt dışında eğitim
+육십|altmış (Çince kökenli)
+은행원|banka memuru
+음반|albüm
+음악|müzik
+음악가|müzisyen
+응|evet (samimi)
+의자|sandalye
+이거|bu (şey)
+이것|bu (şey)
+이곳|burası
+이런|böyle, bu tür
+이렇게|böyle, bu şekilde
+이렇다|böyle olmak
+이름|isim
+이메일|e-posta
+이모|teyze
+이모부|enişte (teyzenin eşi)
+이번|bu sefer
+이분|bu kişi (saygılı)
+이사|taşınma
+이상하다|tuhaf olmak
+이십|yirmi (Çince kökenli)
+이야기|hikâye, konuşma
+이야기하다|konuşmak, anlatmak
+이용|kullanım
+이집트|Mısır
+이해|anlayış
+인|kişi
+인기스타|popüler yıldız
+인도|Hindistan
+인사|selam, selamlaşma
+인사하다|selam vermek
+인천|Incheon
+인터넷|internet
+인터뷰하다|röportaj yapmak
+일기|günlük
+일기예보|hava durumu
+일본|Japonya
+일본드라마|Japon dizisi
+일본말|Japonca
+일본사람|Japon
+일본어|Japonca
+일본요리|Japon mutfağı
+일식|Japon yemeği
+일어서다|ayağa kalkmak
+일하다|çalışmak
+읽기|okuma
+읽다|okumak
+잃다|kaybetmek
+입학|okula giriş
+있다|var olmak; sahip olmak
+잊다|unutmak
+자|haydi; cetvel
+자기|kendi
+자다|uyumak
+자동차|otomobil
+자동차회사|otomobil şirketi
+자료|kaynak, malzeme
+자장면|siyah fasulye soslu erişte
+작은아버지|amca (babanın küçük kardeşi)
+작은어머니|yenge (küçük amcanın eşi)
+잘|iyi
+잘못|hata, yanlış
+잠자다|uyumak
+잡수시다|yemek (saygılı)
+잡지|dergi
+장마철|yağmur mevsimi
+재미없다|sıkıcı olmak
+재미있다|eğlenceli olmak
+재킷|ceket
+저|ben (alçakgönüllü); şu
+저거|şu (şey)
+저것|şu (şey)
+저곳|şurası
+저기|şurası
+저녁식사|akşam yemeği
+저렇게|şöyle, o şekilde
+저분|şu kişi (saygılı)
+전|önce; bütün
+전기자동차|elektrikli araba
+전화|telefon
+전화기|telefon cihazı
+점|nokta; puan
+점심시간|öğle arası
+점심식사|öğle yemeği
+점퍼|mont
+정거장|durak
+제가|ben (alçakgönüllü, özne)
+제주도|Jeju Adası
+조선|Joseon (eski Kore)
+조선말|Kore dili (eski/Kuzey)
+조선어|Kore dili (eski/Kuzey)
+조카|yeğen
+좀더|biraz daha
+종로|Jongno (Seul)
+종업원|çalışan, garson
+좋다|iyi olmak
+좋아하다|sevmek, beğenmek
+죄송하다|özür dilemek
+주다|vermek
+주머니|cep
+주사|iğne (enjeksiyon)
+주스|meyve suyu
+죽|lapa (pirinç çorbası)
+죽다|ölmek
+준비|hazırlık
+줄|sıra, çizgi, ip
+줄다|azalmak
+중|orta; sırasında
+중국|Çin
+중국어|Çince
+중국집|Çin lokantası
+중식|Çin yemeği
+중심|merkez
+중요|önem
+중학생|ortaokul öğrencisi
+즐거워하다|keyif almak
+증세|belirti
+지나다|geçmek
+지난달|geçen ay
+지난주|geçen hafta
+지내다|vakit geçirmek, yaşamak
+직장|iş yeri
+진달래|açelya
+질문|soru
+질문하다|soru sormak
+집|ev
+짜리|değerinde (para, miktar)
+쯤|civarında, kadar
+찌개|güveç (çorba)
+찍다|(fotoğraf) çekmek
+차|araba; çay
+찾아오다|ziyarete gelmek
+책|kitap
+책방|kitapçı
+책임|sorumluluk
+책장|kitaplık
+처음 뵙겠습니다|tanıştığımıza memnun oldum
+철|mevsim; demir
+첫째|birinci
+청소하다|temizlik yapmak
+초|saniye
+초등학생|ilkokul öğrencisi
+추다|(dans) etmek
+축하|kutlama
+축하하다|kutlamak
+축하합니다|tebrikler
+출구|çıkış
+출발|kalkış, hareket
+춤추다|dans etmek
+취소하다|iptal etmek
+치료하다|tedavi etmek
+치마|etek
+친구|arkadaş
+친척|akraba
+칠십|yetmiş (Çince kökenli)
+침대|yatak
+카드|kart
+카레|köri
+카메라|kamera
+카페|kafe
+캐나다|Kanada
+커피|kahve
+커피숍|kahve dükkânı
+컴퓨터|bilgisayar
+컵|bardak
+케이크|pasta
+코트|palto
+코피|burun kanaması
+콜라|kola
+콧노래|mırıldanma (şarkı)
+콩|fasulye, soya
+크리스마스|Noel
+큰아버지|amca (babanın ağabeyi)
+큰어머니|yenge (büyük amcanın eşi)
+킬로그램|kilogram
+킬로미터|kilometre
+타다|binmek
+타월|havlu
+태국|Tayland
+태권도|tekvando
+택시|taksi
+탤런트|dizi oyuncusu
+테니스|tenis
+테이블|masa
+텔레비전|televizyon
+특별히|özellikle
+틀다|açmak (cihaz)
+팀|takım
+파랗다|mavi olmak
+파티|parti
+팔다|satmak
+팔리다|satılmak
+팔십|seksen (Çince kökenli)
+패션|moda
+퍼센트|yüzde
+페이지|sayfa
+펜|kalem
+편하다|rahat olmak
+평양|Pyongyang
+풀다|çözmek
+프랑스|Fransa
+프린트|çıktı
+피곤하다|yorgun olmak
+피아노|piyano
+피자|pizza
+필름|film (fotoğraf)
+필요|ihtiyaç
+필요하다|gerekli olmak
+하늘색|açık mavi
+하숙|pansiyon
+하숙집|pansiyon evi
+하얀색|beyaz renk
+하얗다|beyaz olmak
+하지만|ama, fakat
+학|turna kuşu
+학교|okul
+학년|sınıf (yıl)
+학생|öğrenci
+학생증|öğrenci kimliği
+학원|kurs, dershane
+한|bir (sayı önünde)
+한강|Han Nehri
+한국|Kore
+한국드라마|Kore dizisi
+한국말|Korece
+한국사람|Koreli
+한국어|Korece
+한국요리|Kore mutfağı
+한글|Hangıl (Kore alfabesi)
+한번|bir kez
+한복|hanbok (Kore geleneksel kıyafeti)
+한식|Kore yemeği
+한자|Çince karakter
+할머니|büyükanne
+할아버지|büyükbaba
+할인|indirim
+합격|(sınavı) geçme
+핸드폰|cep telefonu
+햄버거|hamburger
+행복|mutluluk
+현금|nakit
+현재|şimdi, şu an
+형|ağabey (erkeğin ağabeyi)
+형님|ağabey (saygılı)
+호주|Avustralya
+홍차|siyah çay
+화|öfke
+화내다|kızmak
+화장하다|makyaj yapmak
+회사|şirket
+후|sonra
+휴대전화|cep telefonu

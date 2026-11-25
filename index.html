@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+<meta charset="utf-8">
+<script>/* KakaoTalk: sayfa çizilmeden önce dış tarayıcıya geç ve KakaoTalk penceresini kapat */
+(function(){var u=navigator.userAgent||'';if(!/KAKAOTALK/i.test(u))return;
+try{if(sessionStorage.getItem('toChrome')==='1')return;sessionStorage.setItem('toChrome','1')}catch(e){}
+var d=document.documentElement;d.style.visibility='hidden';d.style.background='#2f5d46';
+location.href='kakaotalk://web/openExternal?url='+encodeURIComponent(location.href);
+setTimeout(function(){location.href=/iPhone|iPad|iPod/i.test(u)?'kakaoweb://closeBrowser':'kakaotalk://inappbrowser/close'},700);
+setTimeout(function(){d.style.visibility=''},2500)})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>덩어리숲 · Koreya Dili Söz Meşəsi</title>
+<meta name="description" content="덩어리숲 — A1-dən B2-yə və TOPIK üçün Koreya dili söz oyunu. Azərbaycanlı dostlar üçün. © 2026 Wonju">
+<meta property="og:title" content="덩어리숲 · Koreya Dili Söz Meşəsi">
+<meta property="og:description" content="Koreyaca sözə bax, mənasını seç. Söz birləşmələri, kartlar və bitki dostunu böyüt!">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://jindam1799.github.io/koreya_dili_TOPIK/">
+<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=3">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="덩어리숲 · Koreya Dili Söz Meşəsi">
+<meta property="og:site_name" content="덩어리숲">
+<meta property="og:locale" content="az_AZ">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="덩어리숲 · Koreya Dili Söz Meşəsi">
+<meta name="twitter:description" content="Koreyaca sözə bax, mənasını seç. A1–B2, TOPIK, Hanca, söz birləşmələri və bitki dostun!">
+<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=3">
+<meta name="theme-color" content="#315e48">
+<meta name="author" content="Wonju (원주)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="덩어리숲">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#f7f7ef;--ink:#263f36;--muted:#778077;--green:#315e48;--light:#edf2e8;--line:#e3e7dc;--orange:#db794c;--red:#b94b3d;--leaf:#91af63;color-scheme:light}
+*{box-sizing:border-box;min-width:0}
+html,body{height:100%}
+body{margin:0;background:#e9ecdf;color:var(--ink);font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;overflow:hidden;-webkit-text-size-adjust:100%}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
+button:disabled{opacity:.5;cursor:default}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--orange);outline-offset:2px}
+[hidden]{display:none!important}
+.ko{font-family:"Noto Sans KR","Apple SD Gothic Neo",sans-serif}
+.app{position:relative;height:100dvh;max-width:480px;margin:auto;background:linear-gradient(180deg,#fbf6e3 0%,var(--paper) 38%);overflow:hidden;
+ padding:calc(10px + env(safe-area-inset-top)) 14px calc(10px + env(safe-area-inset-bottom))}
+@media(min-width:500px){.app{box-shadow:0 0 0 1px var(--line),0 20px 60px #243e361a;max-height:900px;margin-top:max(0px,calc((100dvh - 900px)/2));border-radius:0}}
+.screen{height:100%;display:flex;flex-direction:column;gap:10px}
+/* üst çubuk */
+.top{display:flex;align-items:center;gap:10px;flex:none}
+.brand{display:flex;align-items:center;gap:9px;flex:1}
+.logo-seed svg{width:100%;height:100%;display:block}
+.brand-icon{width:38px;height:38px;border-radius:13px 13px 13px 4px;background:var(--green);color:#fff;display:grid;place-items:center;font:800 15px "Noto Sans KR",sans-serif;flex:none}
+.brand b{display:block;font:800 19px/1.15 "Noto Sans KR",sans-serif;letter-spacing:-.5px}
+.brand small{display:block;font-size:11px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lang{display:flex;border:1.5px solid var(--line);border-radius:12px;overflow:hidden;background:#fff;flex:none}
+.lang button{border:0;background:transparent;padding:6px 9px;font-size:13px;font-weight:800;min-height:36px;color:var(--muted)}
+.lang button[aria-pressed=true]{background:var(--green);color:#fff}
+.icon{width:38px;height:38px;border-radius:12px;border:1.5px solid var(--line);background:#fff;display:grid;place-items:center;flex:none;padding:0}
+.icon svg{width:20px;height:20px}
+/* ana sayfa */
+.companion{flex:1;min-height:0;background:var(--light);border-radius:24px;position:relative;overflow:hidden;display:flex;flex-direction:column}
+.habitat{flex:1;min-height:0;position:relative;display:grid;place-items:end center;background:#f8dfc0;overflow:hidden}
+.scene{position:absolute;inset:0}.scene svg{width:100%;height:100%;display:block}
+.scene .bal{animation:float 7s ease-in-out infinite}.scene .bal:nth-of-type(2){animation-duration:9s;animation-delay:-3s}.scene .bal:nth-of-type(3){animation-duration:8s;animation-delay:-5s}
+.scene .ferry{animation:sail 40s linear infinite}
+@keyframes float{50%{transform:translateY(-8px)}}@keyframes sail{from{transform:translateX(-80px)}to{transform:translateX(480px)}}
+.mascot{position:relative;height:80%;max-height:280px;aspect-ratio:180/210;margin-bottom:3%;transform-origin:50% 90%;animation:breathe 3.5s ease-in-out infinite}
+.mascot svg{width:100%;height:100%;display:block;overflow:visible}
+.expression-happy,.expression-lift,.expression-land{display:none}
+.mascot.hop .expression-normal,.happy .expression-normal{display:none}.mascot.hop .expression-happy,.happy .expression-happy{display:inline}
+.mascot.hop{animation:hop .55s ease 2}.mascot.sad{animation:wob .4s ease 2}
+.cinfo{padding:10px 16px 14px;background:#fff;border-top:1px solid var(--line)}
+.crow{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.cname{font-weight:800;font-size:17px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tag{font-size:12px;font-weight:800;border-radius:30px;padding:3px 10px;background:#dce7d3;color:var(--green);white-space:nowrap}
+.bar{height:9px;border-radius:9px;background:#e6eadd;overflow:hidden;margin:8px 0 4px}
+.bar i{display:block;height:100%;background:var(--green);border-radius:9px;transition:width .6s}
+.tiny{font-size:12px;color:var(--muted)}
+.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;flex:none}
+.stats div{background:#fff;border:1px solid var(--line);border-radius:14px;padding:7px 4px;text-align:center}
+.stats strong{display:block;font-size:19px;line-height:1.2}.stats span{font-size:11px;color:var(--muted)}
+.opts{display:flex;gap:8px;flex:none}
+.opts select,.opts .chip{flex:1;min-height:42px;border:1.5px solid var(--line);border-radius:12px;background:#fff;padding:6px 10px;font-size:14px;font-weight:700}
+.chip[aria-pressed=true]{border-color:var(--green);background:#f3f6ee;color:var(--green)}
+.primary,.secondary{border:0;min-height:52px;border-radius:14px;padding:10px 18px;font-weight:800;font-size:16px;width:100%;display:flex;align-items:center;justify-content:center;gap:8px}
+.primary{background:var(--green);color:#fff}.primary:active{background:#254b39}
+.secondary{background:var(--light);color:var(--green)}
+.btns{display:grid;grid-template-columns:2fr 1fr;gap:8px;flex:none}
+/* oyun */
+.gtop{display:flex;align-items:center;gap:10px;flex:none}
+.gtop .count{font-weight:800;font-size:15px}.gtop .xp{margin-left:auto;color:var(--orange);font-weight:800;font-size:14px}
+.lines{flex:none;display:grid;gap:5px}
+.line{height:6px;border-radius:6px;background:#e6eadd;overflow:hidden}.line i{display:block;height:100%;background:var(--green);transition:width .3s}
+.line.timer i{background:var(--orange);transition:none}.line.timer.urgent i{background:var(--red)}
+.trow{display:flex;justify-content:space-between;font-size:12px;color:var(--muted)}.trow .urgent{color:var(--red);font-weight:800}
+.qcard{flex:1;min-height:0;background:#fff;border:1px solid var(--line);border-radius:24px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:10px 14px;position:relative}
+.qkind{position:absolute;top:10px;left:12px;font-size:12px;font-weight:800;color:var(--green);background:var(--light);border-radius:30px;padding:3px 10px}
+.qkind.bonus{background:#fbe9df;color:var(--orange)}.qkind.rev{background:#f1ecdf;color:#976640}
+.qmini{position:absolute;top:2px;right:6px;width:72px;height:84px}
+.qmini svg{width:100%;height:100%}
+.qins{font-size:14px;color:var(--muted);margin:14px 0 6px}
+.qword{font:800 clamp(30px,10vw,46px)/1.25 "Noto Sans KR",sans-serif;letter-spacing:-1px;word-break:keep-all;margin:0}
+.qword.long{font-size:clamp(24px,7.5vw,34px)}
+.say{border:0;background:var(--light);color:var(--green);border-radius:999px;width:40px;height:40px;display:inline-grid;place-items:center;padding:0;flex:none;margin-top:8px}
+.say svg{width:20px;height:20px}.say.sm{width:32px;height:32px;margin:0}.say.sm svg{width:16px;height:16px}
+.answers{flex:none;display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.answer{display:flex;gap:8px;align-items:center;text-align:left;border:1.5px solid var(--line);border-radius:14px;min-height:clamp(64px,11dvh,84px);padding:10px;background:#fff;font-size:15px;font-weight:600;line-height:1.25}
+.answer .n{font-size:11px;color:var(--muted);background:#f2f3ed;display:grid;place-items:center;flex:none;width:22px;height:22px;border-radius:7px}
+.answer.ok{border-color:var(--green);background:#e5efdc;color:var(--green)}
+.answer.no{border-color:var(--red);background:#f8e4e0;color:var(--red)}
+.answer.dim{opacity:.45}
+.hint{flex:none;text-align:center}
+/* geri bildirim (alt sayfa) */
+.sheet-wrap{position:absolute;inset:0;background:#1e362d55;display:flex;align-items:flex-end;z-index:10;padding:10px}
+.sheet{width:100%;background:#fff;border-radius:24px;padding:18px 18px calc(16px + env(safe-area-inset-bottom));max-height:calc(100% - 20px);overflow:auto;animation:up .22s ease;text-align:center}
+.ficon{width:46px;height:46px;border-radius:50%;display:grid;place-items:center;margin:0 auto 6px;font-size:22px;font-weight:800;background:var(--light);color:var(--green)}
+.ficon.no{background:#f8e4e0;color:var(--red)}
+.sheet h2{margin:0;font-size:22px}
+.reward{color:var(--orange);font-weight:800;font-size:14px;min-height:20px;margin:2px 0 8px}
+.acard{background:var(--paper);border-radius:16px;padding:12px;text-align:left;display:grid;gap:4px;margin-bottom:10px}
+.acard .w{display:flex;align-items:center;gap:8px;font:800 24px "Noto Sans KR",sans-serif}
+.acard .m{font-weight:800;font-size:17px;color:var(--green)}
+.acard .ex{font-size:14px;color:var(--muted);display:flex;gap:6px;align-items:center}
+.acard .mine{font-size:13px;color:var(--red);border-top:1px dashed var(--line);padding-top:6px;margin-top:2px}
+.pairs{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.pairs .note{flex-basis:100%;border-radius:12px;background:#f6f8f1;color:var(--muted);font-family:inherit}
+.plist li.note span{color:var(--ink,#333)}
+.pairs span{font-size:12px;background:#fff;border:1px solid var(--line);border-radius:20px;padding:3px 9px}
+.note{font-size:14px;color:var(--muted);margin:0 0 10px}
+.sheet .primary+.secondary{margin-top:8px}
+/* sonuç */
+.rhead{text-align:center;flex:none}
+.rhead h2{margin:4px 0 0;font-size:24px}
+.rstats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;flex:none}
+.rstats div{background:var(--light);border-radius:14px;padding:10px 4px;text-align:center}
+.rstats strong{display:block;font-size:23px}.rstats span{font-size:11px;color:var(--muted)}
+.rlist{flex:1;min-height:0;overflow:auto;background:#fff;border:1px solid var(--line);border-radius:18px;padding:4px 12px}
+.ritem{display:flex;align-items:center;gap:10px;padding:9px 0;border-bottom:1px solid var(--line)}
+.ritem:last-child{border:0}
+.ritem div{flex:1}.ritem strong{font:800 17px "Noto Sans KR",sans-serif;display:block}.ritem small{color:var(--muted);font-size:13px}
+.empty{padding:18px 4px;color:var(--muted);text-align:center}
+.rmini{width:84px;height:98px;margin:0 auto}.rmini svg{width:100%;height:100%}
+/* açılır pencereler */
+.modal{position:absolute;inset:0;background:#1e362d66;backdrop-filter:blur(3px);display:flex;align-items:center;justify-content:center;z-index:20;padding:14px}
+.box{background:#fff;border-radius:24px;width:100%;max-height:100%;overflow:auto;padding:20px;animation:up .22s ease}
+.box h2{margin:0 0 6px;font-size:22px;letter-spacing:-.4px}
+.letter{background:var(--paper);border-left:4px solid var(--orange);border-radius:14px;padding:12px 14px;margin:10px 0;font-size:15px}
+.letter p{margin:0 0 6px}.letter .sig{text-align:right;font-weight:800;color:var(--green);margin:0}
+.how{margin:8px 0;padding-left:18px;font-size:14px;color:var(--muted)}.how li{margin:2px 0}
+.chrome{background:#fbe9df;border-radius:14px;padding:10px 12px;font-size:14px;margin:8px 0}
+.chrome a,.chrome button{display:inline-flex;align-items:center;min-height:40px;margin:6px 6px 0 0;border:0;border-radius:10px;padding:6px 12px;font-weight:800;text-decoration:none;font-size:14px}
+.chrome a{background:var(--orange);color:#fff}.chrome button{background:#fff}
+.field{display:flex;gap:8px;margin:8px 0}
+.field select{flex:1;min-width:0;min-height:46px;border:1.5px solid var(--line);border-radius:12px;padding:8px 10px;font-size:15px;background:#fff;color:inherit}
+.field input{flex:1;min-height:46px;border:1.5px solid var(--line);border-radius:12px;padding:8px 12px;font-size:16px;background:#fff}
+.choice{display:grid;gap:8px;margin:10px 0}
+.choice.c3{grid-template-columns:repeat(3,minmax(0,1fr))}.choice.c2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.pick{border:1.5px solid var(--line);border-radius:16px;background:var(--paper);padding:6px 4px 8px;display:grid;justify-items:center;gap:2px;font-size:12px;font-weight:800;line-height:1.2}
+.pick svg{width:100%;max-width:86px;height:auto;aspect-ratio:180/210}
+.pick:hover,.pick:focus-visible{border-color:var(--green);background:var(--light)}
+.lvbox{text-align:center}.lvbox .rmini{width:120px;height:140px}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}
+.set h3{margin:12px 0 6px;font-size:14px;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips .chip{min-height:40px;border:1.5px solid var(--line);border-radius:30px;background:#fff;padding:6px 12px;font-size:14px;font-weight:700}
+#rateChips .chip[aria-pressed=true],#sizeChips .chip[aria-pressed=true]{background:var(--green);border-color:var(--green);color:#fff}
+.whead{display:flex;align-items:flex-start;gap:10px;justify-content:space-between}.whead h2{flex:1}
+@media(max-height:720px){.box{padding:16px}.letter{font-size:14px;padding:10px 12px;margin:8px 0}.how{font-size:13px;margin:6px 0}.chrome{font-size:13px;padding:8px 10px}.chrome a,.chrome button{min-height:36px;margin-top:4px}.field input{min-height:42px}}
+@keyframes breathe{50%{transform:translateY(-5px) rotate(1.5deg)}}
+@keyframes hop{40%{transform:translateY(-14px) scale(.96,1.05)}75%{transform:translateY(0) scale(1.05,.95)}}
+@keyframes wob{30%{transform:rotate(-6deg)}70%{transform:rotate(6deg)}}
+@keyframes up{from{transform:translateY(24px);opacity:0}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media(max-height:640px){.app{padding-top:calc(6px + env(safe-area-inset-top))}.screen{gap:7px}.stats strong{font-size:16px}.primary,.secondary{min-height:46px}.cinfo{padding:8px 14px 10px}.qins{margin:10px 0 2px}.brand small{display:none}}
+
+.sel2{display:grid;grid-template-columns:1fr 1fr;gap:8px;flex:none}
+.sel2 select{min-height:42px;border:1.5px solid var(--line);border-radius:12px;background:#fff;padding:6px 8px;font-size:14px;font-weight:700;width:100%}
+.btn3{display:grid;grid-template-columns:1.25fr 1fr 1fr;gap:8px;flex:none}
+.btn3 .primary,.btn3 .secondary{font-size:15px;padding:8px 6px;line-height:1.15}
+.cardzone{flex:1;min-height:0;perspective:1200px;display:flex}
+.flip{position:relative;flex:1;transform-style:preserve-3d;transition:transform .45s cubic-bezier(.3,.7,.3,1);cursor:pointer;border:0;background:none;padding:0;text-align:center}
+.flip.on{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:24px;border:1px solid var(--line);background:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:18px;gap:8px;overflow:hidden}
+.face.back{transform:rotateY(180deg);background:var(--paper)}
+.face .lbl{position:absolute;top:12px;left:14px;font-size:12px;font-weight:800;color:var(--muted)}
+.face .tap{position:absolute;bottom:12px;font-size:12px;color:var(--muted)}
+.face .big{font:800 clamp(30px,10vw,48px)/1.25 "Noto Sans KR",sans-serif;letter-spacing:-1px;word-break:keep-all;margin:0}
+.face .big.long{font-size:clamp(24px,7.5vw,34px)}
+.face .mean{font-weight:800;font-size:clamp(20px,6vw,26px);color:var(--green);line-height:1.25}
+.face .bko{font:800 20px "Noto Sans KR",sans-serif;display:flex;align-items:center;gap:8px}
+.plist{list-style:none;margin:6px 0 0;padding:0;display:grid;gap:6px;width:100%;max-width:340px;text-align:left}
+.plist li{background:#fff;border:1px solid var(--line);border-radius:12px;padding:7px 10px;display:flex;gap:8px;align-items:center}
+.plist li div{flex:1}.plist b{display:block;font:700 15px "Noto Sans KR",sans-serif}.plist span{font-size:13px;color:var(--muted)}
+.kbtns{display:grid;grid-template-columns:1fr 1fr;gap:9px;flex:none}
+.kbtns button{min-height:56px;border-radius:14px;font-weight:800;font-size:16px;border:1.5px solid var(--line);background:#fff}
+.kbtns .no{color:var(--red);border-color:#efc9c2;background:#fdf3f1}.kbtns .yes{color:#fff;background:var(--green);border-color:var(--green)}
+.progbtn{flex:none;display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:12px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:9px 14px;text-align:left;min-height:52px}
+.progbtn .pt b{display:block;font-size:15px}.progbtn .pt small{font-size:12px;color:var(--muted)}
+.pbar{height:9px;border-radius:9px;background:#e6eadd;overflow:hidden}.pbar i{display:block;height:100%;background:var(--green);border-radius:9px}
+.progbtn .arr{font-size:22px;color:var(--muted)}
+.ptabs{display:flex;flex-wrap:wrap;gap:6px;flex:none}
+.ptabs button{flex:none;min-height:38px;border:1.5px solid var(--line);border-radius:30px;background:#fff;padding:4px 12px;font-size:13px;font-weight:800}
+.ptabs button[aria-pressed=true]{background:var(--green);border-color:var(--green);color:#fff}
+.legend{display:flex;gap:12px;flex:none}.legend>span{display:flex;align-items:center;gap:5px}
+.st{display:inline-block;width:10px;height:10px;border-radius:50%;flex:none}.st.ok{background:var(--green)}.st.rv{background:var(--orange)}.st.no{background:#d3d8cc}
+.plistwrap{flex:1;min-height:0;overflow:auto;display:flex;flex-direction:column;gap:8px;padding-bottom:6px}.plistwrap>*{flex:none}
+.unit{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden}
+.unit>button{width:100%;border:0;background:none;padding:10px 14px;display:grid;grid-template-columns:1fr auto;gap:4px 10px;text-align:left}
+.unit>button b{font-size:15px}.unit>button small{font-size:12px;color:var(--muted);text-align:right}
+.unit .pbar{grid-column:1/-1;height:7px}
+.unit .ws{display:none;border-top:1px solid var(--line);padding:4px 10px 8px}
+.unit.open .ws{display:block}
+.wrow{display:flex;align-items:center;gap:8px;padding:6px 2px;border-bottom:1px dashed var(--line)}
+.wrow:last-child{border:0}
+.wrow b{font:700 15px "Noto Sans KR",sans-serif;white-space:nowrap}.wrow span{flex:1;font-size:13px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.wrow small{font-size:11px;color:var(--muted);white-space:nowrap}
+.book{padding-bottom:24px}
+.story{display:grid;grid-template-columns:92px 1fr;gap:12px;align-items:center;background:var(--paper);border-radius:16px;padding:10px 12px;margin:6px 0 4px}
+.story p{margin:4px 0 0;font-size:14px;line-height:1.5}.story b{color:var(--green)}
+.smascot{width:92px;height:107px}.smascot svg{width:100%;height:100%}
+.bh{margin:14px 0 6px;font-size:15px}
+.path{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.path li{display:grid;grid-template-columns:56px 1fr;gap:10px;align-items:center;border:1.5px solid var(--line);border-radius:14px;padding:6px 10px;background:#fff}
+.path li.on{border-color:var(--green);background:#f3f6ee}.path li.now{box-shadow:0 0 0 2px var(--orange)}
+.path .lv{font-weight:800;font-size:13px;color:var(--green);text-align:center;background:var(--light);border-radius:10px;padding:6px 0}
+.path b{display:block;font-size:14px}.path small{font-size:12px;color:var(--muted)}
+.famgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.famgrid button{min-height:44px;border:1.5px solid var(--line);border-radius:14px;background:#fff;padding:4px 6px;font-size:13px;font-weight:800;line-height:1.2}
+.famgrid button[aria-pressed=true]{background:var(--green);border-color:var(--green);color:#fff}
+.rvsend{margin-left:auto;border:0;background:var(--orange);color:#fff;border-radius:12px;padding:8px 14px;font-weight:800;min-height:40px}
+.rvfil{display:flex;flex-wrap:wrap;gap:6px;flex:none}
+.rvfil button{min-height:34px;border:1.5px solid var(--line);border-radius:30px;background:#fff;padding:3px 11px;font-size:12px;font-weight:800}
+.rvfil button[aria-pressed=true]{background:var(--green);border-color:var(--green);color:#fff}
+.rvprog{flex:none}.rvprog .bar{margin:0 0 3px}.rvprog small{font-size:12px;color:var(--muted)}
+.rvcard{flex:1;min-height:0;overflow:auto;background:#fff;border:1px solid var(--line);border-radius:20px;padding:12px 14px}
+.rvhead{display:flex;align-items:center;gap:10px;margin-bottom:6px}.rvhead>div{flex:1;display:grid}
+.rvko{font:800 26px/1.2 "Noto Sans KR",sans-serif;word-break:keep-all}.rvhead small{font-size:12px;color:var(--muted)}
+.rvhead .say{margin:0}
+.rvst{font-size:12px;font-weight:800;border-radius:20px;padding:3px 9px;white-space:nowrap}
+.rvst.ok{background:#e5efdc;color:var(--green)}.rvst.edit{background:#fbe9df;color:var(--orange)}.rvst.del{background:#f8e4e0;color:var(--red)}
+.rvl{display:block;font-size:12px;font-weight:800;color:var(--muted);margin:10px 0 4px}
+.rvcard textarea,.rvcard input{width:100%;border:1.5px solid var(--line);border-radius:10px;padding:8px 10px;font:inherit;font-size:16px;background:#fff;resize:vertical}
+.rvcard textarea:focus,.rvcard input:focus{border-color:var(--green);outline:none}
+.rvpair{display:grid;grid-template-columns:1fr 40px;gap:4px 6px;margin-bottom:10px;padding-bottom:10px;border-bottom:1px dashed var(--line)}
+.rvpair input:nth-child(2){grid-column:1}.rvpair button{grid-column:2;grid-row:1/3}
+.rvpair input:first-child{font-family:"Noto Sans KR",sans-serif}
+.rvpair button{border:0;background:#f8e4e0;color:var(--red);border-radius:10px;font-weight:800}
+.rvadd{border:1.5px dashed var(--line);background:transparent;border-radius:10px;padding:8px;width:100%;font-weight:800;color:var(--green)}
+.rvacts{flex:none;display:grid;grid-template-columns:48px 1fr 1.4fr 48px;gap:8px}
+.rvacts button{min-height:52px;border-radius:14px;border:1.5px solid var(--line);background:#fff;font-weight:800;font-size:15px}
+.rvacts .ok{background:var(--green);border-color:var(--green);color:#fff}.rvacts .del{color:var(--red);border-color:#efc9c2;background:#fdf3f1}
+.rvacts button:first-child,.rvacts button:last-child{font-size:24px}
+.cgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:6px}
+.ccard{border:1.5px solid var(--line);border-radius:14px;background:var(--paper);padding:6px 4px 8px;display:grid;justify-items:center;text-align:center;gap:2px}
+.ccard svg{width:100%;max-width:92px;height:auto;aspect-ratio:180/210}
+.ccard b{font-size:12px;line-height:1.25}.ccard small{font-size:11px;color:var(--muted)}
+.ccard.lock b{color:var(--muted)}.ccard.mine{border-color:var(--green);background:#f3f6ee}
+.cgrid .sep{grid-column:1/-1;font-size:12px;font-weight:800;color:var(--muted);margin-top:6px}
+.a2hs{background:#fff;border:1.5px solid var(--line);border-radius:14px;padding:8px 12px;margin:8px 0;font-size:14px}
+.a2hs summary{font-weight:800;cursor:pointer;min-height:32px;display:flex;align-items:center}
+.a2hs ol{margin:4px 0 6px;padding-left:20px}.a2hs li{margin:2px 0}
+.a2hs .osT{margin:8px 0 0;font-weight:800;color:var(--green);font-size:13px}
+.a2hs .primary{margin-top:6px;min-height:44px;font-size:15px}
+.fb-note{background:#fbf3df;border-radius:14px;padding:10px 12px;font-size:14px;margin:10px 0 0;line-height:1.5}
+.intro{position:absolute;inset:0;z-index:40;display:flex;flex-direction:column;align-items:center;justify-content:space-between;cursor:pointer;overflow:hidden;background:#f8dfc0;padding:calc(28px + env(safe-area-inset-top)) 20px calc(24px + env(safe-area-inset-bottom));transition:opacity .6s,transform .6s}
+.intro.out{opacity:0;transform:scale(1.04);pointer-events:none}
+.iscene{position:absolute;inset:0}.iscene svg{width:100%;height:100%;display:block}
+.ihead,.imascot,.ifoot{position:relative;text-align:center}
+.ilogo{display:inline-grid;place-items:center;width:58px;height:58px;border-radius:20px 20px 20px 6px;background:var(--green);color:#fff;font:800 24px "Noto Sans KR",sans-serif;box-shadow:0 6px 0 #244a38}
+.intro h1{margin:12px 0 2px;font:800 clamp(44px,14vw,64px)/1.05 "Noto Sans KR",sans-serif;color:#263f36;letter-spacing:-2px;text-shadow:0 3px 0 #fff6e6}
+.isub{margin:0;font-weight:800;font-size:18px;color:var(--green)}
+.itag{margin:6px 0 0;font-size:13px;font-weight:800;letter-spacing:2px;color:#9a6b4c}
+.imascot{width:min(52vw,230px);aspect-ratio:180/210;margin-top:auto;margin-bottom:-6px;animation:breathe 3.5s ease-in-out infinite}
+.imascot svg{width:100%;height:100%;overflow:visible}
+.ifoot{margin-top:8px}
+.ipress{margin:0;font-weight:800;font-size:18px;color:#fff;background:#315e48cc;border-radius:30px;padding:10px 22px;animation:blink 1.6s ease-in-out infinite}
+.ipress2{margin:8px 0 0;font-size:13px;font-weight:700;color:#263f36}
+.icopy{margin:6px 0 0;font-size:11px;color:#4d5c52}
+@keyframes blink{50%{opacity:.45}}
+.links{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px;margin:10px 0 14px}
+.links:empty{display:none}
+.lk{display:flex;align-items:center;gap:10px;min-height:58px;border-radius:16px;padding:8px 12px;text-align:left;text-decoration:none;border:0;font:inherit;color:var(--ink);background:#fff;box-shadow:inset 0 0 0 1.5px var(--line)}
+.lk .ic{width:34px;height:34px;border-radius:11px;display:grid;place-items:center;flex:none}
+.lk .ic svg{width:20px;height:20px}
+.lk .tx{display:grid;line-height:1.2;min-width:0}
+.lk b{font-size:14px}.lk small{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lk.ig .ic{background:linear-gradient(45deg,#f9ce34,#ee2a7b,#6228d7);color:#fff}
+.lk.kk .ic{background:#fee500;color:#3a1d1d}
+.lk.kk small.ok{color:var(--green);font-weight:800}
+.lk.ml{grid-column:1/-1}.lk.ml .ic{background:var(--green);color:#fff}
+.note{font-size:14px}
+.nver{border-left:3px solid var(--green);padding:4px 0 4px 12px;margin:10px 0}
+.nver b{display:block}.nver small{color:var(--muted)}.nver ul{margin:4px 0 0;padding-left:18px;font-size:14px}
+#vol{flex:1;min-width:120px;accent-color:var(--green)}
+.thanks{background:var(--light);border-radius:14px;padding:10px 14px;margin:8px 0;display:grid;gap:2px;text-align:center;justify-items:center}
+.thanks small{font-size:12px;color:var(--muted);font-weight:700}
+.thanks b{color:var(--green);font-size:18px;line-height:1.3}
+.thanks span{font-size:14px}
+.thanks>small:first-child{letter-spacing:.08em;text-transform:uppercase;margin-bottom:4px}
+.thanks .crole{display:grid;justify-items:center;line-height:1.25;margin:2px 0}
+.thanks .crole em{font-style:normal;font-size:11.5px;color:var(--muted);font-weight:700}
+.thanks .crole b{font-size:16px}
+.thanks>span{margin-top:2px}
+.thanks .yt{display:inline-flex;align-items:center;gap:6px;margin-top:4px;padding:5px 12px 5px 8px;border-radius:30px;background:#fff;border:1px solid var(--line);font-size:12.5px;font-weight:700;color:var(--ink,#333);text-decoration:none}
+.thanks .yt svg{width:20px;height:20px}
+.foot{font-size:12px;color:var(--muted);text-align:center;margin-top:10px;line-height:1.6}
+.foot a,.biz a{color:var(--green);font-weight:800;word-break:break-all}
+.biz{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:10px 12px;font-size:14px;margin-top:10px}
+.biz button{border:1.5px solid var(--line);background:#fff;border-radius:10px;padding:4px 10px;font-size:13px;font-weight:700;margin-left:6px}
+.brand-icon.logo-seed{background:var(--green);padding:3px}
+.ilogo.logo-seed{background:var(--green);box-shadow:0 6px 0 #244a38;padding:7px;width:72px;height:72px}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-spk" viewBox="0 0 24 24"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></symbol>
+ <symbol id="i-set" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h4M12 17h8" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="16" cy="7" r="2.4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="10" cy="17" r="2.4" fill="none" stroke="currentColor" stroke-width="2"/></symbol>
+ <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+ <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M12 7c-1.5-1.6-4-1-4 1 0 2 4 4 4 4s4-2 4-4c0-2-2.5-2.6-4-1z" fill="currentColor"/></symbol>
+ <symbol id="i-ig" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.3" cy="6.7" r="1.3" fill="currentColor"/></symbol>
+ <symbol id="i-kk" viewBox="0 0 24 24"><path d="M12 4C6.8 4 3 7.2 3 11c0 2.4 1.6 4.5 4 5.7l-.9 3.3 3.8-2.5c.7.1 1.4.2 2.1.2 5.2 0 9-3.2 9-7.1S17.2 4 12 4z" fill="currentColor"/></symbol>
+ <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+</svg>
+
+<div class="app" id="app">
+ <div class="intro" id="intro" role="button" tabindex="0" aria-label="Başla">
+  <div class="iscene" id="iScene" aria-hidden="true"></div>
+  <div class="ihead"><span class="ilogo logo-seed" aria-hidden="true"></span><h1>덩어리숲</h1><p class="isub">Koreya Dili Söz Meşəsi</p><p class="itag">A1–B2 · TOPIK · 漢字</p></div>
+  <div class="imascot" id="iMascot" aria-hidden="true"></div>
+  <div class="ifoot"><p class="ipress" id="iPress">Başlamaq üçün ekrana toxun</p><p class="ipress2" id="iPress2">시작하려면 화면을 누르세요</p><p class="icopy">© 2026 Wonju (원주)</p></div>
+ </div>
+ <section class="screen" id="home">
+  <div class="top">
+   <div class="brand"><span class="brand-icon logo-seed" aria-hidden="true"></span><div><b>덩어리숲</b><small data-t="sub"></small></div></div>
+   <div class="lang"><button data-lang="az">AZ</button><button data-lang="ko">한</button></div>
+   <button class="icon" id="bBook" data-al="codex"><svg><use href="#i-book"/></svg></button>
+   <button class="icon" id="bMsg" data-al="msg"><svg><use href="#i-mail"/></svg></button>
+   <button class="icon" id="bSet" data-al="settings"><svg><use href="#i-set"/></svg></button>
+  </div>
+  <div class="companion">
+   <div class="habitat"><div class="scene" id="scene" aria-hidden="true"></div><div class="mascot" id="mascot"></div></div>
+   <div class="cinfo">
+    <div class="crow"><span class="cname" id="cName"></span><span class="tag" id="cLv"></span></div>
+    <div class="bar"><i id="xpBar"></i></div>
+    <div class="crow tiny"><span id="cGrowth"></span><span id="xpText"></span></div>
+   </div>
+  </div>
+  <button class="progbtn" id="bProg"><span class="pt"><b data-t="myProg"></b><small id="progSmall"></small></span><span class="pbar"><i id="progBar"></i></span><span class="arr">›</span></button>
+  <div class="sel2"><select id="selLv" data-al="level"></select><select id="selUnit" data-al="unit"></select></div>
+  <div class="btn3"><button class="primary" id="bStart"></button><button class="secondary" id="bCards"></button><button class="secondary" id="bReview"></button></div>
+ </section>
+
+ <section class="screen" id="game" hidden>
+  <div class="gtop"><button class="icon" id="bQuit" data-al="quit"><svg><use href="#i-x"/></svg></button><span class="count" id="gCount"></span><span class="xp" id="gXp"></span></div>
+  <div class="lines">
+   <div class="line"><i id="gProg"></i></div>
+   <div class="line timer" id="tLine"><i id="gTimer"></i></div>
+   <div class="trow"><span id="gMode"></span><span id="gTime"></span></div>
+  </div>
+  <div class="qcard">
+   <span class="qkind" id="qKind"></span><div class="qmini" id="qMini"></div>
+   <p class="qins" id="qIns"></p><h1 class="qword ko" id="qWord" lang="ko"></h1>
+   <button class="say" id="qSay" data-al="listen"><svg><use href="#i-spk"/></svg></button>
+  </div>
+  <div class="answers" id="answers"></div>
+  <p class="tiny hint" data-t="hint"></p>
+  <div class="sheet-wrap" id="fb" hidden><div class="sheet" role="dialog" aria-modal="true">
+   <div class="ficon" id="fIcon">✓</div><h2 id="fTitle"></h2><div class="reward" id="fReward"></div>
+   <div class="acard">
+    <div class="w ko"><span id="fWord"></span><button class="say sm" id="fSay" data-al="listen"><svg><use href="#i-spk"/></svg></button></div>
+    <div class="m" id="fMean"></div><div class="pairs ko" id="fPairs"></div><div class="mine" id="fMine" hidden></div>
+   </div>
+   <p class="note" id="fNote"></p>
+   <button class="primary" id="fNext"></button><button class="secondary" id="fSkip" hidden></button>
+  </div></div>
+ </section>
+
+ <section class="screen" id="cards" hidden>
+  <div class="gtop"><button class="icon" id="cQuit" data-al="quit"><svg><use href="#i-x"/></svg></button><span class="count" id="cCount"></span><span class="xp" id="cKnown"></span></div>
+  <div class="lines"><div class="line"><i id="cProg"></i></div></div>
+  <div class="cardzone">
+   <button class="flip" id="flip" aria-live="polite">
+    <div class="face front"><span class="lbl" id="cUnit"></span><p class="big ko" id="cFront" lang="ko"></p><span class="tap" data-t="tapFlip"></span></div>
+    <div class="face back"><div class="bko ko" id="cBackKo"></div><div class="mean" id="cBackTr"></div><ul class="plist" id="cPairs"></ul><span class="tap" data-t="tapBack"></span></div>
+   </button>
+  </div>
+  <div class="kbtns"><button class="no" id="kNo"></button><button class="yes" id="kYes"></button></div>
+  <p class="tiny hint" data-t="cardHint"></p>
+ </section>
+
+ <section class="screen" id="prog" hidden>
+  <div class="gtop"><button class="icon" id="pQuit" data-al="quit"><svg><use href="#i-x"/></svg></button><span class="count" data-t="myProg"></span><span class="xp" id="pTotal"></span></div>
+  <div class="ptabs" id="pTabs"></div>
+  <div class="legend tiny"><span><i class="st ok"></i><span data-t="stLearned"></span></span><span><i class="st rv"></i><span data-t="stReview"></span></span><span><i class="st no"></i><span data-t="stNew"></span></span></div>
+  <div class="plistwrap" id="pList"></div>
+ </section>
+
+ <section class="screen" id="review" hidden>
+  <div class="gtop"><button class="icon" id="rvQuit" data-al="quit"><svg><use href="#i-x"/></svg></button><span class="count" data-t="rvTitle"></span><button class="rvsend" id="rvSend" data-t="rvSend"></button></div>
+  <div class="sel2"><select id="rvLv"></select><select id="rvUnit"></select></div>
+  <div class="rvfil" id="rvFil"></div>
+  <div class="rvprog"><div class="bar"><i id="rvBar"></i></div><small id="rvStat"></small></div>
+  <div class="rvcard" id="rvCard">
+   <div class="rvhead"><div><span class="rvko ko" id="rvKo"></span><small id="rvWhere"></small></div><button class="say" id="rvSay" data-al="listen"><svg><use href="#i-spk"/></svg></button><span class="rvst" id="rvSt"></span></div>
+   <label class="rvl" for="rvTr" data-t="rvMean"></label>
+   <textarea id="rvTr" rows="2"></textarea>
+   <label class="rvl" data-t="rvPairs"></label>
+   <div id="rvPairs"></div>
+   <button class="rvadd" id="rvAdd" data-t="rvAdd"></button>
+   <label class="rvl" for="rvNote" data-t="rvNote"></label>
+   <textarea id="rvNote" rows="2" data-ph="rvNotePh"></textarea>
+   <p class="tiny" id="rvEmpty" hidden data-t="rvEmpty"></p>
+  </div>
+  <div class="rvacts"><button id="rvPrev" aria-label="‹">‹</button><button class="del" id="rvDel"></button><button class="ok" id="rvOk"></button><button id="rvNext" aria-label="›">›</button></div>
+ </section>
+
+ <section class="screen" id="result" hidden>
+  <div class="rhead"><div class="rmini" id="rMini"></div><h2 id="rTitle"></h2><p class="tiny" id="rSub" style="margin:2px 0 0"></p></div>
+  <div class="rstats">
+   <div><strong id="rCorrect"></strong><span id="rL1"></span></div>
+   <div><strong id="rXp"></strong><span data-t="nutrient"></span></div>
+   <div><strong id="rStreak"></strong><span id="rL3"></span></div>
+  </div>
+  <p class="tiny" style="margin:0;font-weight:800" data-t="mistakes"></p>
+  <div class="rlist" id="rList"></div>
+  <div class="btns"><button class="primary" id="rHome"></button><button class="secondary" id="rRetry"></button></div>
+ </section>
+
+ <div class="modal" id="mWel" hidden><div class="box">
+  <div class="whead"><h2 data-t="welTitle"></h2><div class="lang"><button data-lang="az">AZ</button><button data-lang="ko">한</button></div></div>
+  <div class="letter"><p data-t="letter"></p><p class="sig" data-t="sig"></p></div>
+  <div class="thanks"><small data-t="thanksPre"></small><div class="crole"><em data-t="roleMake"></em><b>Wonju Kim</b></div><div class="crole"><em data-t="roleCheck"></em><b>Aslıhan Erdoğan</b><a class="yt" id="asliYt" target="_blank" rel="noopener" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="1" y="4" width="22" height="16" rx="5" fill="#ff0033"/><path d="M10 8.5v7l6-3.5z" fill="#fff"/></svg><span>YouTube · @gumguri_korean</span></a></div><span data-t="thanksPost"></span></div>
+  <ul class="how"><li data-t="how1"></li><li data-t="how2"></li><li data-t="how3"></li></ul>
+  <div class="field"><input id="nameIn" maxlength="14" data-ph="namePh"></div>
+  <details class="a2hs" id="a2hs"><summary data-t="a2hsT"></summary>
+   <button class="primary" id="bInstall" hidden data-t="installBtn"></button>
+   <p class="osT">Android · Chrome</p><ol><li data-t="and1"></li><li data-t="and2"></li><li data-t="and3"></li></ol>
+   <p class="osT">iPhone · Safari</p><ol><li data-t="ios1"></li><li data-t="ios2"></li><li data-t="ios3"></li></ol>
+  </details>
+  <a id="openChrome" href="#" hidden></a>
+  <p class="fb-note" data-t="feedback"></p>
+  <div class="links" id="linksW"></div>
+  <button class="primary" id="bWel" data-t="start"></button>
+  <p class="foot"><span class="copy"></span></p>
+ </div></div>
+
+ <div class="modal" id="mLv" hidden><div class="box lvbox"><h2 id="lvTitle"></h2><p class="tiny" id="lvSub" style="margin:0"></p><div id="lvBody"></div></div></div>
+
+ <div class="modal" id="mBook" hidden><div class="box book">
+  <div class="whead"><h2 data-t="codex"></h2><button class="icon" id="bBookX" data-al="quit"><svg><use href="#i-x"/></svg></button></div>
+  <div class="story"><div class="smascot" id="bkMascot"></div><div><b data-t="storyTitle"></b><p data-t="story1"></p><p data-t="story2"></p></div></div>
+  <h3 class="bh" data-t="pathH"></h3>
+  <ol class="path" id="bkPath"></ol>
+  <h3 class="bh" data-t="famH"></h3>
+  <div class="famgrid" id="bkFam"></div>
+  <p class="tiny" id="bkFamTxt"></p>
+  <div class="cgrid" id="bkGrid"></div>
+ </div></div>
+
+ <div class="modal" id="mRvx" hidden><div class="box">
+  <h2 data-t="rvxTitle"></h2>
+  <p class="tiny" id="rvxStat" style="font-size:14px"></p>
+  <p style="font-size:14px;margin:6px 0 10px" data-t="rvxHow"></p>
+  <button class="primary" id="rvxShare" data-t="rvxShare"></button>
+  <button class="secondary" id="rvxDown" style="margin-top:8px" data-t="rvxDown"></button>
+  <button class="secondary" id="rvxCsv" style="margin-top:8px" data-t="rvxCsv"></button>
+  <button class="secondary" id="rvxClose" style="margin-top:8px" data-t="ok"></button>
+ </div></div>
+
+ <div class="modal" id="mNotes" hidden><div class="box">
+  <h2 data-t="notesH"></h2>
+  <p class="fb-note" data-t="feedback"></p>
+  <div class="links" id="linksN"></div>
+  <div id="notesBody"></div>
+  <button class="primary" id="bNotesOk" style="margin-top:12px" data-t="ok"></button>
+ </div></div>
+
+ <div class="modal" id="mSet" hidden><div class="box set">
+  <h2 data-t="settings"></h2>
+  <h3 data-t="lang"></h3><div class="lang" style="width:max-content"><button data-lang="az">Azərbaycanca</button><button data-lang="ko">한국어</button></div>
+  <h3 data-t="roundSize"></h3><div class="chips" id="sizeChips"></div>
+  <h3 data-t="timeLimit"></h3><div class="chips"><button class="chip" id="bTimer"></button></div>
+  <h3 data-t="sound"></h3><div class="chips"><button class="chip" id="bAuto"></button><button class="chip" id="bTest" data-t="test"></button></div>
+  <h3 data-t="voiceH"></h3><div class="field"><select id="voiceSel" aria-label="voice"></select></div>
+  <h3 data-t="speedH"></h3><div class="chips" id="rateChips"></div>
+  <h3 data-t="music"></h3><div class="chips"><button class="chip" id="bMusic"></button><input type="range" id="vol" min="0" max="100" aria-label="volume"></div>
+  <h3 data-t="look"></h3><div class="chips"><button class="chip" id="bStache"></button></div>
+  <h3 data-t="notesH"></h3><div class="chips"><button class="chip" id="bNotes" data-t="notesBtn"></button></div>
+  <h3 data-t="rvH"></h3><div class="chips"><button class="chip" id="bReview2" data-t="rvOpen"></button></div>
+  <h3 data-t="name"></h3><div class="field"><input id="nameSet" maxlength="14"></div>
+  <div class="biz" id="bizBox"><b data-t="bizTitle"></b><br><span data-t="bizText"></span><div class="links" id="links"></div></div>
+  <button class="secondary" id="bReset" style="margin-top:10px"></button>
+  <button class="primary" id="bSetOk" style="margin-top:8px" data-t="ok"></button>
+  <p class="foot"><span class="copy"></span><br><span data-t="credit"></span></p>
+ </div></div>
+</div>
+
+<script src="config.js?v=1"></script>
+<script src="char.js?v=1"></script>
+<script src="data/a12.js?v=1"></script>
+<script src="data/b11.js?v=1"></script>
+<script src="data/b12.js?v=1"></script>
+<script src="data/b21.js?v=1"></script>
+<script src="data/b22.js?v=1"></script>
+<script src="data/topik1.js?v=1"></script>
+<script src="data/topik2.js?v=1"></script>
+<script src="data/hanja.js?v=1"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>
