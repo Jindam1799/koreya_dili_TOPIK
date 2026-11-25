@@ -1,4 +1,4 @@
-/* B2.1 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
+/* B2.1 · Mənbə (türkcə əsli): Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
 (window.LEVELS=window.LEVELS||[]).push({id:'B2.1',name:'B2.1',text:`
 #1 · 버킷 리스트 (arzular siyahısı)
 세계 일주|dünya səyahəti|세계 일주를 하다=dünyanı dolaşmaq;배로 세계 일주=gəmi ilə dünya səyahəti

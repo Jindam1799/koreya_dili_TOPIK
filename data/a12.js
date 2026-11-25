@@ -1,6 +1,6 @@
-/* A1–A2 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju
+/* A1–A2 · Mənbə (türkcə əsli): Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju
  * Sətir formatı:  söz | azərbaycanca məna | birləşmə=məna ; birləşmə=məna
- * "#" ile başlayan satır yeni bir bölüm (단원) başlatır.
+ * "#" ilə başlayan sətir yeni bölmə (단원) açır.
  */
 (window.LEVELS=window.LEVELS||[]).push({id:'A1-A2',name:'A1–A2',text:`
 #사람과 직업 (insanlar və peşələr)

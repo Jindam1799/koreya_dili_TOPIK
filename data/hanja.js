@@ -1,4 +1,4 @@
-/* 한자 · Hanca · Kaynak: Aslıhan Erdoğan (Asl_HANCA) · Örnek kelimeler = 짝꿍어휘 */
+/* 한자 · Hanca · Mənbə (türkcə əsli): Aslıhan Erdoğan (Asl_HANCA) · Nümunə sözlər = 짝꿍어휘 */
 (window.LEVELS=window.LEVELS||[]).push({id:'HANJA',name:'Hanca (漢字)',nameKo:'한자 (漢字)',hanja:true,text:`
 #1 · 日–讀
 日 (일)|gün / günəş (날, 해)|일기=gündəlik;일출=gündoğumu;생일=ad günü

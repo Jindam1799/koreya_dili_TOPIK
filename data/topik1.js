@@ -1,5 +1,5 @@
-/* TOPIK Ⅰ kelimeleri (1671). Anlamların bir kısmı Aslı'nın kontrol ettiği seviyelerden alınmıştır.
-   tools/build_topik1.py ile üretilir — elle düzenlemeyin. */
+/* TOPIK Ⅰ sözləri (1671). Azərbaycanca tərcümə: tools/az/topik1.txt + tools/az_apply.py.
+   Bu faylı build_topik1.py ilə yenidən yaratmayın — tərcümə silinər. */
 (window.LEVELS=window.LEVELS||[]).push({id:'TOPIK1',name:'TOPIK Ⅰ',nameKo:'TOPIK Ⅰ',text:`
 #인사와 대답 (salamlaşma və cavablar)
 감사|təşəkkür, minnətdarlıq|감사 인사=təşəkkür;감사의 마음=minnətdarlıq hissi

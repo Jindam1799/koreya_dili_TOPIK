@@ -1,4 +1,4 @@
-/* B2.2 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
+/* B2.2 · Mənbə (türkcə əsli): Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
 (window.LEVELS=window.LEVELS||[]).push({id:'B2.2',name:'B2.2',text:`
 #1 · 성격 (xasiyyət)
 외향적이다|ekstravert olmaq|외향적인 성격=açıq xasiyyət;외향적인 사람=ünsiyyətcil adam

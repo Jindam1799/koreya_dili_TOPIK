@@ -1,4 +1,4 @@
-/* B1.1 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
+/* B1.1 · Mənbə (türkcə əsli): Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
 (window.LEVELS=window.LEVELS||[]).push({id:'B1.1',name:'B1.1',text:`
 #1 · 안부 인사 (hal-əhval)
 오랜만이야|çoxdandır görünmürsən (səmimi)|정말 오랜만이야=həqiqətən çoxdandır görüşmürük;오랜만에 만나다=uzun aradan sonra görüşmək

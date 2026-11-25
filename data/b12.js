@@ -1,4 +1,4 @@
-/* B1.2 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
+/* B1.2 · Mənbə (türkcə əsli): Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
 (window.LEVELS=window.LEVELS||[]).push({id:'B1.2',name:'B1.2',text:`
 #1 · 방학 활동 (tətil fəaliyyətləri)
 봉사 활동을 하다|könüllü fəaliyyət göstərmək|양로원에서 봉사 활동을 하다=qocalar evində könüllü işləmək;봉사 활동 시간=könüllülük saatları

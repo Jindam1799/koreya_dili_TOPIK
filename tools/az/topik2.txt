@@ -1518,3 +1518,1172 @@
 취향|zövq|취향이 비슷하다=zövqləri oxşar olmaq;취향에 맞다=zövqünə uyğun olmaq
 앞뒤를 가리다|ölçüb-biçmək|앞뒤를 가리지 않다=ölçüb-biçmədən;앞뒤를 가려서 행동하다=ölçüb-biçərək hərəkət etmək|məntiqli şəkildə qiymətləndirmək
 발걸음을 맞추다|ayaqlaşmaq|친구와 발걸음을 맞추다=dostu ilə ayaqlaşmaq;시대와 발걸음을 맞추다=zamanla ayaqlaşmaq|birgə hərəkət etmək mənasında uyğunlaşmaq
+발을 빼다|əlini çəkmək, geri çəkilmək|사업에서 발을 빼다=biznesdən əl çəkmək;슬그머니 발을 빼다=sakitcə aradan çıxmaq
+앞뒤를 재다|ölçüb-biçmək|앞뒤를 재지 않다=heç ölçüb-biçməmək;너무 앞뒤를 재다=həddən çox götür-qoy etmək|diqqətlə qiymətləndirmək
+다급하다|təlaşlı olmaq|다급한 목소리=təlaşlı səs;상황이 다급하다=vəziyyət təcilidir|təcili və narahat vəziyyətdə olmaq
+응급실|təcili yardım şöbəsi|응급실에 가다=təcili yardım şöbəsinə getmək;응급실에 실려 가다=təcili yardıma aparılmaq
+허둥지둥|təlaşla, çaşqınlıqla|허둥지둥 뛰어가다=təlaşla qaçmaq;허둥지둥 준비하다=tələsik hazırlaşmaq
+이마|alın|이마에 땀이 나다=alnı tərləmək;이마를 찡그리다=alnını qırışdırmaq
+퉁명스럽다|kobud, kəskin (danışıq)|퉁명스러운 대답=kobud cavab;퉁명스럽게 말하다=kəskin danışmaq
+아파하다|əzab çəkmək, üzülmək|친구의 슬픔을 아파하다=dostunun dərdinə şərik olmaq;몹시 아파하다=çox əzab çəkmək|başqasının dərdini hiss edib üzülmək
+살피다|diqqətlə baxmaq, nəzər salmaq|주위를 살피다=ətrafa göz gəzdirmək;눈치를 살피다=kiminsə əhvalını güdmək|diqqətlə baxmaq, müşahidə etmək, yoxlamaq
+홧김|hirs anı|홧김에 말하다=hirslə demək;홧김에 저지르다=hirsdən etmək
+허전하다|boşluq hiss etmək|마음이 허전하다=ürəyində boşluq hiss etmək;친구가 떠나서 허전하다=dost gedəndən sonra boşluq hiss etmək
+후회하다|peşman olmaq|선택을 후회하다=seçimindən peşman olmaq;후회하지 않다=peşman olmamaq
+기지개|gərnəşmə|기지개를 켜다=gərnəşmək;아침에 기지개를 켜다=səhər gərnəşmək|xüsusən uzun müddət hərəkətsizlikdən sonra
+욕구|istək, tələbat|욕구를 채우다=istəyini ödəmək;기본 욕구=əsas tələbat
+살아나다|canlanmaq|경기가 살아나다=iqtisadiyyat canlanmaq;불씨가 살아나다=köz yenidən alovlanmaq
+호응|rəğbət, dəstək|호응을 얻다=rəğbət qazanmaq;관객의 호응=tamaşaçıların dəstəyi
+체증|tıxac|교통 체증=nəqliyyat tıxacı;체증이 심하다=tıxac ağır olmaq|adətən yol hərəkəti üçün
+고속도로|avtomagistral|고속도로를 달리다=magistralla getmək;고속도로 휴게소=magistral boyu istirahət yeri
+공사|tikinti işləri|도로 공사=yol təmiri;공사 중=təmir gedir
+혼잡|sıxlıq, izdiham|혼잡한 시간=pik saatlar;교통이 혼잡하다=yollar sıx olmaq
+확장하다|genişləndirmək|도로를 확장하다=yolu genişləndirmək;사업을 확장하다=biznesi genişləndirmək
+몸살 앓다|yorğunluqdan xəstələnmək|감기 몸살을 앓다=soyuqdəymədən yatağa düşmək;며칠 몸살을 앓다=bir neçə gün halsız yatmaq|həddən artıq yorğunluq və ya gərginlikdən əzab çəkmək
+시청률|reytinq (tamaşaçı)|시청률이 높다=reytinqi yüksək olmaq;시청률 1위=reytinqdə birinci
+익숙하다|öyrəşmiş, tanış|생활에 익숙하다=həyata öyrəşmək;익숙한 얼굴=tanış sifət
+톡톡하다|nəzərəçarpan, tutarlı|효과가 톡톡하다=təsiri nəzərəçarpan olmaq;역할을 톡톡히 하다=rolunu layiqincə oynamaq|həmçinin yüngül döymə səsinin təqlidi
+손톱|dırnaq|손톱을 깎다=dırnaq tutmaq;손톱이 길다=dırnaqları uzun olmaq
+세포|hüceyrə|세포 분열=hüceyrə bölünməsi;뇌세포=beyin hüceyrəsi
+자판|klaviatura|자판을 두드리다=klaviaturada yazmaq;자판기=avtomat (satış)
+명절|bayram|명절을 쇠다=bayram keçirmək;명절 음식=bayram yeməkləri
+나물|göyərti yeməyi|나물을 무치다=göyərtini ədviyyatla qarışdırmaq;봄나물=yaz göyərtiləri|xüsusən pörtlədilib ədviyyatlanmış göyərti
+뿌리채소|kök tərəvəzlər|뿌리채소를 먹다=kök tərəvəzlər yemək;뿌리채소 요리=kök tərəvəz yeməyi
+줄기채소|gövdə tərəvəzlər|줄기채소의 종류=gövdə tərəvəz növləri;줄기채소를 볶다=gövdə tərəvəzləri qovurmaq
+기본|əsas|기본을 지키다=əsas qaydalara əməl etmək;기본 요금=əsas tarif
+조상|əcdad|조상을 모시다=əcdadlara ehtiram göstərmək;조상 대대로=babadan-babaya
+자손|nəsil, övladlar|자손을 남기다=nəsil qoymaq;자손 대대로=nəsildən-nəslə
+후손|nəsil, xələflər|후손에게 물려주다=gələcək nəslə ötürmək;왕의 후손=şahın nəslindən olan
+장만|hazırlama, alma|명절 음식 장만=bayram yeməklərinin hazırlanması;집 장만=ev sahibi olma
+화합|birlik, həmrəylik|가족의 화합=ailə birliyi;화합을 이루다=həmrəylik yaratmaq
+전자레인지|mikrodalğalı soba|전자레인지에 데우다=mikrodalğalı sobada qızdırmaq;전자레인지용 그릇=mikrodalğalı soba üçün qab
+열|istilik / qızdırma|열이 나다=qızdırması qalxmaq;열을 가하다=qızdırmaq
+가하다|tətbiq etmək|압력을 가하다=təzyiq göstərmək;힘을 가하다=güc tətbiq etmək|xüsusən güc, təsir, istilik
+물 분자|su molekulu|물 분자가 진동하다=su molekulları titrəmək;물 분자의 구조=su molekulunun quruluşu
+커지다|böyümək|소리가 커지다=səs ucalmaq;규모가 커지다=miqyas böyümək
+반사하다|əks etdirmək|빛을 반사하다=işığı əks etdirmək;거울이 반사하다=güzgü əks etdirmək
+의도|niyyət, məqsəd|의도를 파악하다=niyyətini anlamaq;의도적으로=qəsdən
+몸집|bədən quruluşu, həcm|몸집이 크다=iri cüssəli olmaq;몸집을 키우다=böyümək (şirkət)|bədən ölçüsü; şirkətin həcmi mənasında da
+절차|prosedur|절차를 밟다=prosedurdan keçmək;복잡한 절차=mürəkkəb prosedur
+결재|təsdiq (rəsmi sənəd)|결재를 받다=təsdiq almaq;결재를 올리다=təsdiqə təqdim etmək
+의사|niyyət, iradə|의사를 밝히다=niyyətini bildirmək;의사 결정=qərar qəbulu
+계열사|törəmə şirkət|계열사를 늘리다=törəmə şirkətləri artırmaq;대기업 계열사=holdinqin törəmə şirkəti
+독립적|müstəqil|독립적인 생활=müstəqil həyat;독립적으로 운영하다=müstəqil idarə etmək
+넘기다|çevirmək / ötürmək|책장을 넘기다=səhifəni çevirmək;일을 넘기다=işi ötürmək
+신속히|tez, cəld|신속히 처리하다=tez həll etmək;신속히 대응하다=cəld reaksiya vermək
+공유하다|paylaşmaq|정보를 공유하다=məlumat paylaşmaq;사진을 공유하다=şəkil paylaşmaq
+단순화하다|sadələşdirmək|절차를 단순화하다=proseduru sadələşdirmək;구조를 단순화하다=quruluşu sadələşdirmək
+섞다|qarışdırmaq|물감을 섞다=boyaları qarışdırmaq;잘 섞다=yaxşıca qarışdırmaq
+덧칠하다|üstündən boyamaq|색을 덧칠하다=üstündən rəng çəkmək;여러 번 덧칠하다=bir neçə qat boyamaq
+탁하다|bulanıq, tutqun|물이 탁하다=su bulanıq olmaq;목소리가 탁하다=səsi boğuq olmaq
+점묘법|puantilizm (nöqtə texnikası)|점묘법으로 그리다=nöqtə texnikası ilə çəkmək;점묘법 화가=puantilist rəssam
+촘촘히|sıx-sıx|촘촘히 짜다=sıx toxumaq;촘촘히 심다=sıx əkmək
+회화|rəngkarlıq|서양 회화=Qərb rəngkarlığı;회화 작품=rəngkarlıq əsəri
+외면을 받다|diqqətdən kənarda qalmaq|관객에게 외면을 받다=tamaşaçının marağını çəkməmək;시장에서 외면을 받다=bazarda rəğbət görməmək
+생물|canlı, orqanizm|해양 생물=dəniz canlıları;생물 다양성=bioloji müxtəliflik
+반점|ləkə, xal|붉은 반점=qırmızı xal;반점이 생기다=ləkə əmələ gəlmək
+장비|avadanlıq|장비를 갖추다=avadanlıqla təchiz olunmaq;등산 장비=alpinist avadanlığı
+판별하다|ayırd etmək, müəyyənləşdirmək|진위를 판별하다=əsl olub-olmadığını ayırd etmək;성별을 판별하다=cinsini müəyyənləşdirmək
+의약품|dərman vasitələri|의약품을 판매하다=dərman satmaq;의약품 안전=dərman təhlükəsizliyi
+처방하다|resept yazmaq|약을 처방하다=dərman yazmaq;의사가 처방하다=həkim resept yazmaq
+이력|keçmiş, tarixçə|이력을 쌓다=təcrübə toplamaq;진료 이력=müalicə tarixçəsi
+점검하다|yoxlamaq|안전을 점검하다=təhlükəsizliyi yoxlamaq;차량을 점검하다=maşını texniki baxışdan keçirmək
+증진|yaxşılaşdırma, artırma|건강 증진=sağlamlığın möhkəmləndirilməsi;복지 증진=rifahın artırılması
+실상|real vəziyyət|실상을 알리다=real vəziyyəti açıqlamaq;실상은 다르다=əslində fərqlidir
+절대적|mütləq|절대적인 기준=mütləq meyar;절대적으로 필요하다=mütləq lazımdır
+근거하다|əsaslanmaq|사실에 근거하다=faktlara əsaslanmaq;자료에 근거하다=məlumatlara əsaslanmaq
+물가|qiymətlər|물가가 오르다=qiymətlər qalxmaq;물가 상승=inflyasiya
+하락하다|düşmək, enmək|가격이 하락하다=qiymət düşmək;주가가 하락하다=səhmlərin qiyməti enmək
+수치|rəqəm, göstərici|수치가 높다=göstərici yüksək olmaq;구체적인 수치=konkret rəqəm
+무의미하다|mənasız olmaq|무의미한 논쟁=mənasız mübahisə;무의미하게 보내다=boş-boşuna keçirmək
+해석하다|şərh etmək, tərcümə etmək|문장을 해석하다=cümləni tərcümə etmək;자료를 해석하다=məlumatı şərh etmək
+철새|köçəri quş|철새가 날아오다=köçəri quşlar gəlmək;철새 도래지=köçəri quşların qışlaq yeri
+종|növ|다양한 종=müxtəlif növlər;멸종 위기 종=nəsli kəsilmək təhlükəsində olan növ
+수만|on minlərlə|수만 명=on minlərlə adam;수만 마리=on minlərlə heyvan
+수십만|yüz minlərlə|수십만 원=yüz minlərlə von;수십만 명이 모이다=yüz minlərlə adam toplaşmaq
+무리|dəstə, sürü|무리를 짓다=dəstə yaratmaq;새 무리=quş dəstəsi
+선두|ön sıra, liderlik|선두에 서다=ön sırada durmaq;선두를 달리다=liderliyi saxlamaq
+항로|uçuş marşrutu|항로를 바꾸다=marşrutu dəyişmək;비행 항로=uçuş marşrutu
+두루|hərtərəfli, geniş|두루 살피다=hərtərəfli araşdırmaq;두루 사용되다=geniş istifadə olunmaq
+위기 상황|böhran vəziyyəti|위기 상황에 대처하다=böhran vəziyyətinin öhdəsindən gəlmək;위기 상황을 극복하다=böhranı aşmaq
+신속하다|cəld, sürətli|신속한 대응=cəld reaksiya;처리가 신속하다=icra tez olmaq
+거친|sərt, kobud|거친 파도=sərt dalğalar;거친 말=kobud söz
+경제적 여유|maddi imkan|경제적 여유가 없다=maddi imkanı olmamaq;경제적 여유가 생기다=maddi rahatlıq yaranmaq
+무료함|darıxma, cansıxıcılıq|무료함을 달래다=darıxmağı dağıtmaq;무료함을 느끼다=darıxmaq
+사소하다|xırda, əhəmiyyətsiz|사소한 일=xırda iş;사소한 실수=kiçik səhv
+저해하다|mane olmaq|성장을 저해하다=inkişafa mane olmaq;발전을 저해하다=tərəqqini ləngitmək
+명예|şərəf, nüfuz|명예를 지키다=şərəfini qorumaq;명예 시민=fəxri vətəndaş
+남부럽다|başqalarının həsəd aparacağı|남부럽지 않게 살다=heç kimə möhtac olmadan firavan yaşamaq;남부러울 것 없다=heç kimə həsəd aparmamaq
+심하다|ağır, şiddətli olmaq|통증이 심하다=ağrı şiddətli olmaq;장난이 심하다=zarafat həddini aşmaq
+발전하다|inkişaf etmək, çevrilmək|기술이 발전하다=texnologiya inkişaf etmək;관계로 발전하다=münasibətə çevrilmək
+간과하다|diqqətdən qaçırmaq|문제를 간과하다=problemi diqqətdən qaçırmaq;간과해서는 안 된다=diqqətdən kənarda qalmamalıdır
+빠지다|düşmək, qapılmaq, çatışmamaq|물에 빠지다=suya düşmək;사랑에 빠지다=aşiq olmaq|içinə düşmək, qapılmaq; əskik olmaq, çıxmaq
+여기다|saymaq, hesab etmək|소중하게 여기다=əziz saymaq;가족처럼 여기다=ailə üzvü kimi görmək
+진심|səmimiyyət|진심을 전하다=səmimiyyətini çatdırmaq;진심으로 감사하다=ürəkdən təşəkkür etmək
+건성으로|başdansovdu|건성으로 대답하다=başdansovdu cavab vermək;건성으로 듣다=yarımçıq qulaq asmaq
+선하다|xeyirxah olmaq|선한 마음=xeyirxah ürək;선한 영향력=müsbət təsir
+강조하다|vurğulamaq|중요성을 강조하다=əhəmiyyətini vurğulamaq;여러 번 강조하다=dəfələrlə vurğulamaq
+행위|hərəkət, əməl|불법 행위=qanunsuz əməl;선한 행위=xeyirxah əməl
+회피하다|yayınmaq|책임을 회피하다=məsuliyyətdən yayınmaq;질문을 회피하다=sualdan yayınmaq
+악하다|pis, şər olmaq|악한 마음=pis niyyət;악한 사람=pis adam
+용서|bağışlama|용서를 구하다=bağışlanma diləmək;용서를 받다=bağışlanmaq
+악의적|bədniyyətli|악의적인 댓글=bədniyyətli şərh;악의적으로 이용하다=pis niyyətlə istifadə etmək
+농도|qatılıq, konsentrasiya|미세먼지 농도=narın toz konsentrasiyası;농도가 짙다=qatılığı yüksək olmaq
+짙다|qatı, tünd|안개가 짙다=duman qatı olmaq;짙은 색=tünd rəng
+입자|hissəcik|작은 입자=kiçik hissəcik;미세 입자=narın hissəcik
+악취|pis qoxu|악취가 나다=pis qoxu gəlmək;악취를 없애다=pis qoxunu aradan qaldırmaq
+착안하다|ideya götürmək|자연에서 착안하다=təbiətdən ilham almaq;문제점에 착안하다=problemli məqama diqqət yetirmək
+미식가|qurman|소문난 미식가=məşhur qurman;미식가들이 찾는 식당=qurmanların getdiyi restoran
+허기|aclıq hissi|허기를 채우다=aclığını yatırmaq;허기가 지다=acmaq
+펴내다|nəşr etmək|책을 펴내다=kitab nəşr etmək;잡지를 펴내다=jurnal buraxmaq
+서민|sadə xalq|서민 음식=xalq yeməyi;서민 경제=sadə insanların iqtisadiyyatı
+계절별|fəsillərə görə|계절별 음식=mövsümi yeməklər;계절별로 다르다=fəsildən asılı olaraq dəyişmək
+산지|istehsal yeri|원산지=mənşə ölkəsi;산지 직송=istehsalçıdan birbaşa çatdırılma
+생산하다|istehsal etmək|제품을 생산하다=məhsul istehsal etmək;전기를 생산하다=elektrik istehsal etmək
+인지적|idraki, koqnitiv|인지적 능력=idrak qabiliyyəti;인지적 발달=koqnitiv inkişaf
+대신하다|əvəz etmək|말을 대신하다=sözü əvəz etmək;부모를 대신하다=valideyni əvəz etmək
+접어들다|qədəm qoymaq (dövrə)|가을로 접어들다=payıza qədəm qoymaq;중년에 접어들다=orta yaşa çatmaq
+윤택하다|firavan olmaq|생활이 윤택하다=həyatı firavan olmaq;윤택한 삶=firavan həyat
+소외시키다|kənarlaşdırmaq, təcrid etmək|노인을 소외시키다=yaşlıları kənarlaşdırmaq;사회에서 소외시키다=cəmiyyətdən təcrid etmək
+단정하다|qəti hökm vermək|섣불리 단정하다=tələsik hökm vermək;단정 짓기 어렵다=qəti demək çətindir
+분명하다|aydın olmaq|이유가 분명하다=səbəb aydındır;분명히 말하다=aydın demək
+진학하다|təhsilini davam etdirmək|대학에 진학하다=universitetə daxil olmaq;대학원에 진학하다=magistraturaya daxil olmaq
+변동성|dəyişkənlik|변동성이 크다=dəyişkənlik böyük olmaq;시장 변동성=bazar dəyişkənliyi
+멋쟁이|qəşəng geyinən, zövqlü adam|멋쟁이 할머니=qəşəng nənə;멋쟁이로 소문나다=zövqü ilə tanınmaq
+담임|sinif rəhbəri|담임 선생님=sinif rəhbəri;담임을 맡다=sinif rəhbərliyi etmək
+맞이하다|qarşılamaq|손님을 맞이하다=qonağı qarşılamaq;새해를 맞이하다=Yeni ili qarşılamaq
+말썽꾸러기|dəcəl uşaq|우리 반 말썽꾸러기=sinfimizin dəcəli;말썽꾸러기 동생=dəcəl qardaş
+수줍어하다|utanmaq, çəkinmək|낯선 사람을 수줍어하다=yad adamlardan çəkinmək;수줍어하며 웃다=utancaqcasına gülümsəmək
+당장|dərhal, elə indi|당장 시작하다=dərhal başlamaq;지금 당장=elə indi
+전교|bütün məktəb|전교 1등=məktəbdə birinci;전교 회장=məktəb şagird şurasının sədri
+주지를 않다|verməmək|용돈을 주지를 않다=cib xərcliyi verməmək;기회를 주지를 않다=fürsət verməmək
+비비다|ovuşdurmaq|눈을 비비다=gözlərini ovuşdurmaq;손을 비비다=əllərini ovuşdurmaq
+꼬다|burmaq|다리를 꼬다=ayaq-ayaq üstə aşırmaq;실을 꼬다=sap burmaq
+동굴|mağara|동굴을 탐험하다=mağaranı tədqiq etmək;동굴 속=mağaranın içi
+가만히|sakitcə, tərpənmədən|가만히 있다=tərpənmədən durmaq;가만히 생각하다=sakitcə düşünmək
+간지럽다|qıdıqlanmaq|발바닥이 간지럽다=ayaq altı qıdıqlanmaq;귀가 간지럽다=qulağı cingildəmək|emosional mənada da işlənir
+간결하다|yığcam, lakonik|간결한 문장=yığcam cümlə;간결하게 말하다=qısa və konkret danışmaq
+짚다|dayaq etmək / toxunmaq (məsələyə)|지팡이를 짚다=əsaya söykənmək;핵심을 짚다=məsələnin canına toxunmaq
+추궁당하다|sorğu-suala tutulmaq|잘못을 추궁당하다=səhvinə görə sorğu-suala tutulmaq;책임을 추궁당하다=məsuliyyətə cəlb olunmaq
+서러움|qəm, inciklik|서러움이 북받치다=qəm boğazına dolmaq;서러움을 달래다=incikliyini ovutmaq
+생애|ömür, həyat|생애 첫 경험=həyatında ilk təcrübə;생애를 바치다=ömrünü həsr etmək
+흐물흐물하다|yumşalıb dağılmaq|흐물흐물한 반죽=yumşaq xəmir;너무 익어서 흐물흐물하다=çox bişib əzilmək
+현명하다|ağıllı, müdrik|현명한 선택=ağıllı seçim;현명하게 대처하다=müdrikcəsinə davranmaq
+선을 보이다|ilk dəfə nümayiş etdirmək|신제품을 선을 보이다=yeni məhsulu ilk dəfə təqdim etmək;무대에서 선을 보이다=səhnədə ilk dəfə görünmək
+담담하다|sakit, soyuqqanlı|담담한 표정=sakit ifadə;담담하게 말하다=sakit-sakit danışmaq
+감격스럽다|kövrəldici, həyəcanlı|감격스러운 순간=kövrəldici an;우승이 감격스럽다=qələbə adamı kövrəldir|dərindən təsirlənmək, minnətdarlıq duymaq
+의심스럽다|şübhəli|의심스러운 행동=şübhəli hərəkət;사실인지 의심스럽다=doğru olub-olmadığı şübhəlidir
+성별|cins|성별에 관계없이=cinsindən asılı olmayaraq;성별 차이=cins fərqi
+유무|olub-olmaması|경력 유무=iş təcrübəsinin olub-olmaması;질병 유무=xəstəliyin olub-olmaması
+산업 혁명|sənaye inqilabı|산업 혁명 이후=sənaye inqilabından sonra;4차 산업 혁명=dördüncü sənaye inqilabı
+대량|böyük miqdar, kütləvi|대량 생산=kütləvi istehsal;대량으로 구입하다=topdan almaq
+효율성|səmərəlilik|효율성을 높이다=səmərəliliyi artırmaq;에너지 효율성=enerji səmərəliliyi
+속하다|aid olmaq|그룹에 속하다=qrupa aid olmaq;상위권에 속하다=öndə gedənlərdən olmaq
+반성|özünütənqid, peşmançılıq|반성을 하다=öz səhvini düşünmək;깊이 반성하다=dərindən peşman olmaq
+출발하다|yola düşmək, başlamaq|아침에 출발하다=səhər yola düşmək;새롭게 출발하다=yenidən başlamaq
+저상|alçaq döşəməli|저상 버스=alçaq döşəməli avtobus;저상 차량=alçaq döşəməli nəqliyyat vasitəsi
+몫|pay|자기 몫=öz payı;몫을 다하다=öz üzərinə düşəni etmək
+계층|təbəqə|사회 계층=sosial təbəqə;소외 계층=həssas təbəqə
+진보주의자|mütərəqqi baxışlı adam|진보주의자의 주장=mütərəqqilərin fikri;진보주의자와 보수주의자=mütərəqqilər və mühafizəkarlar
+개념|anlayış|개념을 이해하다=anlayışı başa düşmək;기본 개념=əsas anlayış
+보수주의자|mühafizəkar|보수주의자의 견해=mühafizəkarların baxışı;전형적인 보수주의자=tipik mühafizəkar
+보장되다|təmin olunmaq|자유가 보장되다=azadlıq təmin olunmaq;고용이 보장되다=iş yeri təminatı olmaq
+평등|bərabərlik|남녀 평등=gender bərabərliyi;기회의 평등=imkan bərabərliyi
+진보|tərəqqi|진보 세력=mütərəqqi qüvvələr;기술의 진보=texniki tərəqqi
+개입하다|müdaxilə etmək|분쟁에 개입하다=münaqişəyə müdaxilə etmək;정부가 개입하다=hökumət müdaxilə etmək
+체제|sistem, quruluş|정치 체제=siyasi sistem;체제를 갖추다=quruluş yaratmaq
+옳다|doğru olmaq|옳은 판단=doğru qərar;옳고 그름=doğru və yanlış
+상호|qarşılıqlı|상호 협력=qarşılıqlı əməkdaşlıq;상호 작용=qarşılıqlı təsir
+균형을 이루다|tarazlıq yaratmaq|일과 삶의 균형을 이루다=iş-həyat tarazlığı yaratmaq;수입과 지출이 균형을 이루다=gəlir və xərc tarazlaşmaq
+관점|baxış bucağı|다른 관점=fərqli baxış;관점을 바꾸다=baxış bucağını dəyişmək
+견해|fikir, baxış|견해 차이=fikir ayrılığı;견해를 밝히다=fikrini açıqlamaq
+특허법|patent qanunu|특허법을 개정하다=patent qanununa dəyişiklik etmək;특허법 위반=patent qanununun pozulması
+발명하다|ixtira etmək|전화를 발명하다=telefonu ixtira etmək;새로운 기계를 발명하다=yeni maşın ixtira etmək
+독점적|müstəsna, inhisarçı|독점적 권리=müstəsna hüquq;독점적인 지위=inhisar mövqeyi
+사용권|istifadə hüququ|사용권을 얻다=istifadə hüququ almaq;사용권 계약=lisenziya müqaviləsi
+이바지하다|töhfə vermək|사회에 이바지하다=cəmiyyətə töhfə vermək;발전에 이바지하다=inkişafa xidmət etmək
+변질되다|xarab olmaq, mahiyyətini itirmək|음식이 변질되다=yemək xarab olmaq;의미가 변질되다=məna təhrif olunmaq
+두드러지다|nəzərə çarpmaq|차이가 두드러지다=fərq nəzərə çarpmaq;두드러진 특징=diqqətçəkən xüsusiyyət
+마구잡이|başı-ayağı bilinməyən, gəlişigözəl|마구잡이로 버리다=gəlişigözəl atmaq;마구잡이 개발=plansız tikinti
+출원|ərizə (rəsmi hüquq üçün)|특허 출원=patent ərizəsi;출원을 하다=ərizə vermək
+권리|hüquq|권리를 주장하다=hüququnu müdafiə etmək;권리와 의무=hüquq və vəzifələr
+선점하다|qabaqcadan ələ keçirmək|시장을 선점하다=bazarı qabaqcadan tutmaq;자리를 선점하다=yeri əvvəlcədən tutmaq
+비일비재하다|tez-tez rast gəlinən|이런 일은 비일비재하다=belə şeylər tez-tez olur;비일비재한 사고=tez-tez baş verən qəzalar
+신기술|yeni texnologiya|신기술을 개발하다=yeni texnologiya hazırlamaq;신기술 도입=yeni texnologiyanın tətbiqi
+정작|əslində, məhz|정작 중요한 것=əsl vacib olan;정작 본인은 모르다=məhz özü bilməmək
+한하다|məhdudlaşmaq|회원에 한하다=yalnız üzvlər üçündür;오늘에 한해=yalnız bu gün
+훼손하다|zədələmək, korlamaq|명예를 훼손하다=şərəfə ləkə gətirmək;자연을 훼손하다=təbiətə ziyan vurmaq
+역설하다|qətiyyətlə vurğulamaq|필요성을 역설하다=zəruriliyini vurğulamaq;중요성을 역설하다=əhəmiyyətini israrla qeyd etmək|güclü şəkildə vurğulamaq
+남용|sui-istifadə|권력 남용=səlahiyyətdən sui-istifadə;약물 남용=dərmanlardan sui-istifadə|həddən artıq və şüursuz istifadə
+평가하다|qiymətləndirmək|작품을 평가하다=əsəri qiymətləndirmək;높이 평가하다=yüksək qiymətləndirmək
+차별성|fərqlilik, özünəməxsusluq|차별성을 갖다=fərqli cəhəti olmaq;차별성이 없다=heç bir fərqi olmamaq
+만료되다|müddəti bitmək|계약이 만료되다=müqavilənin müddəti bitmək;비자가 만료되다=vizanın müddəti bitmək|qüvvədən düşmək
+역|stansiya|역에 내리다=stansiyada düşmək;서울역=Seul stansiyası
+멀미|ürəkbulanma (nəqliyyatda)|멀미가 나다=yolda ürəyi bulanmaq;뱃멀미=dəniz xəstəliyi|nəqliyyatda yaranan narahatlıq
+낡다|köhnəlmək|낡은 옷=köhnə paltar;낡은 생각=köhnə fikir
+실천|həyata keçirmə, əməl|실천에 옮기다=həyata keçirmək;실천이 중요하다=əməl vacibdir
+검사|yoxlama, müayinə|건강 검사=tibbi müayinə;검사를 받다=müayinədən keçmək
+음주|spirtli içki içmə|음주 운전=sərxoş halda sürmə;음주를 삼가다=içkidən çəkinmək
+당일|həmin gün|당일 여행=bir günlük səfər;당일 배송=həmin gün çatdırılma
+노후|qocalıq, təqaüd dövrü|노후 대비=qocalığa hazırlıq;노후 생활=təqaüd həyatı
+종교|din|종교를 믿다=dinə inanmaq;종교의 자유=din azadlığı
+여성|qadın|여성 전용=yalnız qadınlar üçün;여성의 권리=qadın hüquqları
+남성|kişi|남성 의류=kişi geyimi;남성 화장품=kişi kosmetikası
+교복|məktəb forması|교복을 입다=məktəb forması geyinmək;교복 차림=formada
+정장형|kostyum üslublu|정장형 교복=kostyum üslublu məktəb forması;정장형 원피스=klassik biçimli don
+학습|öyrənmə|학습 효과=öyrənmə effekti;자기 주도 학습=müstəqil öyrənmə
+택배 기사|kuryer|택배 기사님=kuryer bəy;택배 기사가 배달하다=kuryer çatdırmaq
+청소원|təmizlikçi|환경 청소원=küçə təmizlikçisi;청소원 아저씨=təmizlikçi əmi
+돈을 벌다|pul qazanmaq|열심히 돈을 벌다=çalışıb pul qazanmaq;돈을 벌기 위해=pul qazanmaq üçün
+용기|qab; cəsarət|용기를 내다=cəsarət göstərmək;유리 용기=şüşə qab
+대여하다|kirayə vermək/götürmək|자전거를 대여하다=velosiped kirayə etmək;책을 대여하다=kitab vermək (müvəqqəti)
+밀가루|un|밀가루 반죽=un xəmiri;밀가루 음식=un məmulatları
+뛰어가다|qaçaraq getmək|학교로 뛰어가다=məktəbə qaçmaq;급히 뛰어가다=tələsik qaçmaq
+전하다|çatdırmaq|소식을 전하다=xəbər çatdırmaq;감사를 전하다=təşəkkürünü çatdırmaq|hiss, mesaj, təşəkkür və s. çatdırmaq
+원인|səbəb|원인을 찾다=səbəbi tapmaq;사고의 원인=qəzanın səbəbi
+견과류|qoz-fındıq|견과류를 먹다=qoz-fındıq yemək;견과류 알레르기=qoz-fındıq allergiyası
+악수|əl sıxma|악수를 하다=əl sıxmaq;악수를 청하다=əl uzatmaq
+중세|orta əsrlər|중세 유럽=orta əsrlər Avropası;중세 시대=orta əsrlər dövrü
+기사|cəngavər / məqalə|중세의 기사=orta əsr cəngavəri;신문 기사=qəzet məqaləsi
+무기|silah|무기를 들다=silaha əl atmaq;핵무기=nüvə silahı
+칼|qılınc, bıçaq|칼로 자르다=bıçaqla kəsmək;칼을 갈다=bıçaq itiləmək
+적|düşmən|적과 싸우다=düşmənlə vuruşmaq;적을 만들다=düşmən qazanmaq
+싸우다|vuruşmaq, dalaşmaq|친구와 싸우다=dostla dalaşmaq;병과 싸우다=xəstəliklə mübarizə aparmaq
+반가움|görüş sevinci|반가움을 표현하다=sevincini ifadə etmək;반가움에 눈물을 흘리다=sevincdən ağlamaq
+주인공|baş qəhrəman|이야기의 주인공=hekayənin qəhrəmanı;주인공을 맡다=baş rolu oynamaq
+단순하다|sadə olmaq|구조가 단순하다=quruluşu sadədir;단순한 생각=sadə fikir
+평범하다|adi olmaq|평범한 하루=adi gün;평범한 사람=adi insan
+새삼 깨닫다|yenidən dərk etmək|가족의 소중함을 새삼 깨닫다=ailənin qədrini yenidən dərk etmək;건강의 중요성을 새삼 깨닫다=sağlamlığın əhəmiyyətini təzədən anlamaq|təzə bir şəkildə anlamaq
+소소하다|kiçik, sadə|소소한 행복=kiçik xoşbəxtliklər;소소한 일상=sadə gündəlik həyat
+식량|ərzaq|식량 부족=ərzaq çatışmazlığı;식량을 비축하다=ərzaq ehtiyatı yaratmaq
+영구적|daimi|영구적인 보관=daimi saxlanma;영구적으로 사용하다=həmişəlik istifadə etmək
+씨앗|toxum|씨앗을 심다=toxum əkmək;희망의 씨앗=ümid toxumu
+홍보하다|təbliğ etmək, reklam etmək|제품을 홍보하다=məhsulu reklam etmək;행사를 홍보하다=tədbiri elan etmək
+저장고|anbar|씨앗 저장고=toxum anbarı;곡물 저장고=taxıl anbarı
+시각 장애인|görmə qüsurlu şəxs|시각 장애인 안내=görmə qüsurlulara bələdçilik;시각 장애인용 점자=görmə qüsurlular üçün Brayl əlifbası
+안내견|bələdçi it|안내견과 함께 걷다=bələdçi itlə gəzmək;안내견 출입 가능=bələdçi itlə giriş olar
+행인|yolçu, piyada|행인에게 길을 묻다=yoldan keçəndən yol soruşmaq;행인이 많다=piyada çox olmaq
+곧장|düz, birbaşa|곧장 집으로 가다=düz evə getmək;곧장 대답하다=dərhal cavab vermək
+훈련|təlim, məşq|훈련을 받다=təlim keçmək;강도 높은 훈련=ağır məşq
+주위|ətraf|주위를 둘러보다=ətrafa baxmaq;주위 사람들=ətrafdakı insanlar
+맴돌다|ətrafında dolanmaq|주위를 맴돌다=ətrafında fırlanmaq;머릿속을 맴돌다=fikrindən çıxmamaq
+또래|yaşıd|또래 친구=yaşıd dost;또래보다 키가 크다=yaşıdlarından hündür olmaq
+비록|hərçənd, -sa da|비록 힘들지만=çətin olsa da;비록 작은 일이라도=kiçik iş olsa belə
+과연|doğrudan da|과연 그럴까=doğrudanmı belədir;과연 소문대로=doğrudan da deyildiyi kimi|adətən sual və ya təəccübü vurğulamaq üçün
+깨치다|öyrənmək, qavramaq|한글을 깨치다=Hanqılı öyrənmək;이치를 깨치다=hikməti dərk etmək
+완전히|tamamilə|완전히 다르다=tamamilə fərqli olmaq;완전히 잊다=tamamilə unutmaq
+온몸|bütün bədən|온몸이 아프다=bütün bədəni ağrımaq;온몸으로 느끼다=bütün varlığı ilə hiss etmək
+고르게|bərabər şəkildə|고르게 나누다=bərabər bölmək;고르게 섞다=bərabər qarışdırmaq
+손을 대다|əl vurmaq, girişmək|음식에 손을 대다=yeməyə toxunmaq;새로운 사업에 손을 대다=yeni işə girişmək
+이를 갈다|diş qıcırtmaq (hirslə)|자면서 이를 갈다=yuxuda diş qıcırtmaq;복수하려고 이를 갈다=intiqam üçün diş qıcırtmaq
+열을 올리다|qızışmaq, həvəslənmək|토론에 열을 올리다=müzakirədə qızışmaq;공부에 열을 올리다=dərsə qızğın girişmək|həvəslə özünü işə vermək
+부담스럽다|ağır gəlmək, narahat etmək|선물이 부담스럽다=hədiyyə adamı xəcalətdə qoyur;관심이 부담스럽다=diqqət ağır gəlir
+죄송스럽다|xəcalətli olmaq|죄송스러운 마음=xəcalət hissi;늦어서 죄송스럽다=gecikdiyim üçün xəcalətliyəm
+모시다|(hörmətlə) yanında olmaq, aparmaq|부모님을 모시다=valideynlərinə baxmaq;손님을 모시다=qonağı ağırlamaq
+어둡다|qaranlıq olmaq|방이 어둡다=otaq qaranlıqdır;표정이 어둡다=üzü tutqundur
+갑갑하다|darıxdırıcı, sıxıcı|방이 갑갑하다=otaq boğucudur;마음이 갑갑하다=ürəyi sıxılmaq
+내뱉다|ağzından çıxarmaq|말을 내뱉다=sözü ağzından qaçırmaq;한숨을 내뱉다=dərindən nəfəs vermək
+슬쩍|xəlvətcə, yüngülcə|슬쩍 보다=göz ucu ilə baxmaq;슬쩍 빠져나가다=xəlvətcə aradan çıxmaq
+손사래를 치다|əl yelləyib rədd etmək|손사래를 치며 거절하다=əl yelləyib rədd etmək;극구 손사래를 치다=qəti şəkildə imtina etmək
+무겁다|ağır olmaq|가방이 무겁다=çanta ağırdır;마음이 무겁다=ürəyi ağır olmaq
+미소|təbəssüm|미소를 짓다=gülümsəmək;환한 미소=parlaq təbəssüm
+출산율|doğum səviyyəsi|출산율이 낮다=doğum səviyyəsi aşağıdır;출산율을 높이다=doğum səviyyəsini artırmaq
+시급히|təcili|시급히 해결하다=təcili həll etmək;시급히 필요하다=təcili lazımdır
+축소하다|azaltmaq, kiçiltmək|규모를 축소하다=miqyası kiçiltmək;예산을 축소하다=büdcəni azaltmaq
+수익|gəlir, mənfəət|수익을 내다=gəlir əldə etmək;수익이 늘다=gəlir artmaq
+치중하다|üstünlük vermək|외모에 치중하다=xarici görünüşə üstünlük vermək;성적에 치중하다=qiymətlərə fikir vermək
+뒷전|arxa plan|뒷전으로 밀리다=arxa plana keçmək;공부는 뒷전이다=dərs ikinci plandadır
+감소하다|azalmaq|인구가 감소하다=əhali azalmaq;매출이 감소하다=satışlar düşmək
+미지수|naməlum|결과는 미지수다=nəticə naməlumdur;성공 여부는 미지수다=uğur qazanıb-qazanmayacağı bəlli deyil
+불확실하다|qeyri-müəyyən olmaq|미래가 불확실하다=gələcək qeyri-müəyyəndir;불확실한 정보=dəqiq olmayan məlumat
+방식|üsul, tərz|생활 방식=həyat tərzi;새로운 방식=yeni üsul
+열의를 갖다|həvəsli olmaq|공부에 열의를 갖다=dərsə həvəsli olmaq;일에 열의를 갖다=işə həvəslə yanaşmaq
+정답|düzgün cavab|정답을 맞히다=düzgün cavabı tapmaq;정답이 없다=düzgün cavabı yoxdur
+맞히다|düz tapmaq, hədəfi vurmaq|정답을 맞히다=düzgün cavabı tapmaq;과녁을 맞히다=hədəfi vurmaq
+즉각적|ani, dərhal|즉각적인 반응=ani reaksiya;즉각적으로 조치하다=dərhal tədbir görmək
+점수|bal|점수를 받다=bal almaq;점수가 오르다=balı artmaq
+부여하다|vermək, aid etmək|의미를 부여하다=məna vermək;권한을 부여하다=səlahiyyət vermək|rəsmi və ya sistemli şəkildə vermək
+획득하다|əldə etmək, qazanmaq|자격증을 획득하다=sertifikat almaq;메달을 획득하다=medal qazanmaq
+지구|Yer kürəsi|지구를 지키다=Yer kürəsini qorumaq;지구 환경=Yerin ətraf mühiti
+문구|ifadə, şüar|광고 문구=reklam şüarı;문구를 새기다=yazı həkk etmək
+새겨지다|həkk olunmaq|이름이 새겨지다=ad həkk olunmaq;마음에 새겨지다=qəlbə həkk olunmaq
+그려지다|çəkilmək, canlanmaq|그림이 그려지다=şəkil çəkilmək;머릿속에 그려지다=gözünün önündə canlanmaq
+증가하다|artmaq|인구가 증가하다=əhali artmaq;수요가 증가하다=tələb artmaq
+담기다|içində olmaq, əks olunmaq|정성이 담기다=zəhmət hopmaq;그릇에 담기다=qaba qoyulmaq
+체형|bədən quruluşu|체형에 맞다=bədən quruluşuna uyğun olmaq;체형 관리=bədən formasına qulluq
+깨어지다|sınmaq|유리가 깨어지다=şüşə sınmaq;꿈이 깨어지다=arzu puç olmaq
+파편|qəlpə, qırıntı|유리 파편=şüşə qırıntısı;파편이 튀다=qəlpələr sıçramaq
+튀다|sıçramaq|물이 튀다=su sıçramaq;공이 튀다=top atılıb düşmək
+선반|rəf|선반에 올려놓다=rəfə qoymaq;선반을 달다=rəf vurmaq
+산산조각 나다|çilik-çilik olmaq|접시가 산산조각 나다=boşqab çilik-çilik olmaq;꿈이 산산조각 나다=arzular puç olmaq
+마르다|qurumaq|빨래가 마르다=paltar qurumaq;목이 마르다=susamaq
+용액|məhlul|소금 용액=duz məhlulu;용액을 섞다=məhlulları qarışdırmaq
+표면|səth|표면이 매끄럽다=səthi hamar olmaq;물의 표면=suyun səthi
+붙잡다|tutmaq, yaxalamaq|손을 붙잡다=əlindən tutmaq;기회를 붙잡다=fürsəti tutmaq
+제작하다|istehsal etmək, hazırlamaq|영화를 제작하다=film çəkmək;가구를 제작하다=mebel hazırlamaq
+겹치다|üst-üstə düşmək|일정이 겹치다=proqramlar üst-üstə düşmək;종이를 겹치다=kağızları üst-üstə qoymaq
+반대|əks, ziddiyyət|반대 의견=əks fikir;반대로 하다=əksini etmək
+학계|elmi dairələr|학계의 인정=elmi dairələrin etirafı;학계에 보고하다=elmi ictimaiyyətə bildirmək
+수학|riyaziyyat|수학 문제=riyaziyyat məsələsi;수학을 잘하다=riyaziyyatı yaxşı bilmək
+정립하다|müəyyənləşdirmək, qurmaq|이론을 정립하다=nəzəriyyə qurmaq;개념을 정립하다=anlayışı müəyyənləşdirmək
+가리키다|göstərmək, işarə etmək|손가락으로 가리키다=barmaqla göstərmək;시계가 열 시를 가리키다=saat onu göstərmək
+무한대|sonsuzluq|무한대로 늘어나다=sonsuzadək artmaq;무한대의 가능성=sonsuz imkan
+정반대|tam əksi|정반대의 성격=tam əks xasiyyət;정반대 방향=tam əks istiqamət
+학자|alim|유명한 학자=məşhur alim;학자들의 견해=alimlərin rəyi
+정의하다|tərif vermək|개념을 정의하다=anlayışa tərif vermək;간단히 정의하다=qısaca tərif vermək
+수명|ömür|평균 수명=orta ömür;배터리 수명=batareyanın ömrü
+짧다|qısa olmaq|머리가 짧다=saçı qısadır;시간이 짧다=vaxt azdır
+붙다|yapışmaq; keçmək (imtahan); ad qoyulmaq|시험에 붙다=imtahandan keçmək;이름이 붙다=ad verilmək
+성충|yetkin həşərat|성충이 되다=yetkin həşərata çevrilmək;성충의 수명=yetkin həşəratın ömrü
+퇴화하다|körəlmək|기능이 퇴화하다=funksiya körəlmək;날개가 퇴화하다=qanadlar körəlmək
+까닭|səbəb|까닭을 묻다=səbəbini soruşmaq;그런 까닭에=bu səbəbdən
+영양분|qida maddəsi|영양분을 흡수하다=qida maddələrini udmaq;영양분이 풍부하다=qidalı olmaq
+외부|xarici tərəf|외부 활동=açıq havada fəaliyyət;외부의 도움=kənar kömək
+물리적 자극|fiziki qıcıq|물리적 자극에 반응하다=fiziki qıcığa reaksiya vermək;물리적 자극을 주다=fiziki təsir göstərmək
+저항하다|müqavimət göstərmək|권력에 저항하다=hakimiyyətə müqavimət göstərmək;변화에 저항하다=dəyişikliyə qarşı çıxmaq
+항균|antibakterial|항균 효과=antibakterial təsir;항균 비누=antibakterial sabun
+중반|orta (dövr)|20대 중반=iyirmi yaşların ortası;경기 중반=oyunun ortası
+태양|Günəş|태양 에너지=günəş enerjisi;태양이 뜨다=günəş doğmaq
+철도|dəmir yolu|철도를 놓다=dəmir yolu çəkmək;고속 철도=sürətli dəmir yolu
+본사|baş ofis|본사로 발령 나다=baş ofisə təyin olunmaq;본사 직원=baş ofisin işçisi
+운행하다|hərəkət etmək (nəqliyyat), işlətmək|버스를 운행하다=avtobus işlətmək;열차가 운행하다=qatar işləmək
+경도|uzunluq dairəsi|경도와 위도=uzunluq və enlik;동경 127도=127° şərq uzunluğu
+표준시|standart vaxt|한국 표준시=Koreya standart vaxtı;표준시를 정하다=standart vaxtı müəyyən etmək
+결정하다|qərar vermək|진로를 결정하다=gələcək yolunu seçmək;신중하게 결정하다=ehtiyatla qərar vermək
+의료용|tibbi təyinatlı|의료용 장갑=tibbi əlcək;의료용 로봇=tibbi robot
+산업용|sənaye təyinatlı|산업용 로봇=sənaye robotu;산업용 전기=sənaye elektriki
+유용하다|faydalı|유용한 정보=faydalı məlumat;유용하게 쓰다=faydalı istifadə etmək
+촬영하다|çəkmək (foto, video)|사진을 촬영하다=şəkil çəkmək;영화를 촬영하다=film çəkmək
+원천적|kökündən|원천적으로 차단하다=kökündən qarşısını almaq;원천적인 해결=köklü həll
+신상 정보|şəxsi məlumat|신상 정보가 유출되다=şəxsi məlumatlar sızmaq;신상 정보를 보호하다=şəxsi məlumatları qorumaq
+법적 규제|hüquqi tənzimləmə|법적 규제를 받다=qanunla tənzimlənmək;법적 규제를 강화하다=hüquqi nəzarəti sərtləşdirmək
+집어내다|seçib çıxarmaq|핵심을 집어내다=əsas məqamı ayırmaq;실수를 집어내다=səhvi tapmaq
+요약형|xülasə formatı|요약형 기사=qısa xəbər;요약형 정보=xülasə məlumat
+정돈하다|səliqəyə salmaq|방을 정돈하다=otağı səliqəyə salmaq;생각을 정돈하다=fikirlərini qaydaya salmaq
+사물|əşya|주변 사물=ətrafdakı əşyalar;사물을 관찰하다=əşyaları müşahidə etmək
+처리하다|həll etmək, emal etmək|일을 처리하다=işi həll etmək;쓰레기를 처리하다=zibili zərərsizləşdirmək
+무뎌지다|kütləşmək|감각이 무뎌지다=hisslər kütləşmək;칼날이 무뎌지다=bıçağın ağzı kütləşmək
+사고력|düşünmə qabiliyyəti|사고력을 기르다=düşünmə qabiliyyətini inkişaf etdirmək;창의적 사고력=yaradıcı düşüncə
+영상물|video məhsul|영상물을 제작하다=video məhsul hazırlamaq;교육용 영상물=təhsil videosu|film, serial, video və s.
+출판|nəşr|출판 기념회=kitabın təqdimatı;출판사=nəşriyyat
+하나둘씩|bir-bir|하나둘씩 모이다=bir-bir toplaşmaq;불이 하나둘씩 켜지다=işıqlar bir-bir yanmaq
+창작열|yaradıcılıq həvəsi|창작열을 불태우다=yaradıcılıq həvəsini alovlandırmaq;창작열이 식다=yaradıcılıq həvəsi sönmək
+위기를 맞다|böhranla üzləşmək|회사가 위기를 맞다=şirkət böhrana düşmək;큰 위기를 맞다=böyük böhranla üzləşmək
+응용하다|tətbiq etmək|기술을 응용하다=texnologiyanı tətbiq etmək;원리를 응용하다=prinsipi praktikada işlətmək
+식재료|ərzaq, inqrediyent|신선한 식재료=təzə ərzaq;제철 식재료=mövsümi məhsullar
+제약|məhdudiyyət|시간적 제약=vaxt məhdudiyyəti;제약을 받다=məhdudlaşdırılmaq
+선보이다|təqdim etmək|신메뉴를 선보이다=yeni menyunu təqdim etmək;무대를 선보이다=səhnə çıxışı təqdim etmək
+설렘|həyəcan|설렘을 안고=həyəcanla;첫 만남의 설렘=ilk görüşün həyəcanı
+정체하다|durğunlaşmaq|차량이 정체하다=maşınlar tıxacda qalmaq;성장이 정체하다=inkişaf dayanmaq
+온통|tamamilə, hər yer|온통 하얗다=hər yer ağappaqdır;머릿속이 온통 그 생각뿐이다=ağlında yalnız o fikir var
+보행자|piyada|보행자 우선=piyadalara üstünlük;보행자 도로=piyada yolu
+잔재미|kiçik zövq|잔재미가 있다=xırda zövqləri olmaq;소소한 잔재미=kiçik əyləncələr
+거대하다|nəhəng|거대한 건물=nəhəng bina;거대한 규모=nəhəng miqyas
+보안등|təhlükəsizlik fənəri|보안등을 설치하다=təhlükəsizlik fənəri quraşdırmaq;보안등이 켜지다=təhlükəsizlik işığı yanmaq
+청결하다|təmiz olmaq|청결한 주방=təmiz mətbəx;청결을 유지하다=təmizliyi qorumaq
+쾌적하다|rahat, xoş|쾌적한 환경=rahat mühit;실내가 쾌적하다=içəri rahatdır
+파수꾼|keşikçi, gözətçi|마을의 파수꾼=kəndin keşikçisi;환경의 파수꾼=təbiətin keşikçisi
+상업적|kommersiya|상업적 목적=kommersiya məqsədi;상업적으로 성공하다=kommersiya uğuru qazanmaq
+채우다|doldurmaq|빈칸을 채우다=boşluğu doldurmaq;배를 채우다=qarnını doydurmaq
+찌푸리다|qaşqabaq tökmək|얼굴을 찌푸리다=üz-gözünü turşutmaq;눈살을 찌푸리다=qaşlarını çatmaq
+거주|yaşayış, sakinlik|거주 지역=yaşayış rayonu;해외 거주=xaricdə yaşama
+문화사|mədəniyyət tarixi|한국 문화사=Koreya mədəniyyət tarixi;문화사를 연구하다=mədəniyyət tarixini öyrənmək
+중산층|orta təbəqə|중산층 가정=orta təbəqədən ailə;중산층이 줄다=orta təbəqə azalmaq
+표준|standart|표준 발음=ədəbi tələffüz;표준에 맞다=standarta uyğun olmaq
+욕망|ehtiras, arzu|욕망을 채우다=arzusunu ödəmək;욕망에 사로잡히다=ehtirasa qapılmaq
+도면|çertyoj, plan|설계 도면=layihə çertyojı;도면을 그리다=plan çəkmək
+각박하다|sərt, mərhəmətsiz|각박한 세상=amansız dünya;인심이 각박하다=insanlar sərt ürəkli olmaq
+지적하다|qeyd etmək, irad tutmaq|문제점을 지적하다=problemi qeyd etmək;잘못을 지적하다=səhvə irad tutmaq
+정답게|mehribanlıqla|정답게 이야기하다=mehribanlıqla söhbət etmək;정답게 지내다=dostcasına yola getmək
+문답|sual-cavab|문답 형식=sual-cavab forması;문답을 주고받다=sual-cavab etmək
+돋보이다|seçilmək, gözə çarpmaq|개성이 돋보이다=fərdiliyi seçilmək;실력이 돋보이다=bacarığı gözə çarpmaq
+최초|ilk|세계 최초=dünyada ilk;최초의 여성=ilk qadın
+주화|metal pul, sikkə|기념 주화=xatirə sikkəsi;주화를 발행하다=sikkə buraxmaq
+이득|qazanc, fayda|이득을 보다=qazanc əldə etmək;이득이 되다=faydası olmaq
+금화|qızıl sikkə|금화를 모으다=qızıl sikkə toplamaq;고대 금화=qədim qızıl sikkə
+은화|gümüş sikkə|은화 한 닢=bir gümüş sikkə;은화를 발견하다=gümüş sikkə tapmaq
+손실|itki, ziyan|손실을 입다=ziyana düşmək;손실이 크다=itki böyükdür
+육안|adi göz|육안으로 보다=adi gözlə görmək;육안으로 확인하다=gözlə yoxlamaq
+혼란스럽다|qarışıq olmaq, çaşqın olmaq|머릿속이 혼란스럽다=fikirləri qarmaqarışıqdır;혼란스러운 상황=qarışıq vəziyyət|nizamın pozulması, çaşqınlıq hissi
+지방직|yerli dövlət qulluğu|지방직 공무원=yerli dövlət qulluqçusu;지방직 시험=yerli dövlət qulluğu imtahanı
+언젠가|bir gün|언젠가 다시 만나다=bir gün yenidən görüşmək;언젠가는 이루어지다=gec-tez həyata keçmək|gələcəkdə nə vaxtsa
+전혀|heç, qətiyyən (inkarla)|전혀 모르다=heç bilməmək;전혀 다르다=tamamilə fərqli olmaq
+개장|açılış|개장 시간=açılış vaxtı;해수욕장 개장=çimərliyin açılışı|müəssisə və ya tədbirin açılması
+답변하다|cavab vermək|질문에 답변하다=suala cavab vermək;성실히 답변하다=vicdanla cavab vermək
+하인|qulluqçu, nökər|하인을 부리다=nökər saxlamaq;충실한 하인=sadiq qulluqçu
+겁먹다|qorxmaq|겁먹은 표정=qorxmuş ifadə;겁먹지 마=qorxma
+지시에 따르다|göstərişə əməl etmək|선생님의 지시에 따르다=müəllimin göstərişinə əməl etmək;안내원의 지시에 따르다=işçinin göstərişlərinə əməl etmək|verilən göstərişə uymaq
+단말기|terminal|카드 단말기=kart terminalı;단말기에 대다=terminala yaxınlaşdırmaq|POS-terminal, ödəniş aparatı və s.
+낯설다|yad, tanış olmayan|낯선 사람=yad adam;모든 것이 낯설다=hər şey yad görünür
+마감|son müddət|마감 시간=son müddət;마감이 임박하다=son müddət yaxınlaşır
+임박하다|yaxınlaşmaq, qapıda olmaq|시험이 임박하다=imtahan qapıdadır;마감이 임박하다=son müddət yaxınlaşmaq
+본능적|instinktiv|본능적인 반응=instinktiv reaksiya;본능적으로 피하다=instinktiv olaraq qaçmaq
+어리석다|axmaq, ağılsız|어리석은 행동=ağılsız hərəkət;어리석은 질문=axmaq sual
+시간에 쫓기다|vaxt darlığında olmaq|늘 시간에 쫓기다=həmişə vaxt çatışmır;시간에 쫓겨 서두르다=vaxt darlığından tələsmək
+기울이다|əymək / diqqət yetirmək|관심을 기울이다=diqqət yetirmək;고개를 기울이다=başını əymək
+상당히|xeyli, kifayət qədər|상당히 어렵다=xeyli çətindir;상당히 많다=kifayət qədər çoxdur
+소방관|yanğınsöndürən|소방관이 출동하다=yanğınsöndürənlər hadisə yerinə getmək;용감한 소방관=cəsur yanğınsöndürən
+사고를 당하다|qəzaya düşmək|교통사고를 당하다=yol qəzasına düşmək;크게 사고를 당하다=ağır qəzaya düşmək
+기본적|əsas|기본적인 지식=əsas bilik;기본적으로=əsasən
+성공적|uğurlu|성공적인 결과=uğurlu nəticə;성공적으로 마치다=uğurla başa vurmaq
+단시간 내|qısa müddətdə|단시간 내에 끝내다=qısa müddətdə bitirmək;단시간 내 성장=qısa müddətdə inkişaf
+시야를 좁히다|görüş sahəsini daraltmaq|긴장하면 시야를 좁힌다=gərginlik görüş sahəsini daraldır;시야를 좁히지 말라=dar düşünməyin|baxış bucağını məhdudlaşdırmaq
+무턱대고|düşünmədən|무턱대고 믿다=kor-koranə inanmaq;무턱대고 덤비다=düşünmədən atılmaq
+일을 미루다|işi təxirə salmaq|자꾸 일을 미루다=işləri daim təxirə salmaq;내일로 일을 미루다=işi sabaha saxlamaq
+전적으로|tamamilə|전적으로 동의하다=tamamilə razılaşmaq;전적으로 책임지다=bütün məsuliyyəti öz üzərinə götürmək
+상이하다|fərqli olmaq|의견이 상이하다=fikirlər fərqlidir;상이한 결과=fərqli nəticə
+수거하다|yığmaq, geri toplamaq|쓰레기를 수거하다=zibil yığmaq;제품을 수거하다=məhsulu geri çağırmaq
+거론되다|adı çəkilmək, gündəmə gəlmək|후보로 거론되다=namizəd kimi adı çəkilmək;문제가 거론되다=məsələ gündəmə gəlmək
+영감|ilham|영감을 얻다=ilham almaq;영감을 주다=ilham vermək
+극심하다|son dərəcə şiddətli|극심한 가뭄=şiddətli quraqlıq;극심한 고통=dözülməz ağrı
+엉뚱하다|gözlənilməz, yersiz|엉뚱한 대답=yersiz cavab;엉뚱한 상상=gözlənilməz xəyal
+공통점|ortaq cəhət|공통점이 많다=çox ortaq cəhəti olmaq;공통점을 찾다=ortaq cəhət tapmaq
+확대하다|genişləndirmək, böyütmək|사업을 확대하다=biznesi genişləndirmək;사진을 확대하다=şəkli böyütmək
+미래형|gələcək tipli|미래형 자동차=gələcəyin avtomobili;미래형 인재=gələcəyin kadrı
+해당하다|aid olmaq, uyğun gəlmək|조건에 해당하다=şərtə uyğun gəlmək;해당하는 사람=müvafiq şəxs
+대폭|kəskin şəkildə, xeyli|대폭 인상하다=kəskin artırmaq;대폭 줄이다=xeyli azaltmaq
+전담하다|tam məsuliyyət daşımaq|업무를 전담하다=işi tam öz üzərinə götürmək;전담 교사=məsul müəllim
+독려하다|həvəsləndirmək|참여를 독려하다=iştiraka həvəsləndirmək;직원을 독려하다=işçiləri ruhlandırmaq
+수립하다|qurmaq, hazırlamaq|계획을 수립하다=plan hazırlamaq;정부를 수립하다=hökumət qurmaq
+체육관|idman zalı|체육관에서 운동하다=idman zalında məşq etmək;학교 체육관=məktəbin idman zalı
+공무원|dövlət qulluqçusu|공무원 시험=dövlət qulluğu imtahanı;공무원이 되다=dövlət qulluqçusu olmaq
+간호사|tibb bacısı|간호사로 일하다=tibb bacısı işləmək;간호사를 부르다=tibb bacısını çağırmaq
+군인|hərbçi, əsgər|군인이 되다=hərbçi olmaq;직업 군인=peşəkar hərbçi
+개인 사업|şəxsi biznes|개인 사업을 하다=şəxsi biznesi olmaq;개인 사업자=fərdi sahibkar
+시상식|mükafatlandırma mərasimi|시상식에 참석하다=mükafatlandırma mərasimində iştirak etmək;시상식이 열리다=mükafatlandırma mərasimi keçirilmək
+대강당|böyük zal, akt zalı|대강당에 모이다=akt zalında toplaşmaq;대강당에서 열리다=böyük zalda keçirilmək
+투표|səsvermə|투표를 하다=səs vermək;투표 결과=səsvermənin nəticəsi
+친환경 화장품|ekoloji təmiz kosmetika|친환경 화장품을 쓰다=ekoloji kosmetikadan istifadə etmək;친환경 화장품 시장=ekoloji kosmetika bazarı
+무덤|qəbir, məzar|무덤을 만들다=qəbir qazmaq;왕의 무덤=şahın məzarı
+고대|qədim dövr|고대 문명=qədim sivilizasiya;고대 그리스=Qədim Yunanıstan
+개방하다|açmaq|시장을 개방하다=bazarı açmaq;시민에게 개방하다=ictimaiyyətə açmaq
+감상하다|zövqlə baxmaq, dinləmək|그림을 감상하다=tabloya tamaşa etmək;음악을 감상하다=musiqi dinləmək|xüsusən sənət əsərlərindən zövq almaq
+무사히|salamat, sağ-salamat|무사히 도착하다=sağ-salamat çatmaq;무사히 끝나다=problemsiz bitmək
+선택|seçim|선택의 자유=seçim azadlığı;선택을 하다=seçim etmək
+품목별|məhsul növünə görə|품목별로 정리하다=məhsul növünə görə düzmək;품목별 가격=məhsullar üzrə qiymət
+진열하다|vitrinə düzmək, sərgiləmək|상품을 진열하다=malları rəfə düzmək;진열된 물건=sərgilənən əşya|nizamla düzüb nümayiş etdirmək
+전달하다|çatdırmaq|메시지를 전달하다=mesajı çatdırmaq;선물을 전달하다=hədiyyəni təqdim etmək
+영업|ticarət fəaliyyəti|영업 시간=iş saatları;영업을 하다=ticarət etmək
+판매하다|satmaq|온라인으로 판매하다=onlayn satmaq;제품을 판매하다=məhsul satmaq
+연기|aktyorluq|연기를 하다=rol oynamaq;연기력=aktyorluq bacarığı
+해파리|meduza|해파리에 쏘이다=meduza sancmaq;해파리 떼=meduza sürüsü
+먹잇감|ov, yem|먹잇감을 찾다=ov axtarmaq;먹잇감이 되다=yem olmaq
+도망치다|qaçmaq|범인이 도망치다=cinayətkar qaçmaq;현실에서 도망치다=reallıqdan qaçmaq
+사냥하다|ov etmək|동물을 사냥하다=heyvan ovlamaq;무리를 지어 사냥하다=sürü halında ov etmək
+생태계|ekosistem|생태계를 보호하다=ekosistemi qorumaq;생태계 파괴=ekosistemin dağıdılması
+목적지|təyinat yeri|목적지에 도착하다=təyinat yerinə çatmaq;최종 목적지=son dayanacaq
+의존하다|asılı olmaq|부모에게 의존하다=valideynlərdən asılı olmaq;수입에 의존하다=idxaldan asılı olmaq
+진땀을 흘리다|tər tökmək (çətinlik çəkmək)|발표하느라 진땀을 흘리다=təqdimat edərkən tər tökmək;질문에 진땀을 흘리다=sual qarşısında çətinlik çəkmək|məcazi: çox əziyyət çəkmək
+발목을 잡다|ayağına bağ olmaq|과거가 발목을 잡다=keçmiş ayağına bağ olmaq;규제가 발목을 잡다=məhdudiyyətlər mane olmaq|məcazi: irəliləməyə mane olmaq
+귀를 기울이다|qulaq asmaq, diqqətlə dinləmək|이야기에 귀를 기울이다=hekayəyə qulaq asmaq;조언에 귀를 기울이다=məsləhətləri diqqətlə dinləmək
+매표소|bilet kassası|매표소 앞에 줄을 서다=kassa qarşısında növbəyə durmaq;매표소에서 표를 사다=kassadan bilet almaq
+긴장하다|gərginləşmək, həyəcanlanmaq|시험 때문에 긴장하다=imtahana görə həyəcanlanmaq;긴장을 풀다=rahatlamaq
+인원수|adam sayı|인원수를 세다=adamları saymaq;인원수가 많다=adam çox olmaq
+이용권|istifadə bileti|이용권을 구매하다=istifadə bileti almaq;1일 이용권=günlük bilet
+알아차리다|fərqinə varmaq|실수를 알아차리다=səhvin fərqinə varmaq;눈치로 알아차리다=hiss edib anlamaq
+바로|dərhal, düz|바로 가다=dərhal getmək;바로 앞=düz qabağı
+잡히다|tutulmaq|범인이 잡히다=cinayətkar tutulmaq;약속이 잡히다=görüş təyin olunmaq|məcazi: əlinə keçməmək, diqqəti cəmləyə bilməmək
+후회스럽다|peşmançılıq doğuran|후회스러운 선택=peşman olduğu seçim;지금 생각하면 후회스럽다=indi düşünəndə peşmanam
+추락하다|qəzaya uğrayıb düşmək|비행기가 추락하다=təyyarə qəzaya uğramaq;인기가 추락하다=populyarlığı yerə çırpılmaq
+전원|hamı / elektrik|전원 참석=hamının iştirakı;전원을 켜다=cihazı yandırmaq
+건지다|çıxarmaq, xilas etmək|물에서 건지다=sudan çıxarmaq;목숨을 건지다=canını qurtarmaq
+탈출하다|qaçmaq, xilas olmaq|위기에서 탈출하다=böhrandan çıxmaq;감옥에서 탈출하다=həbsxanadan qaçmaq
+침묵|sükut|침묵을 지키다=susmaq;침묵이 흐르다=sükut çökmək
+국회의원|deputat|국회의원 선거=parlament seçkiləri;국회의원에 당선되다=deputat seçilmək
+대통령|prezident|대통령 선거=prezident seçkiləri;대통령이 되다=prezident olmaq
+선거|seçki|선거에 나가다=seçkiyə qatılmaq;선거 운동=seçki kampaniyası
+출마설|namizədlik şayiəsi|출마설이 나돌다=namizədlik şayiəsi yayılmaq;출마설을 부인하다=namizədlik şayiəsini təkzib etmək
+부인하다|inkar etmək|사실을 부인하다=faktı inkar etmək;혐의를 부인하다=ittihamı rədd etmək
+선언하다|elan etmək|독립을 선언하다=müstəqillik elan etmək;은퇴를 선언하다=təqaüdə çıxdığını elan etmək
+열렬히|qızğın, coşqu ilə|열렬히 환영하다=coşqu ilə qarşılamaq;열렬히 응원하다=qızğın dəstəkləmək
+민간|özəl, mülki|민간 기업=özəl şirkət;민간 단체=ictimai təşkilat
+우주선|kosmik gəmi|우주선을 발사하다=kosmik gəmi buraxmaq;우주선을 타다=kosmik gəmiyə minmək
+성큼|iri addımlarla|성큼 다가오다=iri addımlarla yaxınlaşmaq;봄이 성큼 다가오다=yaz qapını döymək|yaxınlaşma və ya irəliləyiş mənasında
+귀환하다|geri qayıtmaq|지구로 귀환하다=Yerə qayıtmaq;무사히 귀환하다=sağ-salamat qayıtmaq|xüsusən rəsmi və ya hərbi kontekstdə
+목표|məqsəd, hədəf|목표를 세우다=məqsəd qoymaq;목표를 이루다=məqsədə çatmaq
+단위|vahid|화폐 단위=pul vahidi;길이의 단위=uzunluq vahidi
+챙기다|götürməyi unutmamaq, qayğısına qalmaq|우산을 챙기다=çətirini götürmək;건강을 챙기다=sağlamlığına fikir vermək
+달성하다|nail olmaq|목표를 달성하다=məqsədə nail olmaq;기록을 달성하다=rekorda çatmaq
+횟수|say, dəfə|횟수가 늘다=sayı artmaq;운동 횟수=məşq tezliyi|bir şeyin təkrarlanma sayı
+물방울|su damlası|물방울이 맺히다=su damcıları yığılmaq;물방울 무늬=noxudlu naxış
+굴절되다|sınmaq (işıq)|빛이 굴절되다=işıq sınmaq;물속에서 굴절되다=suda sınmaq
+해가 뜨다|günəş doğmaq|해가 뜨기 전에=günəş doğmamış;해가 뜨는 바다=günəşin doğduğu dəniz
+취재|reportaj hazırlama|취재를 하다=material toplamaq;현장 취재=hadisə yerindən reportaj
+경계선|sərhəd xətti|경계선을 넘다=sərhədi keçmək;경계선을 긋다=sərhəd çəkmək
+과열되다|həddən artıq qızmaq|경쟁이 과열되다=rəqabət həddindən artıq qızışmaq;엔진이 과열되다=mühərrik qızmaq
+불상사|xoşagəlməz hadisə|불상사가 일어나다=xoşagəlməz hadisə baş vermək;불상사를 막다=bədbəxt hadisənin qarşısını almaq
+취재진|jurnalistlər|취재진이 몰리다=jurnalistlər axışmaq;취재진 앞에 서다=jurnalistlərin qarşısına çıxmaq
+몰려들다|axışmaq|사람들이 몰려들다=insanlar axışmaq;관광객이 몰려들다=turist axını olmaq
+바깥|bayır, çöl|바깥 날씨=bayırdakı hava;바깥으로 나가다=bayıra çıxmaq
+합의|razılaşma|합의에 이르다=razılığa gəlmək;합의를 보다=razılaşmaq
+언론계|media dairələri|언론계에서 일하다=mediada işləmək;언론계 인사=media nümayəndəsi
+보도|xəbər, reportaj|보도에 따르면=xəbərlərə görə;보도 자료=press-reliz
+무너지다|uçmaq, çökmək|건물이 무너지다=bina uçmaq;마음이 무너지다=ruhən sarsılmaq
+규모|miqyas|대규모 행사=böyük miqyaslı tədbir;규모가 크다=miqyası böyükdür
+비교적|nisbətən|비교적 쉽다=nisbətən asandır;비교적 저렴하다=nisbətən ucuzdur
+종합병원|çoxprofilli xəstəxana|종합병원에 입원하다=çoxprofilli xəstəxanaya yatmaq;대형 종합병원=böyük çoxprofilli xəstəxana
+진료|müayinə, müalicə|진료를 받다=müayinədən keçmək;진료 시간=qəbul saatları
+처방전|resept|처방전을 받다=resept almaq;처방전 없이=reseptsiz
+지원하다|müraciət etmək / dəstəkləmək|회사에 지원하다=şirkətə müraciət etmək;학비를 지원하다=təhsil haqqını ödəmək
+의원|klinika|동네 의원=məhəllə klinikası;피부과 의원=dermatologiya klinikası
+분류하다|təsnif etmək, çeşidləmək|쓰레기를 분류하다=zibili çeşidləmək;종류별로 분류하다=növlərinə görə təsnif etmək
+생물학자|bioloq|저명한 생물학자=tanınmış bioloq;생물학자가 발견하다=bioloq kəşf etmək
+수정하다|düzəliş etmək|원고를 수정하다=mətnə düzəliş etmək;계획을 수정하다=planı dəyişdirmək
+명명되다|adlandırılmaq|새 이름으로 명명되다=yeni adla adlandırılmaq;발견자의 이름으로 명명되다=kəşf edənin adı verilmək
+앞장서다|öncül olmaq, başçılıq etmək|환경 보호에 앞장서다=ətraf mühitin qorunmasında öncül olmaq;앞장서서 걷다=qabaqda getmək
+저축하다|pul yığmaq|돈을 저축하다=pul yığmaq;매달 저축하다=hər ay pul yığmaq
+가로|eninə, üfüqi|가로로 놓다=eninə qoymaq;가로 길이=en
+세로|uzununa, şaquli|세로로 쓰다=şaquli yazmaq;세로 길이=hündürlük
+차량|nəqliyyat vasitəsi|차량 통행=nəqliyyatın hərəkəti;차량을 운전하다=nəqliyyat vasitəsi idarə etmək
+주택|ev, mənzil|주택 가격=mənzil qiymətləri;단독 주택=fərdi ev
+통장|bank hesabı (kitabçası)|통장을 만들다=bank hesabı açmaq;통장 잔고=hesab qalığı
+장기적|uzunmüddətli|장기적인 계획=uzunmüddətli plan;장기적으로 보다=uzunmüddətli baxmaq
+분산하다|paylamaq, səpələmək|위험을 분산하다=riski bölüşdürmək;인구를 분산하다=əhalini səpələmək
+단기적|qısamüddətli|단기적인 목표=qısamüddətli məqsəd;단기적으로=qısa müddətdə
+은퇴|təqaüd|은퇴 후=təqaüdə çıxandan sonra;은퇴를 준비하다=təqaüdə hazırlaşmaq
+목돈|böyük məbləğ|목돈을 모으다=böyük məbləğ yığmaq;목돈이 들다=böyük pul tələb olunmaq
+각종|müxtəlif|각종 행사=müxtəlif tədbirlər;각종 질병=müxtəlif xəstəliklər
+문방구|dəftərxana mağazası|문방구에 가다=dəftərxana mağazasına getmək;문방구 주인=dəftərxana mağazasının sahibi
+학문|elm|학문을 닦다=elm öyrənmək;학문의 자유=akademik azadlıq
+출세|vəzifədə yüksəlmə|출세를 하다=həyatda yüksəlmək;출세의 길=uğura aparan yol|yüksəlmək, mövqe qazanmaq
+양반|zadəgan (Koreya)|양반 가문=zadəgan nəsli;양반 계층=zadəgan təbəqəsi
+사대부|alim-zadəganlar|사대부 계층=alim-zadəgan təbəqəsi;조선의 사대부=Coson alim-zadəganları
+상인|tacir|상인 계층=tacir təbəqəsi;시장 상인=bazar alverçisi
+탁자|masa, stolik|탁자 위=masanın üstü;둥근 탁자=dəyirmi masa
+일상 용품|gündəlik əşyalar|일상 용품을 사다=gündəlik əşyalar almaq;일상 용품 가게=təsərrüfat mağazası
+문화재|mədəni irs|문화재를 보호하다=mədəni irsi qorumaq;문화재로 지정되다=tarixi abidə kimi qeydə alınmaq
+복원 작업|bərpa işləri|문화재 복원 작업=tarixi abidənin bərpası;복원 작업이 끝나다=bərpa işləri başa çatmaq
+손상되다|zədələnmək|건물이 손상되다=bina zədələnmək;피부가 손상되다=dəri zədələnmək
+요건|tələb, şərt|자격 요건=ixtisas tələbləri;요건을 갖추다=tələblərə cavab vermək
+충족하다|ödəmək, cavab vermək (tələbə)|조건을 충족하다=şərtlərə cavab vermək;기대를 충족하다=gözləntiləri doğrultmaq
+정밀하다|dəqiq, incə|정밀한 검사=ətraflı müayinə;정밀한 기계=dəqiq mexanizm
+수월하다|asan, zəhmətsiz|일이 수월하다=iş asandır;수월하게 끝내다=asanlıqla bitirmək
+만지다|toxunmaq|손으로 만지다=əllə toxunmaq;작품을 만지지 마세요=eksponatlara toxunmayın
+지각|qavrayış|감각 지각=hissi qavrayış;지각 능력=qavrama qabiliyyəti
+능동적|fəal, aktiv|능동적인 태도=fəal mövqe;능동적으로 참여하다=fəal iştirak etmək
+햇빛|günəş işığı|햇빛이 비치다=günəş işığı düşmək;햇빛을 쬐다=günəşlənmək
+접촉|təmas|신체 접촉=fiziki təmas;접촉을 피하다=təmasdan qaçmaq
+유대감|bağlılıq hissi|유대감을 형성하다=bağ yaratmaq;가족 간의 유대감=ailə bağları
+유아|körpə, kiçik uşaq|유아 교육=məktəbəqədər təhsil;유아용 의자=uşaq stulu
+지능|intellekt, zəka|지능이 높다=intellekti yüksəkdir;인공 지능=süni intellekt
+상관관계|qarşılıqlı əlaqə, korrelyasiya|상관관계가 있다=qarşılıqlı əlaqə olmaq;밀접한 상관관계=sıx korrelyasiya
+버섯|göbələk|버섯을 따다=göbələk yığmaq;독버섯=zəhərli göbələk
+양분|qida maddəsi|양분을 흡수하다=qida maddələrini udmaq;양분이 풍부하다=qida maddələri ilə zəngin olmaq
+뿌리|kök|뿌리를 내리다=kök atmaq;뿌리가 깊다=kökləri dərindir
+실|sap|실을 꿰다=sapı iynəyə keçirmək;바늘과 실=iynə və sap
+뻗다|uzanmaq, uzatmaq|팔을 뻗다=qolunu uzatmaq;뿌리가 뻗다=köklər yayılmaq
+처벌|cəza|처벌을 받다=cəzalandırılmaq;처벌을 강화하다=cəzaları sərtləşdirmək
+법안|qanun layihəsi|법안을 발의하다=qanun layihəsi təqdim etmək;법안이 통과되다=qanun layihəsi qəbul olunmaq
+국회|parlament|국회에서 논의하다=parlamentdə müzakirə etmək;국회 의사당=parlament binası
+안건|gündəlik məsələsi|안건을 상정하다=gündəliyə çıxarmaq;안건을 처리하다=məsələni müzakirə edib həll etmək
+반쪽짜리|yarımçıq|반쪽짜리 대책=yarımçıq tədbir;반쪽짜리 성공=natamam uğur
+가해자|təqsirkar, zərər vuran|가해자를 처벌하다=təqsirkarı cəzalandırmaq;가해자와 피해자=təqsirkar və zərərçəkən
+효력|qüvvə, təsir|효력이 발생하다=qüvvəyə minmək;효력을 잃다=qüvvədən düşmək
+경각심|sayıqlıq|경각심을 일깨우다=sayıqlığı artırmaq;경각심을 갖다=sayıq olmaq
+왕관|tac|왕관을 쓰다=tac qoymaq;금 왕관=qızıl tac
+지배 계층|hakim təbəqə|지배 계층의 문화=hakim təbəqənin mədəniyyəti;지배 계층에 속하다=hakim təbəqəyə mənsub olmaq
+장신구|bəzək əşyası, aksesuar|장신구를 하다=zinət taxmaq;금 장신구=qızıl bəzək
+화려하다|parlaq, dəbdəbəli|화려한 옷=parlaq paltar;화려한 무대=təmtəraqlı səhnə
+더욱|daha da|더욱 노력하다=daha çox çalışmaq;더욱 중요하다=daha da vacibdir
+고귀하다|ali, nəcib|고귀한 희생=nəcib fədakarlıq;고귀한 신분=yüksək mənşə
+구하다|tapmaq, axtarmaq / xilas etmək|일자리를 구하다=iş axtarmaq;사람을 구하다=adamı xilas etmək|kontekstdən asılı olaraq
+몇몇|bir neçə, bəzi|몇몇 사람=bəzi adamlar;몇몇 지역=bir neçə bölgə
+기금|fond|기금을 마련하다=fond yaratmaq;장학 기금=təqaüd fondu
+액수|məbləğ|큰 액수=böyük məbləğ;액수가 적다=məbləğ azdır
+편견|qərəz|편견을 갖다=qərəzli olmaq;편견을 버리다=qərəzdən əl çəkmək
+외면하다|üz döndərmək, göz yummaq|현실을 외면하다=reallıqdan üz döndərmək;도움을 외면하다=köməyə biganə qalmaq
+무해하다|zərərsiz|인체에 무해하다=insan orqanizminə zərərsizdir;무해한 성분=zərərsiz tərkib
+지면|səhifə (mətbuat)|지면을 통해=qəzet səhifələri vasitəsilə;지면에 싣다=səhifədə dərc etmək|qəzet və ya jurnal səhifəsi
+배반|xəyanət|배반을 당하다=xəyanətə uğramaq;친구의 배반=dostun xəyanəti
+이별|ayrılıq|이별을 하다=ayrılmaq;슬픈 이별=kədərli ayrılıq
+매듭짓다|yekunlaşdırmaq|협상을 매듭짓다=danışıqları yekunlaşdırmaq;일을 매듭짓다=işi başa çatdırmaq|bir işi sona çatdırmaq
+괴롭다|əzablı, ağır|마음이 괴롭다=ürəyi sıxılmaq;괴로운 기억=acı xatirə
+단편|hekayə, qısa əsər|단편 소설=hekayə;단편 영화=qısametrajlı film
+작별 인사|vidalaşma|작별 인사를 하다=vidalaşmaq;마지막 작별 인사=son vida
+신호|siqnal, işarə|신호를 보내다=işarə vermək;신호등=svetofor
+홱|qəfildən, cəld|홱 돌아서다=qəfildən arxasını çevirmək;고개를 홱 돌리다=başını cəld çevirmək|birdən edilən hərəkəti təsvir edən söz
+현관|dəhliz, giriş qapısı|현관문=giriş qapısı;현관에서 신발을 벗다=girişdə ayaqqabını çıxarmaq
+벌떡|cəld, birdən (ayağa qalxmaq)|벌떡 일어나다=birdən ayağa sıçramaq;벌떡 일어서다=cəld qalxmaq|birdən dikəlmək
+맨발|ayaqyalın|맨발로 걷다=ayaqyalın gəzmək;맨발로 뛰어나가다=ayaqyalın bayıra qaçmaq
+불안하다|narahat olmaq|마음이 불안하다=ürəyi narahatdır;불안한 미래=qeyri-müəyyən gələcək
+흡족하다|razı olmaq|결과에 흡족하다=nəticədən razı olmaq;흡족한 미소=razı təbəssüm
+까다롭다|çətin, tələbkar|입맛이 까다롭다=yeməkdə seçici olmaq;조건이 까다롭다=şərtlər çətindir
+제사|əcdadları anma mərasimi|제사를 지내다=anma mərasimi keçirmək;제사 음식=anma mərasimi yeməkləri
+예법|mərasim qaydaları|예법을 지키다=ədəb qaydalarına əməl etmək;전통 예법=ənənəvi ədəb qaydaları|ənənəvi ritual nizamı
+공경하다|hörmət etmək, ehtiram göstərmək|어른을 공경하다=böyüklərə hörmət etmək;부모를 공경하다=valideynlərə ehtiram göstərmək
+화목|mehribanlıq, sülh (ailədə)|가정의 화목=ailədə sülh;화목하게 지내다=mehriban yaşamaq
+정성|səmimi qayğı, səy|정성을 다하다=bütün səyini göstərmək;정성이 담기다=zəhmət və səmimiyyət hopmaq
+상차림|süfrə düzümü|명절 상차림=bayram süfrəsi;간소한 상차림=sadə süfrə
+간소하다|sadə|간소한 결혼식=sadə toy;절차를 간소하게 하다=prosedurları sadələşdirmək
+운영자|administrator, idarəçi|사이트 운영자=sayt administratoru;가게 운영자=mağaza sahibi|sistemi və ya kanalı idarə edən şəxs
+계정|hesab (internet)|계정을 만들다=hesab yaratmaq;계정에 로그인하다=hesaba daxil olmaq|xüsusən sosial şəbəkə və ya internet hesabı
+개별|fərdi, ayrı-ayrı|개별 상담=fərdi məsləhət;개별적으로=ayrı-ayrılıqda
+무한하다|sonsuz, hədsiz|무한한 가능성=sonsuz imkan;무한한 사랑=hədsiz sevgi
+지방자치단체|yerli özünüidarə orqanı|지방자치단체장=yerli icra başçısı;지방자치단체의 지원=yerli hakimiyyətin dəstəyi
+경찰|polis|경찰에 신고하다=polisə xəbər vermək;경찰서=polis şöbəsi
+밀착되다|sıx bağlı olmaq|몸에 밀착되다=bədənə sıx oturmaq;생활에 밀착되다=gündəlik həyatla sıx bağlı olmaq
+취약점|zəif nöqtə|취약점을 보완하다=zəif nöqtəni aradan qaldırmaq;보안 취약점=təhlükəsizlik boşluğu
+혼선|qarışıqlıq|혼선을 빚다=qarışıqlıq yaratmaq;혼선이 생기다=çaşqınlıq yaranmaq
+가정 폭력|məişət zorakılığı|가정 폭력을 신고하다=məişət zorakılığı barədə xəbər vermək;가정 폭력 피해자=məişət zorakılığının qurbanı
+대응|reaksiya, tədbir|대응 방안=reaksiya yolu;신속한 대응=cəld reaksiya
+애매하다|qeyri-müəyyən, qaranlıq|태도가 애매하다=mövqeyi qeyri-müəyyən olmaq;애매한 대답=dumanlı cavab
+충돌|toqquşma|차량 충돌=avtomobil toqquşması;의견 충돌=fikir toqquşması
+단계적|mərhələli|단계적으로 추진하다=mərhələli həyata keçirmək;단계적 접근=mərhələli yanaşma
+숨소리|nəfəs səsi|숨소리가 거칠다=nəfəsi təngimək;고른 숨소리=bərabər nəfəs səsi
+제출하다|təqdim etmək, təhvil vermək|서류를 제출하다=sənəd təqdim etmək;과제를 제출하다=tapşırığı təhvil vermək
+식비|yemək xərci|식비를 줄이다=yemək xərcini azaltmaq;한 달 식비=aylıq yemək xərci
+상상하다|təsəvvür etmək|미래를 상상하다=gələcəyi təsəvvür etmək;상상할 수 없다=təsəvvür etmək mümkün deyil
+지진|zəlzələ|지진이 일어나다=zəlzələ baş vermək;지진에 대비하다=zəlzələyə hazır olmaq
+상황실|əməliyyat mərkəzi|재난 상황실=fövqəladə hallar mərkəzi;상황실을 운영하다=qərargah işlətmək
+신고|məlumat vermə, şikayət|분실 신고=itki barədə məlumat;신고를 받다=məlumat qəbul etmək
+기상청|Meteorologiya İdarəsi|기상청 예보=meteoroloji proqnoz;기상청이 발표하다=Meteorologiya İdarəsi bildirmək
+이를 닦다|diş fırçalamaq|자기 전에 이를 닦다=yatmazdan əvvəl diş fırçalamaq;식사 후 이를 닦다=yeməkdən sonra diş fırçalamaq
+별로|o qədər də (inkarla)|별로 좋지 않다=o qədər də yaxşı deyil;별로 없다=elə də çox yoxdur|adətən inkar cümləsində işlənir
+상하다|xarab olmaq / incimək|음식이 상하다=yemək xarab olmaq;마음이 상하다=ürəyi qırılmaq
+꼼꼼하다|diqqətli, səliqəli|성격이 꼼꼼하다=xasiyyətcə diqqətli olmaq;꼼꼼하게 확인하다=diqqətlə yoxlamaq
+그만두다|tərk etmək, əl çəkmək|회사를 그만두다=işdən çıxmaq;공부를 그만두다=oxumağı atmaq
+퇴사|işdən çıxma|퇴사를 하다=işdən çıxmaq;퇴사 이유=işdən çıxma səbəbi
+모래시계|qum saatı|모래시계를 뒤집다=qum saatını çevirmək;모래시계 모양=qum saatı formalı
+모래|qum|모래성=qumdan qala;모래사장=qumlu çimərlik
+기구|alət, cihaz|운동 기구=idman aləti;실험 기구=laboratoriya cihazı
+구멍|deşik|구멍이 나다=deşik açılmaq;구멍을 뚫다=deşmək
+액자|çərçivə|액자에 넣다=çərçivəyə salmaq;사진 액자=şəkil çərçivəsi
+천장|tavan|천장이 높다=tavan hündürdür;천장에 매달다=tavandan asmaq
+단독|tək, müstəqil|단독 주택=fərdi ev;단독으로 결정하다=təkbaşına qərar vermək
+여권|pasport (xarici)|여권을 발급받다=pasport almaq;여권을 잃어버리다=pasportu itirmək
+신분증|şəxsiyyət vəsiqəsi|신분증을 보여 주다=şəxsiyyət vəsiqəsini göstərmək;신분증을 지참하다=şəxsiyyət vəsiqəsini yanında gəzdirmək
+표지|üz qabığı|책 표지=kitabın üz qabığı;표지를 넘기다=üz qabığını çevirmək
+상징하다|simvolizə etmək|평화를 상징하다=sülhü simvolizə etmək;국가를 상징하다=dövləti təmsil etmək
+주요|əsas, başlıca|주요 내용=əsas məzmun;주요 도시=başlıca şəhərlər
+문양|naxış, ornament|전통 문양=ənənəvi naxış;꽃 문양=gül naxışı
+장거리|uzaq məsafə|장거리 여행=uzaq səfər;장거리 연애=məsafəli münasibət
+태풍|tayfun|태풍이 오다=tayfun gəlmək;태풍 피해=tayfunun vurduğu ziyan
+휩쓸다|silib-süpürmək|태풍이 마을을 휩쓸다=tayfun kəndi silib-süpürmək;상을 휩쓸다=bütün mükafatları toplamaq
+드물다|nadir|드문 일=nadir hadisə;사람이 드물다=adam az olmaq
+부상당하다|yaralanmaq|사고로 부상당하다=qəzada yaralanmaq;크게 부상당하다=ağır yaralanmaq
+오히려|əksinə|오히려 좋다=əksinə, yaxşıdır;오히려 더 나빠지다=əksinə, daha da pisləşmək
+전략|strategiya|전략을 세우다=strategiya hazırlamaq;마케팅 전략=marketinq strategiyası
+미치다|çatmaq, təsir göstərmək|영향을 미치다=təsir göstərmək;기준에 못 미치다=meyara çatmamaq
+재난|fəlakət|재난 대비=fəlakətə hazırlıq;재난 문자=fövqəladə hal barədə SMS
+끔찍하다|dəhşətli|끔찍한 사고=dəhşətli qəza;생각만 해도 끔찍하다=düşünmək belə dəhşətlidir
+접하다|qarşılaşmaq, tanış olmaq|소식을 접하다=xəbəri eşitmək;문화를 접하다=mədəniyyətlə tanış olmaq
+정신 건강|psixi sağlamlıq|정신 건강을 지키다=psixi sağlamlığı qorumaq;정신 건강 상담=psixoloji məsləhət
+해결하다|həll etmək|문제를 해결하다=problemi həll etmək;갈등을 해결하다=münaqişəni həll etmək
+시일|vaxt, müddət|시일이 걸리다=vaxt aparmaq;빠른 시일 내에=ən qısa müddətdə
+상담사|məsləhətçi|상담사와 이야기하다=məsləhətçi ilə danışmaq;심리 상담사=psixoloq-məsləhətçi
+더불다|birlikdə olmaq|이웃과 더불어 살다=qonşularla birlikdə yaşamaq;자연과 더불어=təbiətlə birlikdə
+등 떠밀다|zorla itələmək|등 떠밀려 결혼하다=istəmədən zorla evlənmək;등 떠밀려 나가다=itələnib çıxarılmaq
+발 벗고 나서다|qolları çırmalamaq|이웃을 돕기 위해 발 벗고 나서다=qonşuya kömək üçün qolları çırmalamaq;문제 해결에 발 벗고 나서다=problemi həll etmək üçün səfərbər olmaq|fəal şəkildə işə girişmək
+손에 땀을 쥐다|nəfəsini tutmaq (həyəcandan)|손에 땀을 쥐는 경기=nəfəs kəsən oyun;손에 땀을 쥐고 보다=həyəcanla izləmək|ovucları tərləmək, çox həyəcanlanmaq
+창고|anbar|창고에 보관하다=anbarda saxlamaq;물류 창고=logistika anbarı
+왈칵|birdən, qəfildən|눈물이 왈칵 쏟아지다=göz yaşları birdən axmaq;화가 왈칵 나다=birdən hirslənmək|xüsusən göz yaşı üçün
+일기장|gündəlik dəftəri|일기장에 쓰다=gündəliyə yazmaq;일기장을 펼치다=gündəliyi açmaq
+혼나다|danlanmaq|선생님께 혼나다=müəllimdən danlaq eşitmək;크게 혼나다=bərk danlanmaq
+빼곡히|sıx, dolu-dolu|빼곡히 적다=sıx-sıx yazmaq;빼곡히 들어차다=ağzına qədər dolmaq|boşluq qoymadan, ətraflı
+적다|yazmaq, qeyd etmək|이름을 적다=adını yazmaq;메모를 적다=qeyd etmək
+자랑스럽다|fəxr ediləsi|자랑스러운 아들=fəxr ediləsi oğul;네가 자랑스럽다=səninlə fəxr edirəm
+진실|həqiqət|진실을 밝히다=həqiqəti üzə çıxarmaq;진실을 말하다=həqiqəti demək
+원작|orijinal əsər|원작 소설=orijinal roman;원작을 바탕으로 하다=orijinal əsərə əsaslanmaq
+폭우|leysan|폭우가 쏟아지다=leysan yağmaq;폭우 피해=leysanın vurduğu ziyan
+기습|qəfil hücum, gözlənilməz hadisə|기습 공격=qəfil hücum;기습 폭우=qəfil leysan
+엉금엉금|yavaş-yavaş, sürünərək|엉금엉금 기어가다=yavaş-yavaş sürünmək;거북이가 엉금엉금 가다=tısbağa ağır-ağır getmək
+곤란을 겪다|çətinlik çəkmək|경제적 곤란을 겪다=maddi çətinlik çəkmək;의사소통에 곤란을 겪다=ünsiyyətdə çətinlik çəkmək
+사기|fırıldaqçılıq|사기를 당하다=aldadılmaq;보이스피싱 사기=telefon fırıldaqçılığı
+급증|kəskin artım|사용자 급증=istifadəçilərin kəskin artımı;급증하는 수요=sürətlə artan tələb
+미흡|qeyri-kafilik, çatışmazlıq|준비 미흡=hazırlığın çatışmazlığı;대책이 미흡하다=tədbirlər qeyri-kafidir
+해외|xarici ölkə|해외 여행=xarici səyahət;해외로 나가다=xaricə getmək
+진출하다|daxil olmaq, çıxmaq (bazara, finala)|해외 시장에 진출하다=xarici bazara çıxmaq;결승에 진출하다=finala çıxmaq
+현지|yerli, həmin yer|현지 시간=yerli vaxt;현지 음식=yerli yemək
+인기를 끌다|populyarlıq qazanmaq|젊은 층에게 인기를 끌다=gənclər arasında populyar olmaq;큰 인기를 끌다=böyük maraq qazanmaq
+빠뜨리다|buraxmaq, unutmaq / salmaq|중요한 것을 빠뜨리다=vacib şeyi buraxmaq;물에 빠뜨리다=suya salmaq
+기호에 맞추다|zövqə uyğunlaşdırmaq|손님의 기호에 맞추다=müştərinin zövqünə uyğunlaşdırmaq;현지인의 기호에 맞추다=yerli əhalinin zövqünə uyğunlaşdırmaq
+최대한|maksimum, mümkün qədər|최대한 빨리=mümkün qədər tez;최대한 노력하다=əlindən gələni etmək
+감추다|gizlətmək|표정을 감추다=üz ifadəsini gizlətmək;진실을 감추다=həqiqəti gizlətmək
+재현하다|bərpa etmək, yenidən canlandırmaq|옛 모습을 재현하다=köhnə görkəmi bərpa etmək;장면을 재현하다=səhnəni olduğu kimi təkrarlamaq|olduğu kimi yenidən yaratmaq
+바위|qaya|바위에 앉다=qayanın üstündə oturmaq;큰 바위=böyük qaya
+운반하다|daşımaq|짐을 운반하다=yük daşımaq;물건을 운반하다=əşya daşımaq
+적정량|münasib miqdar|적정량을 먹다=münasib miqdarda yemək;적정량의 물=kifayət qədər su
+무게|çəki|무게를 재다=çəkmək;무게가 나가다=ağır olmaq
+배치하다|yerləşdirmək|가구를 배치하다=mebeli yerləşdirmək;인력을 배치하다=kadrları yerləşdirmək
+반드시|mütləq|반드시 지키다=mütləq əməl etmək;반드시 성공하다=mütləq uğur qazanmaq
+튕기다|sıçramaq, çırtmaq|공이 튕기다=top sıçramaq;손가락으로 튕기다=barmaqla çırtmaq
+관중|tamaşaçılar|관중이 환호하다=tamaşaçılar alqışlamaq;관중석=tribuna
+구별하다|ayırd etmək|진짜와 가짜를 구별하다=əsli saxtadan ayırd etmək;선악을 구별하다=yaxşını pisdən ayırmaq
+괴로워하다|əzab çəkmək|죄책감에 괴로워하다=günahkarlıq hissindən əzab çəkmək;고통에 괴로워하다=ağrıdan qıvrılmaq
+성과를 내다|nəticə əldə etmək|좋은 성과를 내다=yaxşı nəticə əldə etmək;단기간에 성과를 내다=qısa müddətdə nəticə göstərmək
+양육 과정|tərbiyə prosesi|자녀 양육 과정=uşaq tərbiyəsi prosesi;양육 과정의 어려움=tərbiyə prosesindəki çətinliklər|uşaqlıqda böyüdülmə dövrü
+겸손|təvazökarlıq|겸손한 태도=təvazökar davranış;겸손이 미덕이다=təvazökarlıq fəzilətdir
+연주하다|çalmaq (musiqi)|피아노를 연주하다=pianoda çalmaq;곡을 연주하다=əsər ifa etmək
+악기|musiqi aləti|악기를 배우다=musiqi aləti öyrənmək;전통 악기=xalq çalğı aləti
+음|səs, not|높은 음=yüksək not;음이 맞다=kök düzgündür
+관악기|nəfəs aləti|관악기를 불다=nəfəs alətində çalmaq;관악기 연주자=nəfəs aləti ifaçısı
+또렷하다|aydın, dəqiq|발음이 또렷하다=tələffüzü aydındır;기억이 또렷하다=yaddaşı təzədir
+완료되다|başa çatmaq|설치가 완료되다=quraşdırma başa çatmaq;등록이 완료되다=qeydiyyat tamamlanmaq
+분포하다|yayılmaq, paylanmaq|전국에 분포하다=bütün ölkəyə yayılmaq;고르게 분포하다=bərabər paylanmaq
+곤충|həşərat|곤충을 채집하다=həşərat toplamaq;곤충 박물관=həşərat muzeyi
+지시어|işarə sözü|지시어를 사용하다=işarə sözü işlətmək;지시어가 가리키는 것=işarə sözünün göstərdiyi şey|məs., "이것", "저것"
+혼잣말|öz-özünə danışma|혼잣말을 하다=öz-özünə danışmaq;작은 소리로 혼잣말하다=astadan öz-özünə danışmaq
+일화|lətifə, əhvalat|유명한 일화=məşhur əhvalat;일화를 소개하다=bir əhvalat danışmaq
+외적이다|xarici, zahiri|외적인 아름다움=zahiri gözəllik;외적인 요인=xarici amil
+초점|fokus, diqqət mərkəzi|초점을 맞추다=diqqəti cəmləmək;초점이 흐리다=fokus bulanıqdır
+충분히|kifayət qədər|충분히 자다=kifayət qədər yatmaq;충분히 이해하다=tamamilə başa düşmək
+제조사|istehsalçı|제조사에 문의하다=istehsalçıya müraciət etmək;자동차 제조사=avtomobil istehsalçısı
+검토하다|nəzərdən keçirmək|서류를 검토하다=sənədləri nəzərdən keçirmək;신중히 검토하다=diqqətlə araşdırmaq|təhlil edib qiymətləndirmək
+공격성|aqressivlik|공격성을 보이다=aqressivlik göstərmək;공격성이 강하다=çox aqressiv olmaq
+억제하다|cilovlamaq, saxlamaq|감정을 억제하다=hisslərini cilovlamaq;성장을 억제하다=böyüməni ləngitmək|nəzarət altına almaq, qarşısını almaq
+친화력|ünsiyyətcillik|친화력이 좋다=asan ünsiyyət qurmaq;뛰어난 친화력=yüksək ünsiyyətcillik|başqaları ilə tez yaxınlaşma bacarığı
+삼다|saymaq, qəbul etmək|교훈으로 삼다=ibrət dərsi kimi götürmək;친구로 삼다=dost etmək
+가설|fərziyyə|가설을 세우다=fərziyyə irəli sürmək;가설을 검증하다=fərziyyəni yoxlamaq
+체격|bədən quruluşu|체격이 좋다=yaxşı bədən quruluşu olmaq;체격이 작다=balacaboy olmaq
+포용하다|qucaqlamaq, qəbul etmək|다양성을 포용하다=müxtəlifliyi qəbul etmək;서로 포용하다=bir-birini qəbul etmək
+신념|əqidə, inam|신념을 지키다=əqidəsinə sadiq qalmaq;굳은 신념=möhkəm inam
+사안|məsələ|중요한 사안=vacib məsələ;사안을 검토하다=məsələni araşdırmaq
+중도층|mərkəzçi seçicilər|중도층의 표=mərkəzçi seçicilərin səsi;중도층을 잡다=mərkəzçiləri qazanmaq
+주관|subyektiv baxış|주관이 뚜렷하다=öz fikri aydın olmaq;주관적인 판단=subyektiv mühakimə
+객관|obyektivlik|객관적인 사실=obyektiv fakt;객관적으로 보다=obyektiv baxmaq
+유연하다|çevik, elastik|몸이 유연하다=bədəni çevikdir;유연하게 대처하다=çevik davranmaq
+사고하다|düşünmək, mühakimə yürütmək|논리적으로 사고하다=məntiqli düşünmək;비판적으로 사고하다=tənqidi düşünmək
+양극화|qütbləşmə|소득 양극화=gəlirlərdə qütbləşmə;양극화가 심해지다=qütbləşmə dərinləşmək
+완화하다|yumşaltmaq|규제를 완화하다=məhdudiyyətləri yumşaltmaq;통증을 완화하다=ağrını azaltmaq
+도출되다|əldə edilmək (nəticə)|결론이 도출되다=nəticəyə gəlinmək;합의가 도출되다=razılıq əldə olunmaq
+토대|bünövrə, əsas|토대를 마련하다=zəmin hazırlamaq;성공의 토대=uğurun bünövrəsi
+풍속|adət-ənənə|옛 풍속=köhnə adətlər;풍속화=məişət janrında rəsm
+근현대식|müasir üslublu|근현대식 건물=müasir üslubda bina;근현대식 교육=müasir təhsil|yeni və müasir dövr üslubunda
+장|bağırsaq|장 건강=bağırsaq sağlamlığı;장이 약하다=bağırsaqları zəifdir
+신경계|sinir sistemi|신경계 질환=sinir sistemi xəstəliyi;중추 신경계=mərkəzi sinir sistemi
+근육|əzələ|근육을 키우다=əzələ yığmaq;근육통=əzələ ağrısı
+촉진하다|sürətləndirmək, təşviq etmək|성장을 촉진하다=inkişafı sürətləndirmək;소화를 촉진하다=həzmi yaxşılaşdırmaq
+관장하다|idarə etmək|업무를 관장하다=işlərə rəhbərlik etmək;뇌가 관장하다=beyin idarə etmək
+명령|əmr|명령을 내리다=əmr vermək;명령에 따르다=əmrə tabe olmaq
+작동하다|işləmək (cihaz)|기계가 작동하다=maşın işləmək;제대로 작동하다=düzgün işləmək
+별도|ayrıca|별도로 판매하다=ayrıca satmaq;별도의 비용=əlavə xərc
+심리적이다|psixoloji|심리적인 부담=psixoloji yük;심리적인 안정=psixoloji sakitlik
+궁궐|saray|궁궐을 짓다=saray tikmək;조선의 궁궐=Coson sarayları
+침입하다|soxulmaq, basqın etmək|집에 침입하다=evə soxulmaq;바이러스가 침입하다=virus daxil olmaq
+대작|şah əsər, böyük əsər|불후의 대작=ölməz şah əsər;대작 영화=böyük büdcəli film
+물론|əlbəttə|물론이지요=əlbəttə;물론 어렵지만=əlbəttə, çətindir, amma
+연못|gölməçə, hovuz|연못에 비친 달=gölməçədə əks olunan ay;연못을 파다=hovuz qazmaq|kiçik süni və ya təbii su hövzəsi
+연도|il (istehsal ili və s.)|제작 연도=istehsal ili;연도별 통계=illər üzrə statistika
+일체|hamısı, bütövlükdə|일체의 비용=bütün xərclər;일체 금지=tamamilə qadağandır
+기밀|məxfi məlumat|기밀을 유지하다=məxfiliyi qorumaq;국가 기밀=dövlət sirri
+특출나다|fövqəladə, seçilən|특출난 재능=fövqəladə istedad;특출나게 잘하다=əla bacarmaq|çox fərqli və üstün olmaq
+뛰어나다|üstün, əla|실력이 뛰어나다=bacarığı üstündür;뛰어난 성적=əla qiymətlər
+재능|istedad|재능이 있다=istedadlı olmaq;재능을 살리다=istedadından istifadə etmək
+그럭저럭|birtəhər, pis deyil|그럭저럭 지내다=birtəhər dolanmaq;그럭저럭 괜찮다=pis deyil
+동서남북|dörd tərəf (şərq, qərb, cənub, şimal)|동서남북을 가리다=dörd tərəfi ayırd etmək;동서남북으로 퍼지다=dörd bir yana yayılmaq
+감지하다|hiss etmək, sezmək|위험을 감지하다=təhlükəni sezmək;변화를 감지하다=dəyişikliyi hiss etmək
+해돋이|gündoğumu|해돋이를 보다=gündoğumunu seyr etmək;새해 해돋이=Yeni ilin ilk gündoğumu
+선착장|körpü, iskələ|선착장에서 배를 타다=iskələdən gəmiyə minmək;선착장에 도착하다=iskələyə çatmaq
+심드렁하다|laqeyd, maraqsız|심드렁한 반응=laqeyd reaksiya;심드렁하게 대답하다=könülsüz cavab vermək
+반신반의하다|yarı inanıb, yarı şübhələnmək|소문을 반신반의하다=şayiəyə yarı inanmaq;반신반의하며 듣다=şübhə ilə dinləmək
+오차|xəta, kənarlaşma|오차 범위=xəta həddi;오차가 생기다=kənarlaşma yaranmaq
+짜증스럽다|əsəbiləşdirici|짜증스러운 표정=əsəbi ifadə;기다리는 게 짜증스럽다=gözləmək əsəb pozur
+서양|Qərb|서양 문화=Qərb mədəniyyəti;서양 음식=Qərb mətbəxi
+발견|kəşf|새로운 발견=yeni kəşf;위대한 발견=böyük kəşf
+탐험가|səyyah, kəşfiyyatçı|유명한 탐험가=məşhur səyyah;탐험가의 기록=səyyahın qeydləri
+향신료|ədviyyat|향신료를 넣다=ədviyyat qatmaq;향신료 무역=ədviyyat ticarəti
+대륙|qitə|아시아 대륙=Asiya qitəsi;대륙을 횡단하다=qitəni baştan-başa keçmək
+지구상|yer üzündə|지구상의 모든 생물=yer üzündəki bütün canlılar;지구상에서 사라지다=yer üzündən silinmək
+해상|dəniz|해상 무역=dəniz ticarəti;해상 교통=dəniz nəqliyyatı
+소산|məhsul, bəhrə|노력의 소산=zəhmətin bəhrəsi;시대의 소산=dövrün məhsulu
+인도양|Hind okeanı|인도양을 건너다=Hind okeanını keçmək;인도양의 섬=Hind okeanındakı ada
+극동|Uzaq Şərq|극동 지역=Uzaq Şərq regionu;극동으로 가는 항로=Uzaq Şərqə gedən yol
+왕복하다|gedib-gəlmək|서울과 부산을 왕복하다=Seulla Pusan arasında gedib-gəlmək;왕복 티켓=gediş-dönüş bileti
+경로|yol, marşrut|이동 경로=hərəkət marşrutu;경로를 바꾸다=marşrutu dəyişmək
+매매하다|alqı-satqı etmək|부동산을 매매하다=əmlak alıb-satmaq;주식을 매매하다=səhm alıb-satmaq
+지도|xəritə|지도를 보다=xəritəyə baxmaq;세계 지도=dünya xəritəsi
+미지|naməlum|미지의 세계=naməlum dünya;미지의 땅=kəşf olunmamış torpaqlar
+땅|torpaq, yer|땅을 사다=torpaq almaq;땅이 넓다=ərazisi genişdir
+탐험|kəşf, ekspedisiya|우주 탐험=kosmosun tədqiqi;탐험을 떠나다=ekspedisiyaya yola düşmək
+급속히|sürətlə|급속히 성장하다=sürətlə böyümək;급속히 퍼지다=sürətlə yayılmaq
+풍력|külək enerjisi|풍력 발전=külək enerjisi istehsalı;풍력 발전기=külək turbini
+태양광|günəş enerjisi|태양광 발전=günəş enerjisi istehsalı;태양광 패널=günəş paneli
+점차|getdikcə, tədricən|점차 늘어나다=getdikcə artmaq;점차 나아지다=tədricən yaxşılaşmaq
+육성하다|inkişaf etdirmək, yetişdirmək|산업을 육성하다=sənayeni inkişaf etdirmək;선수를 육성하다=idmançı yetişdirmək
+대대적|geniş miqyaslı|대대적인 공사=geniş miqyaslı tikinti;대대적으로 홍보하다=geniş təbliğat aparmaq
+화성|Mars|화성 탐사=Marsın tədqiqi;화성에 착륙하다=Marsa enmək
+유의미하다|mənalı, əhəmiyyətli|유의미한 결과=əhəmiyyətli nəticə;유의미한 변화=nəzərəçarpan dəyişiklik
+재생하다|bərpa etmək / oynatmaq (video)|영상을 재생하다=videonu oynatmaq;재생 에너지=bərpa olunan enerji|yenidən istehsal etmək, təkrar istifadə etmək
+수입|gəlir|수입이 늘다=gəliri artmaq;수입과 지출=gəlir və xərc
+유한성|məhdudluq|자원의 유한성=resursların məhdudluğu;인간의 유한성=insanın faniliyi
+무한성|sonsuzluq|우주의 무한성=kainatın sonsuzluğu;가능성의 무한성=imkanların hüdudsuzluğu
+존재하다|mövcud olmaq|생명이 존재하다=həyat mövcud olmaq;문제가 존재하다=problem var
+주시하다|diqqətlə izləmək|상황을 주시하다=vəziyyəti diqqətlə izləmək;움직임을 주시하다=hərəkətləri müşahidə etmək
+위협적이다|təhdidedici|위협적인 태도=hədələyici davranış;건강에 위협적이다=sağlamlıq üçün təhlükəlidir
+개인차|fərdi fərq|개인차가 있다=adamdan adama dəyişir;개인차가 크다=fərdi fərqlər böyükdür
+비누|sabun|비누로 씻다=sabunla yumaq;비누 거품=sabun köpüyü
+칫솔|diş fırçası|칫솔질=diş fırçalama;칫솔을 바꾸다=diş fırçasını dəyişmək
+보살피다|qayğısına qalmaq|아이를 보살피다=uşağa baxmaq;환자를 보살피다=xəstəyə qulluq etmək|qoruyub-qollamaq
+유치원|uşaq bağçası|유치원에 다니다=uşaq bağçasına getmək;유치원 선생님=bağça müəllimi
+실천하다|həyata keçirmək|계획을 실천하다=planı həyata keçirmək;환경 보호를 실천하다=ətraf mühiti qorumağı əməldə göstərmək|praktikaya tətbiq etmək
+우체국|poçt|우체국에 가다=poçta getmək;우체국에서 소포를 부치다=poçtdan bağlama göndərmək
+공연장|konsert zalı|공연장을 찾다=konsert zalına getmək;야외 공연장=açıq səhnə
+금지하다|qadağan etmək|흡연을 금지하다=siqaret çəkməyi qadağan etmək;출입을 금지하다=girişi qadağan etmək
+야경|gecə mənzərəsi|야경이 아름답다=gecə mənzərəsi gözəldir;서울의 야경=Seulun gecə mənzərəsi
+전망대|seyr meydançası|전망대에 오르다=seyr meydançasına qalxmaq;전망대에서 내려다보다=seyr meydançasından aşağı baxmaq
+직장인|işçi, ofis işçisi|직장인의 하루=işləyən adamın bir günü;직장인 점심=ofis işçisinin nahar yeməyi|iş həyatındakı adam
+출퇴근하다|işə gedib-gəlmək|지하철로 출퇴근하다=metro ilə işə gedib-gəlmək;출퇴근 시간=işə gediş-gəliş vaxtı
+찾아가다|axtarıb getmək, ziyarət etmək|선생님을 찾아가다=müəllimin yanına getmək;집을 찾아가다=evi axtarıb tapmaq
+교체하다|dəyişdirmək|부품을 교체하다=hissəni dəyişdirmək;감독을 교체하다=məşqçini dəyişmək
+사연|əhvalat, hekayə|사연을 듣다=əhvalatını dinləmək;슬픈 사연=kədərli hekayə
+잔잔하다|sakit, dinc|바다가 잔잔하다=dəniz sakitdir;잔잔한 음악=sakit musiqi
+감동|təsirlənmə|감동을 받다=təsirlənmək;깊은 감동=dərin təsir
+빗길|yaş yol|빗길 운전=yaş yolda sürmə;빗길에 미끄러지다=yaş yolda sürüşmək
+미끄러지다|sürüşmək|길에서 미끄러지다=yolda sürüşmək;시험에서 미끄러지다=imtahandan kəsilmək
+망가지다|xarab olmaq, sınmaq|휴대폰이 망가지다=telefon xarab olmaq;몸이 망가지다=sağlamlığı pozulmaq
+반짝하다|qısa müddət parlamaq|반짝하고 사라지다=bir an parlayıb yox olmaq;반짝 인기=qısamüddətli şöhrət|bir anlıq görünmək
+붐비다|izdihamlı olmaq|사람들로 붐비다=adamla dolu olmaq;출근 시간에 붐비다=iş saatında sıxlıq olmaq|adam əlindən tərpənmək olmamaq
+임시|müvəqqəti|임시 휴업=müvəqqəti bağlı;임시 직원=müvəqqəti işçi
+당|şəkər|당 함량=şəkər miqdarı;당을 줄이다=şəkəri azaltmaq
+가해지다|tətbiq olunmaq, məruz qalmaq|압력이 가해지다=təzyiq göstərilmək;충격이 가해지다=zərbəyə məruz qalmaq|xüsusən güc, istilik, təsir
+굽다|bişirmək (sobada, ızqarada)|고기를 굽다=ət qızartmaq;빵을 굽다=çörək bişirmək
+타조|dəvəquşu|타조 알=dəvəquşu yumurtası;타조처럼 달리다=dəvəquşu kimi qaçmaq
+파묻다|basdırmaq, gömmək|모래에 머리를 파묻다=başını quma soxmaq;얼굴을 파묻다=üzünü gizlətmək
+청각|eşitmə|청각이 예민하다=eşitməsi həssasdır;청각 장애=eşitmə qüsuru
+씻다|yumaq|손을 씻다=əl yumaq;채소를 씻다=tərəvəz yumaq
+유연제|yumşaldıcı (paltar üçün)|섬유 유연제=paltar yumşaldıcısı;유연제를 넣다=yumşaldıcı əlavə etmək
+의존도|asılılıq dərəcəsi|수입 의존도=idxaldan asılılıq;의존도가 높다=asılılıq yüksəkdir
+단순히|sadəcə|단순히 생각하다=sadə düşünmək;단순히 재미로=sadəcə əyləncə üçün
+매섭다|sərt, kəskin|바람이 매섭다=külək sərt əsir;눈빛이 매섭다=baxışları kəskindir|xüsusən hava, külək üçün
+겹겹|qat-qat|겹겹이 쌓이다=qat-qat yığılmaq;옷을 겹겹이 입다=qat-qat geyinmək
+견디다|dözmək|추위를 견디다=soyuğa dözmək;고통을 견디다=ağrıya dözmək
+찬바람|soyuq külək|찬바람이 불다=soyuq külək əsmək;찬바람을 맞다=soyuq küləyə məruz qalmaq
+전시회|sərgi|전시회를 열다=sərgi açmaq;미술 전시회=rəsm sərgisi
+급급하다|yalnız bir şeyin qayğısını çəkmək|변명하기에 급급하다=yalnız bəhanə gətirməklə məşğul olmaq;돈 벌기에 급급하다=yalnız pul qazanmağı düşünmək|başqa şeylərə fikir vermədən bir işə qapılmaq
+관계자|məsul şəxs|업계 관계자=sahə nümayəndəsi;관계자 외 출입 금지=kənar şəxslərin girişi qadağandır
+복제품|surət, replika|복제품을 만들다=surətini çıxarmaq;명화 복제품=məşhur tablonun surəti
+불만을 쏟아 내다|narazılığını bildirmək|고객들이 불만을 쏟아 내다=müştərilər şikayət yağdırmaq;인터넷에 불만을 쏟아 내다=internetdə narazılığını bildirmək|narazılığı açıq ifadə etmək
+행태|davranış tərzi|잘못된 행태=yanlış davranış;소비 행태=istehlak vərdişi
+꽃씨|gül toxumu|꽃씨를 뿌리다=gül toxumu səpmək;꽃씨가 날리다=gül toxumları uçuşmaq
+화분|gül dibçəyi|화분에 심다=dibçəyə əkmək;화분에 물을 주다=dibçəyi sulamaq
+심다|əkmək|나무를 심다=ağac əkmək;희망을 심다=ümid aşılamaq
+때맞추다|vaxtında etmək|때맞춰 도착하다=düz vaxtında çatmaq;때맞춰 비가 오다=yağış vaxtında yağmaq
+수시로|tez-tez, istənilən vaxt|수시로 확인하다=tez-tez yoxlamaq;수시 모집=il ərzində qəbul
+굳어지다|bərkimək|표정이 굳어지다=üzü donub qalmaq;습관이 굳어지다=vərdiş kök salmaq
+똑같다|eynən eyni olmaq|생김새가 똑같다=görkəmləri eynidir;똑같이 나누다=bərabər bölmək
+씩씩하다|cəsur, gümrah|씩씩한 아이=cəsur uşaq;씩씩하게 걷다=gümrah addımlarla getmək
+고통스럽다|əzablı|고통스러운 기억=əzablı xatirə;숨쉬기가 고통스럽다=nəfəs almaq əzablıdır
+구름|bulud|구름이 끼다=buludlanmaq;먹구름=qara bulud|məcazi: çoxlu, izdiham
+몰리다|toplaşmaq, axışmaq|사람이 몰리다=adamlar toplaşmaq;구석으로 몰리다=küncə sıxışdırılmaq
+탁구|stolüstü tennis|탁구를 치다=stolüstü tennis oynamaq;탁구 선수=stolüstü tennisçi
+올해|bu il|올해 목표=bu ilin məqsədi;올해 들어=bu ilin əvvəlindən
+싹쓸이하다|hamısını silib-süpürmək|메달을 싹쓸이하다=bütün medalları toplamaq;상을 싹쓸이하다=mükafatları silib-süpürmək|hamısını qazanmaq
+대출|kredit|대출을 받다=kredit götürmək;대출 이자=kredit faizi
+금리|faiz dərəcəsi|금리가 오르다=faizlər artmaq;금리를 인하하다=faizi endirmək
+막|təbəqə, pərdə|얇은 막=nazik təbəqə;막이 생기다=pərdə əmələ gəlmək
+꼼꼼히|diqqətlə|꼼꼼히 읽다=diqqətlə oxumaq;꼼꼼히 챙기다=diqqətlə hazırlamaq
+약하다|zəif olmaq|몸이 약하다=bədəni zəifdir;마음이 약하다=ürəyi yumşaqdır
+자외선|ultrabənövşəyi şüalar|자외선 차단제=günəşdən qoruyucu krem;자외선이 강하다=UB şüaları güclüdür
+구도|kompozisiya|사진 구도=şəklin kompozisiyası;대립 구도=qarşıdurma mənzərəsi
+폭포|şəlalə|폭포가 떨어지다=şəlalə tökülmək;나이아가라 폭포=Niaqara şəlaləsi
+도로|yol|도로를 건너다=yolu keçmək;고속 도로=magistral
+생동감|canlılıq|생동감이 넘치다=canlılıqla dolu olmaq;생동감 있는 그림=canlı rəsm
+중앙|mərkəz|중앙에 위치하다=mərkəzdə yerləşmək;중앙 정부=mərkəzi hökumət
+동적|dinamik|동적인 움직임=dinamik hərəkət;동적인 장면=hərəkətli səhnə
+천연 자원|təbii sərvətlər|천연 자원이 풍부하다=təbii sərvətlərlə zəngindir;천연 자원을 개발하다=təbii sərvətləri istismar etmək
+갖추다|malik olmaq, təchiz etmək|조건을 갖추다=tələblərə cavab vermək;시설을 갖추다=avadanlıqla təchiz etmək|hazır saxlamaq
+제조업|emal sənayesi|제조업 분야=emal sahəsi;제조업이 발달하다=emal sənayesi inkişaf etmək
+빈약하다|kasıb, zəif|자원이 빈약하다=resursları azdır;내용이 빈약하다=məzmunu zəifdir
+무리하다|həddini aşmaq, zorlamaq|무리하게 운동하다=həddindən artıq məşq etmək;무리한 요구=ağlabatan olmayan tələb|ölçüsüz davranmaq
+가운|xalat, mantiya|의사 가운=həkim xalatı;졸업 가운=məzun mantiyası
+성직자|din xadimi|성직자가 되다=din xadimi olmaq;성직자의 옷=ruhani libası
+겸하다|eyni zamanda olmaq (iki işi)|일과 공부를 겸하다=həm işləyib, həm oxumaq;거실 겸 식당=həm qonaq, həm yemək otağı|bir neçə rolu eyni vaxtda daşımaq
+감염|yoluxma, infeksiya|감염을 예방하다=infeksiyanın qarşısını almaq;감염 경로=yoluxma yolu
+염색하다|boyamaq|머리를 염색하다=saçını boyatmaq;천을 염색하다=parça boyamaq
+품종|sort, cins|새로운 품종=yeni sort;품종을 개량하다=sortu yaxşılaşdırmaq
+혈당|qanda şəkər|혈당이 높다=qanda şəkər yüksəkdir;혈당을 조절하다=şəkəri nəzarətdə saxlamaq
+낮추다|aşağı salmaq|온도를 낮추다=temperaturu aşağı salmaq;목소리를 낮추다=səsini alçaltmaq
+비만증|piylənmə|비만증 환자=piylənmədən əziyyət çəkən xəstə;비만증을 치료하다=piylənməni müalicə etmək
+생육|böyümə (bitki)|생육 환경=böyümə mühiti;생육이 좋다=yaxşı böyümək
+고소득|yüksək gəlir|고소득 직업=yüksək gəlirli peşə;고소득층=yüksək gəlirli təbəqə
+작물|əkin, məhsul|작물을 재배하다=əkin becərmək;농작물=kənd təsərrüfatı məhsulları
+취약하다|zəif, həssas|추위에 취약하다=soyuğa davamsızdır;취약한 계층=həssas təbəqə
+백과사전|ensiklopediya|백과사전을 찾다=ensiklopediyaya baxmaq;걸어 다니는 백과사전=ayaqlı ensiklopediya
+선비|alim, ziyalı (Coson)|조선의 선비=Coson alimləri;선비 정신=ziyalı ruhu
+탐색하다|axtarmaq, araşdırmaq|진로를 탐색하다=gələcək yolunu axtarmaq;주변을 탐색하다=ətrafı araşdırmaq
+의학|tibb|의학 기술=tibb texnologiyası;의학 서적=tibb kitabı
+서적|kitab|전문 서적=ixtisas kitabı;서적을 출판하다=kitab nəşr etmək
+논평|şərh, rəy|논평을 쓰다=şərh yazmaq;신문 논평=qəzet şərhi
+첨부하다|əlavə etmək (fayl)|파일을 첨부하다=fayl əlavə etmək;사진을 첨부하다=şəkil əlavə etmək
+인용하다|sitat gətirmək|문장을 인용하다=cümləni sitat gətirmək;속담을 인용하다=atalar sözü çəkmək
+방대하다|nəhəng, geniş|방대한 자료=geniş material;규모가 방대하다=miqyası nəhəngdir
+해독하다|zərərsizləşdirmək / deşifrə etmək|암호를 해독하다=şifrəni açmaq;독을 해독하다=zəhəri zərərsizləşdirmək|detoks etmək, zəhəri neytrallaşdırmaq
+효소|ferment|소화 효소=həzm fermenti;효소가 분해하다=ferment parçalamaq
+새끼|bala (heyvan)|새끼를 낳다=bala doğmaq;고양이 새끼=pişik balası
+분해하다|sökmək, parçalamaq|기계를 분해하다=maşını sökmək;지방을 분해하다=yağı parçalamaq
+배설물|nəcis, ifrazat|동물 배설물=heyvan nəcisi;배설물을 치우다=nəcisi təmizləmək
+수많다|saysız-hesabsız|수많은 사람=saysız-hesabsız insan;수많은 별=saysız ulduz
+천문학|astronomiya|천문학을 연구하다=astronomiyanı öyrənmək;천문학자=astronom
+광물|mineral|광물 자원=mineral ehtiyatlar;희귀 광물=nadir mineral
+시료|nümunə|시료를 채취하다=nümunə götürmək;토양 시료=torpaq nümunəsi
+채취하다|toplamaq, götürmək|약초를 채취하다=dərman bitkiləri toplamaq;혈액을 채취하다=qan götürmək
+소행성|asteroid|소행성 충돌=asteroidin toqquşması;소행성을 관측하다=asteroidi müşahidə etmək
+탐사하다|tədqiq etmək, kəşf etmək|우주를 탐사하다=kosmosu tədqiq etmək;해저를 탐사하다=dəniz dibini araşdırmaq
+희박하다|seyrək, az|공기가 희박하다=hava seyrəkdir;가능성이 희박하다=ehtimal çox azdır
+경기 침체|iqtisadi tənəzzül|경기 침체가 계속되다=tənəzzül davam etmək;경기 침체에서 벗어나다=tənəzzüldən çıxmaq
+악순환|qapalı dairə|악순환이 반복되다=qapalı dairə təkrarlanmaq;악순환을 끊다=qapalı dairəni qırmaq
+되풀이하다|təkrarlamaq|실수를 되풀이하다=səhvi təkrarlamaq;역사는 되풀이된다=tarix təkrarlanır
+불경기|iqtisadi durğunluq|불경기가 오다=durğunluq başlamaq;불경기에 시달리다=böhrandan əziyyət çəkmək
+비합리적|irrasional, məntiqsiz|비합리적인 소비=məntiqsiz istehlak;비합리적인 생각=irrasional fikir
+참치|tunes|참치 통조림=tunes konservi;참치김밥=tunesli kimbap
+쿼터제|kvota sistemi|쿼터제를 도입하다=kvota sistemi tətbiq etmək;스크린 쿼터제=yerli film kvotası
+포획|tutma, ovlama|포획을 금지하다=ovu qadağan etmək;포획량=ov həcmi
+어획량|balıq ovu həcmi|어획량이 줄다=balıq ovu azalmaq;어획량을 제한하다=balıq ovunu məhdudlaşdırmaq
+국가별|ölkələr üzrə|국가별 순위=ölkələr üzrə reytinq;국가별로 다르다=ölkədən ölkəyə fərqlənmək
+연안|sahil|연안 지역=sahil bölgəsi;연안 어업=sahil balıqçılığı
+수온|suyun temperaturu|수온이 오르다=suyun temperaturu qalxmaq;바다의 수온=dəniz suyunun temperaturu
+급격히|kəskin şəkildə|급격히 증가하다=kəskin artmaq;급격히 변하다=birdən dəyişmək
+융통|çeviklik / borc tapma|융통성이 있다=çevik olmaq;자금을 융통하다=pul tapıb düzəltmək
+외면당하다|diqqətdən kənarda qalmaq|사회에서 외면당하다=cəmiyyətdən kənarda qalmaq;관객에게 외면당하다=tamaşaçı tərəfindən qəbul edilməmək
+전기 자동차|elektromobil|전기 자동차를 충전하다=elektromobili şarj etmək;전기 자동차 보급=elektromobillərin yayılması
+충전하다|şarj etmək, doldurmaq|휴대폰을 충전하다=telefonu şarj etmək;교통카드를 충전하다=nəqliyyat kartına pul yükləmək
+심판|hakim (idman)|심판을 보다=hakimlik etmək;공정한 심판=ədalətli hakim
+필연적|qaçılmaz|필연적인 결과=qaçılmaz nəticə;필연적으로=zəruri olaraq
+사각지대|kor nöqtə|복지 사각지대=sosial yardımın çatmadığı yer;사각지대를 없애다=kor nöqtələri aradan qaldırmaq
+득점|qol, xal qazanma|득점을 올리다=xal qazanmaq;득점 기회=qol imkanı
+반칙|qayda pozuntusu, faul|반칙을 하다=qaydanı pozmaq;반칙으로 퇴장당하다=faula görə meydandan qovulmaq
+판정|qərar, hökm|판정을 내리다=qərar çıxarmaq;심판의 판정=hakimin qərarı
+판독|yoxlama, şərh|비디오 판독=video yoxlama (VAR);판독 결과=yoxlamanın nəticəsi|xüsusən videonun yoxlanılması
+초고속|ifrat sürətli|초고속 인터넷=yüksəksürətli internet;초고속 카메라=ifrat sürətli kamera
+객관적|obyektiv|객관적인 자료=obyektiv məlumat;객관적으로 판단하다=obyektiv qiymətləndirmək
+증거|sübut, dəlil|증거를 찾다=sübut tapmaq;증거가 없다=dəlil yoxdur
+지중해|Aralıq dənizi|지중해 연안=Aralıq dənizi sahili;지중해 음식=Aralıq dənizi mətbəxi
+전역|bütün ərazi|전국 전역=bütün ölkə boyu;전역에 비가 내리다=hər yerdə yağış yağmaq
+소금|duz|소금을 넣다=duz qatmaq;소금을 뿌리다=duz səpmək
+온화하다|mülayim|기후가 온화하다=iqlim mülayimdir;온화한 성격=mülayim xasiyyət
+손꼽히다|sayılıb-seçilən olmaq|최고로 손꼽히다=ən yaxşılardan sayılmaq;세계적으로 손꼽히다=dünyanın sayılan yerlərindən olmaq|ən yaxşılardan biri kimi göstərilmək
+사막|səhra|사막을 건너다=səhranı keçmək;사막화=səhralaşma
+증발되다|buxarlanmaq|물이 증발되다=su buxarlanmaq;돈이 증발되다=pul buxar olub uçmaq
+홍수|daşqın, sel|홍수가 나다=sel gəlmək;정보의 홍수=informasiya seli
+상소문|ərizə (hökmdara)|상소문을 올리다=şaha ərizə təqdim etmək;상소문을 쓰다=rəsmi ərizə yazmaq|hökmdara və ya yuxarı orqana təqdim olunan yazılı tənqid və ya təklif
+깨우침|ayılma, dərk etmə|깨우침을 주다=gözünü açmaq;깨우침을 얻다=aydınlanmaq
+노여움|qəzəb, acıq|노여움을 사다=qəzəbinə səbəb olmaq;노여움을 풀다=acığını soyutmaq
+무릅쓰다|gözə almaq|위험을 무릅쓰다=təhlükəni gözə almaq;반대를 무릅쓰다=etirazlara baxmayaraq etmək
+신하|vəzir, saray əyanı|충성스러운 신하=sadiq vəzir;왕과 신하=şah və əyanları
+눈치|fəhm, sezgi|눈치가 빠르다=fəhmli olmaq;눈치를 보다=başqasının əhvalını güdmək|başqasının əhvalını və ya fikrini sezmə; çəkingənlik mənasında da işlənir
+윗사람|böyük, rəhbər|윗사람을 공경하다=böyüklərə hörmət etmək;윗사람의 지시=rəhbərin göstərişi
+부부|ər-arvad|신혼 부부=yeni evlənmiş cütlük;부부 싸움=ər-arvad davası
+초대하다|dəvət etmək|집에 초대하다=evə dəvət etmək;결혼식에 초대하다=toya çağırmaq
+뜸|ləngimə, gözləmə|뜸을 들이다=ləngitmək;말하기 전에 뜸을 들이다=danışmazdan əvvəl duruxmaq
+발품을 팔다|ayaq döymək, gəzib axtarmaq|발품을 팔아 집을 구하다=çox gəzib ev tapmaq;발품을 팔아야 싸게 산다=gəzib axtarsan ucuz alarsan|bir şey tapmaq üçün çox gəzmək
+수도|su kəməri|수도가 고장 나다=su kəməri xarab olmaq;수돗물=kran suyu
+손을 보다|təmir etmək, əl gəzdirmək|자동차를 손을 보다=maşını təmir etmək;지붕을 손을 보다=damı təmir etmək
+집수리|ev təmiri|집수리를 하다=evi təmir etmək;집수리 비용=ev təmiri xərci
+단장|yenidən bəzəmə|새롭게 단장하다=yenidən bəzəmək;곱게 단장하다=səliqə ilə bəzənmək
+동창|məktəb yoldaşı|초등학교 동창=ibtidai məktəb yoldaşı;동창회=məzunlar görüşü
+인연|tale bağı, tanışlıq|인연을 맺다=bağ qurmaq;좋은 인연=xoş tanışlıq
+꽤나|xeyli|꽤나 어렵다=xeyli çətindir;꽤나 오래되다=xeyli köhnədir
+신화|mif, əfsanə|그리스 신화=Yunan mifologiyası;신화를 쓰다=əfsanə yaratmaq
+탄생하다|doğulmaq|새로운 스타가 탄생하다=yeni ulduz doğulmaq;아기가 탄생하다=körpə dünyaya gəlmək
+알|yumurta|알을 낳다=yumurtlamaq;알에서 깨어나다=yumurtadan çıxmaq
+건국 신화|dövlətin yaranma əfsanəsi|단군 건국 신화=Dangun əfsanəsi;건국 신화를 읽다=yaranma əfsanəsini oxumaq
+강력하다|güclü|강력한 힘=güclü qüvvə;강력하게 요구하다=qətiyyətlə tələb etmək
+왕권|şah hakimiyyəti|왕권을 강화하다=şah hakimiyyətini gücləndirmək;왕권이 약해지다=şah hakimiyyəti zəifləmək
+통합하다|birləşdirmək|부서를 통합하다=şöbələri birləşdirmək;국가를 통합하다=ölkəni birləşdirmək
+물리치다|dəf etmək|적을 물리치다=düşməni dəf etmək;유혹을 물리치다=şirnikləndirməyə müqavimət göstərmək
+주가|səhm qiyməti|주가가 오르다=səhm qiyməti qalxmaq;주가가 폭락하다=səhmlər kəskin düşmək
+조작하다|idarə etmək / saxtalaşdırmaq|기계를 조작하다=maşını idarə etmək;주가를 조작하다=səhm qiymətlərini manipulyasiya etmək
+횡령하다|mənimsəmək (pulu)|회사 돈을 횡령하다=şirkət pulunu mənimsəmək;공금을 횡령하다=dövlət pulunu oğurlamaq
+상해를 가하다|bədən xəsarəti yetirmək|타인에게 상해를 가하다=başqasına xəsarət yetirmək;고의로 상해를 가하다=qəsdən xəsarət yetirmək
+흉악 범죄|ağır cinayət|흉악 범죄가 늘다=ağır cinayətlər artmaq;흉악 범죄를 처벌하다=ağır cinayətləri cəzalandırmaq
+지능화되다|daha hiyləgər olmaq|범죄가 지능화되다=cinayətlər daha hiyləgər olmaq;수법이 지능화되다=üsullar incələşmək
+충격|şok, zərbə|충격을 받다=şoka düşmək;충격적인 소식=şok xəbər
+막심하다|çox böyük, ağır|피해가 막심하다=ziyan çox böyükdür;손해가 막심하다=itki ağırdır
+관대하다|güzəştli, mərhəmətli|처벌이 관대하다=cəza yüngüldür;관대한 태도=mərhəmətli münasibət
+처벌하다|cəzalandırmaq|범인을 처벌하다=cinayətkarı cəzalandırmaq;엄하게 처벌하다=sərt cəzalandırmaq
+질서|nizam, qayda|질서를 지키다=qayda-qanuna əməl etmək;사회 질서=ictimai nizam
+확립하다|bərqərar etmək|질서를 확립하다=nizam yaratmaq;원칙을 확립하다=prinsip müəyyən etmək
+사범|hüquq pozan, cinayətkar|경제 사범=iqtisadi cinayətkar;사범을 단속하다=hüquq pozanlara qarşı mübarizə aparmaq
+엄벌하다|ağır cəzalandırmaq|범죄자를 엄벌하다=cinayətkarı ağır cəzalandırmaq;엄벌에 처하다=ağır cəzaya məhkum etmək
+만연하다|geniş yayılmaq|부정부패가 만연하다=korrupsiya geniş yayılıb;전염병이 만연하다=epidemiya yayılmaq
+미진하다|natamam, qeyri-kafi|대책이 미진하다=tədbirlər qeyri-kafidir;미진한 부분=natamam qalan hissə
+환수하다|geri almaq|부당 이익을 환수하다=qanunsuz gəliri geri almaq;문화재를 환수하다=tarixi əsəri geri qaytarmaq
+촉구하다|çağırmaq, tələb etmək|대책을 촉구하다=tədbir görülməsinə çağırmaq;사과를 촉구하다=üzr istənilməsini tələb etmək
+창조하다|yaratmaq|새로운 가치를 창조하다=yeni dəyər yaratmaq;세상을 창조하다=dünyanı yaratmaq
+고유하다|özünəməxsus|고유한 문화=özünəməxsus mədəniyyət;고유한 특징=özünəməxsus xüsusiyyət
+기본 생활|əsas yaşayış, dolanışıq|기본 생활을 보장하다=minimum yaşayışı təmin etmək;기본 생활비=minimum yaşayış xərci
+생활고|dolanışıq çətinliyi|생활고에 시달리다=dolanışıq çətinliyi çəkmək;생활고를 겪다=yoxsulluq yaşamaq
+사망하다|vəfat etmək, ölmək|사고로 사망하다=qəzada həlak olmaq;병으로 사망하다=xəstəlikdən vəfat etmək
+복지법|sosial təminat qanunu|아동 복지법=uşaqların rifahı haqqında qanun;복지법을 제정하다=sosial təminat qanunu qəbul etmək
+개정안|dəyişiklik layihəsi|법률 개정안=qanuna dəyişiklik layihəsi;개정안이 통과되다=dəyişiklik layihəsi qəbul olunmaq
+불리하다|əlverişsiz|불리한 조건=əlverişsiz şərait;나에게 불리하다=mənim zərərimədir
+처우|rəftar, iş şəraiti|처우를 개선하다=iş şəraitini yaxşılaşdırmaq;처우가 열악하다=rəftar pisdir
+조치|tədbir|조치를 취하다=tədbir görmək;긴급 조치=təcili tədbir
+유능하다|bacarıqlı|유능한 직원=bacarıqlı işçi;유능한 지도자=bacarıqlı rəhbər
+중단하다|dayandırmaq|공사를 중단하다=tikintini dayandırmaq;치료를 중단하다=müalicəni kəsmək
+누리다|zövq almaq, istifadə etmək|행복을 누리다=xoşbəxtlik yaşamaq;혜택을 누리다=imtiyazlardan istifadə etmək
+장갑|əlcək|장갑을 끼다=əlcək geymək;고무 장갑=rezin əlcək
+손수건|cib dəsmalı|손수건으로 닦다=dəsmalla silmək;손수건을 건네다=dəsmal uzatmaq
+끼다|taxmaq, geymək (üzük, əlcək, eynək)|반지를 끼다=üzük taxmaq;안경을 끼다=eynək taxmaq|xüsusən əlcək, üzük, eynək üçün
+일정|cədvəl, plan|일정을 잡다=vaxt təyin etmək;여행 일정=səyahət planı
+이용 후기|istifadəçi rəyi|이용 후기를 남기다=rəy yazmaq;이용 후기를 참고하다=rəylərə baxmaq|istifadədən sonrakı qiymətləndirmə
+입력하다|daxil etmək (məlumat)|비밀번호를 입력하다=parolu daxil etmək;자료를 입력하다=məlumat daxil etmək
+영상|video, görüntü|영상을 찍다=video çəkmək;영상 통화=görüntülü zəng
+신청서|ərizə forması|신청서를 작성하다=ərizə doldurmaq;신청서를 제출하다=ərizə təqdim etmək
+택배|kuryer çatdırılması, bağlama|택배를 보내다=bağlama göndərmək;택배가 오다=bağlama gəlmək
+용품|ləvazimat|생활 용품=məişət əşyaları;캠핑 용품=düşərgə ləvazimatı
+배송하다|çatdırmaq (göndərmək)|상품을 배송하다=malı çatdırmaq;무료로 배송하다=pulsuz çatdırmaq
+조종하다|idarə etmək|비행기를 조종하다=təyyarəni idarə etmək;로봇을 조종하다=robotu idarə etmək|xüsusən nəqliyyat, maşın, robot üçün
+기름|yağ|기름을 두르다=tavaya yağ tökmək;기름값=yanacaq qiyməti
+튀기다|qızartmaq (yağda)|감자를 튀기다=kartof qızartmaq;기름에 튀기다=yağda qızartmaq
+익다|bişmək, yetişmək|고기가 익다=ət bişmək;과일이 익다=meyvə yetişmək
+고리 모양|halqa forması|고리 모양의 귀걸이=halqa sırğa;고리 모양으로 만들다=halqa formasında düzəltmək
+엽서|açıqca|엽서를 보내다=açıqca göndərmək;그림 엽서=şəkilli açıqca
+수염|bığ, saqqal|수염을 기르다=bığ-saqqal saxlamaq;수염을 깎다=qırxınmaq|insanda və ya heyvanda (pişik bığı və s.)
+담|hasar, divar|담을 넘다=hasardan aşmaq;돌담=daş hasar|xüsusən bağ və ya ev ətrafındakı divar
+상관 없다|əlaqəsi olmamaq, fərqi yoxdur|나와 상관 없다=mənə aidiyyəti yoxdur;나이와 상관 없이=yaşdan asılı olmayaraq|problem olmaması
+제작사|istehsal şirkəti|영화 제작사=kinostudiya;게임 제작사=oyun şirkəti
+피해를 막다|ziyanın qarşısını almaq|피해를 막기 위해=ziyanın qarşısını almaq üçün;추가 피해를 막다=əlavə ziyanın qarşısını almaq
+석유|neft|석유 가격=neft qiyməti;석유를 수입하다=neft idxal etmək
+경고하다|xəbərdarlıq etmək|위험을 경고하다=təhlükə barədə xəbərdarlıq etmək;강하게 경고하다=ciddi xəbərdarlıq etmək
+기둥|sütun, dirək|기둥을 세우다=dirək basdırmaq;집안의 기둥=ailənin dayağı
+담당자|məsul şəxs|담당자에게 문의하다=məsul şəxsə müraciət etmək;담당자를 바꾸다=məsul şəxsi dəyişmək
+차이|fərq|차이가 나다=fərq olmaq;세대 차이=nəsillər arası fərq
+끌어내다|çıxarmaq, üzə çıxarmaq|잠재력을 끌어내다=potensialı üzə çıxarmaq;합의를 끌어내다=razılıq əldə etmək
+직원|işçi|회사 직원=şirkət işçisi;직원을 뽑다=işçi götürmək
+막연하다|qeyri-müəyyən, dumanlı|막연한 불안=səbəbsiz narahatlıq;막연하게 생각하다=dumanlı təsəvvür etmək
+결코|əsla, heç vaxt|결코 포기하지 않다=heç vaxt təslim olmamaq;결코 쉽지 않다=heç də asan deyil
+폐교|məktəbin bağlanması|폐교가 되다=məktəb bağlanmaq;폐교를 활용하다=bağlanmış məktəbdən istifadə etmək
+소문|şayiə|소문이 나다=şayiə yayılmaq;소문을 퍼뜨리다=şayiə yaymaq
+눈을 딱 감다|gözünü yumub qərar vermək|눈을 딱 감고 결정하다=gözünü yumub qərar vermək;이번 한 번만 눈을 딱 감다=bu dəfəlik göz yummaq|məcazi: göz yummaq və ya cəsarətlə qərar vermək
+목에 힘을 주다|burnu qalxmaq, lovğalanmaq|승진하더니 목에 힘을 주다=vəzifəsi qalxandan sonra burnu qalxmaq;목에 힘을 주고 다니다=lovğa-lovğa gəzmək|məcazi: özünü göstərmək, təkəbbürlü davranmaq
+퇴직하다|təqaüdə çıxmaq, işdən çıxmaq|회사를 퇴직하다=şirkətdən təqaüdə çıxmaq;정년 퇴직하다=yaş həddinə görə təqaüdə çıxmaq
+데려다주다|aparıb ötürmək|집까지 데려다주다=evə qədər ötürmək;역까지 데려다주다=stansiyaya qədər aparmaq
+잔소리|deyinmə|잔소리를 하다=deyinmək;엄마의 잔소리=ananın deyinməsi
+운전면허를 따다|sürücülük vəsiqəsi almaq|대학생 때 운전면허를 따다=tələbə ikən sürücülük vəsiqəsi almaq;운전면허를 따기 어렵다=sürücülük vəsiqəsi almaq çətindir
+면허증|vəsiqə, lisenziya|면허증을 발급받다=vəsiqə almaq;면허증을 보여 주다=vəsiqəni göstərmək
+당분간|hələlik, bir müddət|당분간 쉬다=bir müddət dincəlmək;당분간 휴업=müvəqqəti bağlıdır
+사방|dörd tərəf|사방을 둘러보다=dörd tərəfə baxmaq;사방이 막히다=dörd tərəf bağlanmaq
+후들후들|əsə-əsə, titrəyərək|다리가 후들후들 떨리다=ayaqları əsmək;후들후들 떨다=tir-tir əsmək
+운전대|sükan|운전대를 잡다=sükan arxasına keçmək;운전대를 돌리다=sükanı çevirmək
+안도감|rahatlıq hissi|안도감을 느끼다=rahatlıq hiss etmək;안도감이 들다=ürəyi rahatlamaq
+새삼|yenidən, təzədən|새삼 느끼다=yenidən hiss etmək;새삼스럽게=sanki ilk dəfəymiş kimi
+뿌듯하다|fəxr hissi duymaq|마음이 뿌듯하다=ürəyi fəxrlə dolmaq;뿌듯한 하루=fəxr dolu gün
+선수|idmançı, oyunçu|축구 선수=futbolçu;국가대표 선수=milli komandanın oyunçusu
+유력|güclü (ehtimal, namizəd)|유력 후보=əsas namizəd;유력한 증거=tutarlı dəlil
+고조|yüksəliş, kəskinləşmə|긴장이 고조되다=gərginlik artmaq;분위기 고조=əhval-ruhiyyənin yüksəlməsi|hiss, gözlənti, həyəcan və s. üçün
+모처럼|uzun müddətdən sonra ilk dəfə|모처럼 쉬다=nəhayət dincəlmək;모처럼의 기회=nadir fürsət|nadir hallarda gələn fürsət
+줄어들다|azalmaq, kiçilmək|인구가 줄어들다=əhali azalmaq;옷이 줄어들다=paltar yığılmaq
+지지부진하다|ləng irəliləmək|협상이 지지부진하다=danışıqlar yerində sayır;공사가 지지부진하다=tikinti ləng gedir|yavaş irəliləmək, sürünmək
+복구|bərpa|피해 복구=ziyanın aradan qaldırılması;복구 작업=bərpa işləri
+속 터지다|səbri tükənmək, əsəbləşmək|답답해서 속 터지다=sıxıntıdan dəli olmaq;속 터지는 상황=əsəb pozan vəziyyət|çox hirslənmək
+저조하다|aşağı, zəif|참여율이 저조하다=iştirak aşağıdır;성적이 저조하다=nəticələr zəifdir
+특정|müəyyən, konkret|특정 지역=müəyyən bölgə;특정한 사람=konkret bir adam
+장소|yer, məkan|약속 장소=görüş yeri;장소를 정하다=yer təyin etmək
+비추다|işıq salmaq, əks etdirmək|빛을 비추다=işıq salmaq;거울에 비추다=güzgüdə əks etdirmək
+그대로|olduğu kimi|그대로 두다=olduğu kimi saxlamaq;그대로 따라 하다=eynilə təkrarlamaq
+연주자|ifaçı|피아노 연주자=pianoçu;유명한 연주자=məşhur ifaçı
+장단|ritm, usul|장단을 맞추다=ritmə uymaq;장단과 고저=ritm və səs yüksəkliyi
+즉흥적|improvizə, anidən|즉흥적인 연주=improvizə ifa;즉흥적으로 결정하다=anidən qərar vermək
+갈래|qol, növ|여러 갈래=bir neçə qol;갈래로 나뉘다=qollara ayrılmaq
+독주|solo ifa|피아노 독주=fortepiano solosu;독주회=solo konsert
+더하다|əlavə etmək, artırmaq|맛을 더하다=dad əlavə etmək;둘에 셋을 더하다=ikinin üstünə üç gəlmək
+다채롭다|rəngarəng, müxtəlif|다채로운 행사=rəngarəng tədbirlər;색이 다채롭다=rəng-rəng olmaq|zəngin, müxtəlif olmaq
+묻다|bulaşmaq|옷에 흙이 묻다=paltara torpaq bulaşmaq;손에 잉크가 묻다=əlinə mürəkkəb bulaşmaq
+비닐장갑|sellofan əlcək|비닐장갑을 끼다=sellofan əlcək geymək;일회용 비닐장갑=birdəfəlik sellofan əlcək
+추천하다|tövsiyə etmək|책을 추천하다=kitab tövsiyə etmək;맛집을 추천하다=yaxşı restoran məsləhət görmək
+영향력|nüfuz, təsir gücü|영향력이 크다=təsiri böyükdür;영향력 있는 인물=nüfuzlu şəxs
+최선|ən yaxşı|최선을 다하다=əlindən gələni etmək;최선의 방법=ən yaxşı yol
+기린|zürafə|기린의 목=zürafənin boynu;키가 기린처럼 크다=zürafə kimi hündür olmaq
+임신|hamiləlik|임신을 하다=hamilə qalmaq;임신 중=hamiləlik dövründə
+영양|qidalanma|영양이 풍부하다=qidalı olmaq;영양 부족=qida çatışmazlığı
+위생|gigiyena|위생 관리=gigiyenaya nəzarət;개인 위생=şəxsi gigiyena
+보건|səhiyyə|보건소=poliklinika;보건 교육=sağlamlıq maarifi
+기록하다|qeyd etmək|일기에 기록하다=gündəliyə yazmaq;역사에 기록되다=tarixə düşmək
+병사|əsgər|병사들이 싸우다=əsgərlər vuruşmaq;부상당한 병사=yaralı əsgər
+통계|statistika|통계를 내다=statistika çıxarmaq;통계에 따르면=statistikaya görə
+도표|diaqram, cədvəl|도표를 그리다=diaqram çəkmək;도표로 나타내다=cədvəllə göstərmək
+설득하다|razı salmaq, inandırmaq|부모님을 설득하다=valideynləri razı salmaq;설득에 실패하다=inandıra bilməmək
+종목|idman növü|운동 종목=idman növü;인기 종목=populyar idman növü
+살짝|azca, yüngülcə|살짝 웃다=yüngülcə gülümsəmək;살짝 데치다=azca pörtlətmək
+고정시키다|bərkitmək|나사로 고정시키다=vintlə bərkitmək;자리를 고정시키다=yerini sabitləmək
+쭉쭉|sürətlə, durmadan|쭉쭉 자라다=sürətlə böyümək;키가 쭉쭉 크다=boyu sürətlə artmaq|uzanma, irəliləmə kimi hallar üçün
+생장|böyümə|식물의 생장=bitkinin böyüməsi;생장 속도=böyümə sürəti|xüsusən bitki və canlıların böyüməsi
+늘다|artmaq|체중이 늘다=çəkisi artmaq;실력이 늘다=bacarığı artmaq|artmaq, çoxalmaq, uzanmaq
+갈라지다|çatlamaq, ayrılmaq|땅이 갈라지다=torpaq çatlamaq;의견이 갈라지다=fikirlər ayrılmaq
+무성하다|qalın, sıx (bitki)|풀이 무성하다=otlar qalın bitmək;소문이 무성하다=şayiələr yayılmaq|xüsusən yarpaq, bitki və s.
+채광|işıqlanma (təbii)|채광이 좋다=yaxşı işıq düşmək;채광 창=işıq pəncərəsi
+경관|mənzərə|아름다운 경관=gözəl mənzərə;도시 경관=şəhər mənzərəsi
+도심|şəhər mərkəzi|도심 한복판=şəhərin tam mərkəzi;도심 속 공원=şəhər içində park
+파급|yayılma, təsir dalğası|파급 효과=zəncirvari təsir;파급력이 크다=təsir dairəsi genişdir
+미리|əvvəlcədən|미리 준비하다=əvvəlcədən hazırlaşmaq;미리 예약하다=əvvəlcədən sifariş etmək
+연계|əlaqələndirmə|연계 프로그램=əlaqəli proqram;지역과 연계하다=bölgə ilə əməkdaşlıq etmək
+소유자|sahib, mülkiyyətçi|건물 소유자=binanın sahibi;차량 소유자=avtomobil sahibi
+부과하다|qoymaq (vergi, cərimə)|세금을 부과하다=vergi qoymaq;벌금을 부과하다=cərimə yazmaq|vergi, cərimə və s. tətbiq etmək
+대부분|əksəriyyət|대부분의 사람=insanların əksəriyyəti;대부분 끝나다=böyük hissəsi bitmək
+전방위적|hərtərəfli|전방위적인 지원=hərtərəfli dəstək;전방위적으로 조사하다=hərtərəfli araşdırmaq
+정비하다|qaydaya salmaq, təmir etmək|자동차를 정비하다=maşına texniki xidmət göstərmək;제도를 정비하다=sistemi təkmilləşdirmək
+병행하다|paralel aparmaq|일과 공부를 병행하다=işi və təhsili paralel aparmaq;치료를 병행하다=müalicəni paralel davam etdirmək
+다각화|şaxələndirmə|사업 다각화=biznesin şaxələndirilməsi;수출 다각화=ixracın şaxələndirilməsi
+연장되다|uzadılmaq|기간이 연장되다=müddət uzadılmaq;영업시간이 연장되다=iş saatları uzadılmaq
+주차장|dayanacaq|주차장에 차를 세우다=maşını dayanacaqda saxlamaq;지하 주차장=yeraltı dayanacaq
+감축하다|ixtisar etmək, azaltmaq|인원을 감축하다=ştatı ixtisar etmək;배출량을 감축하다=tullantıları azaltmaq
+현행|qüvvədə olan|현행 제도=mövcud sistem;현행법=qüvvədə olan qanun
+무용|rəqs|전통 무용=xalq rəqsi;현대 무용=müasir rəqs
+공예|sənətkarlıq|전통 공예=xalq sənətkarlığı;공예품=əl işi
+기능|bacarıq, funksiya|기능을 익히다=bacarıq qazanmaq;다양한 기능=müxtəlif funksiyalar
+규정하다|müəyyən etmək, tənzimləmək|법으로 규정하다=qanunla müəyyən etmək;개념을 규정하다=anlayışı müəyyənləşdirmək
+전승되다|nəsildən-nəslə ötürülmək|대대로 전승되다=nəsildən-nəslə keçmək;구전으로 전승되다=şifahi yolla ötürülmək
+문화유산|mədəni irs|세계 문화유산=dünya mədəni irsi;문화유산을 보존하다=mədəni irsi qorumaq
+원형|ilkin forma|원형을 보존하다=ilkin formasını qorumaq;원형 그대로=ilkin halında
+계승되다|davam etdirilmək|전통이 계승되다=ənənə davam etdirilmək;정신이 계승되다=ruh yaşadılmaq
+전수받다|öyrənmək (ustadan), mənimsəmək|기술을 전수받다=sənəti ustadan öyrənmək;비법을 전수받다=sirri mənimsəmək|xüsusən bacarıq və texnika
+비상등|qəza işığı|비상등을 켜다=qəza işıqlarını yandırmaq;비상등이 깜빡이다=qəza işığı yanıb-sönmək
+민족|millət|민족 문화=milli mədəniyyət;한민족=Koreya milləti
+자긍심|qürur, ləyaqət hissi|자긍심을 갖다=qürur duymaq;민족적 자긍심=milli qürur
+명맥|davamlılıq, ənənənin xətti|명맥을 잇다=ənənəni davam etdirmək;명맥이 끊기다=ənənə qırılmaq|xüsusən mədəniyyət və ənənələrin fasiləsiz davamı
+윗글|yuxarıdakı mətn|윗글의 내용=yuxarıdakı mətnin məzmunu;윗글을 읽고=yuxarıdakı mətni oxuyub
+배출하다|yetişdirmək / tullamaq|인재를 배출하다=kadr yetişdirmək;오염 물질을 배출하다=çirkləndirici maddə atmaq
+단절되다|kəsilmək, qırılmaq|관계가 단절되다=əlaqə kəsilmək;교류가 단절되다=ünsiyyət qırılmaq|bağlantının sona çatması
+보유하다|malik olmaq|기술을 보유하다=texnologiyaya malik olmaq;세계 기록을 보유하다=dünya rekordçusu olmaq
+길거리|küçə|길거리 음식=küçə yeməyi;길거리 공연=küçə tamaşası
+벽면|divarın səthi|벽면을 장식하다=divarı bəzəmək;벽면 가득=bütün divar boyu
+낙서하다|cızma-qara etmək|벽에 낙서하다=divara cızma-qara etmək;책에 낙서하다=kitaba cızmaq
+공공장소|ictimai yer|공공장소에서 흡연하다=ictimai yerdə siqaret çəkmək;공공장소 예절=ictimai yerlərdə davranış qaydaları
+소수|azlıq|소수 의견=azlığın fikri;소수 민족=milli azlıq
+약자|zəif, həssas şəxs|사회적 약자=sosial cəhətdən həssas təbəqə;약자를 보호하다=zəifləri qorumaq
+목소리|səs|목소리가 크다=səsi ucadır;목소리를 내다=səsini ucaltmaq
+주류|əsas axın|주류 문화=əsas mədəniyyət;주류를 이루다=əksəriyyəti təşkil etmək
+폄하당하다|dəyərsizləşdirilmək|능력을 폄하당하다=bacarığı kiçildilmək;부당하게 폄하당하다=nahaq yerə dəyərsizləşdirilmək
+제자리|öz yeri|제자리에 두다=yerinə qoymaq;제자리로 돌아오다=öz yerinə qayıtmaq
+확고히|möhkəm, qəti|확고히 하다=möhkəmləndirmək;입장을 확고히 하다=mövqeyini qətiləşdirmək
+수동적|passiv|수동적인 태도=passiv münasibət;수동적으로 받아들이다=passiv qəbul etmək
+우호적|dostcasına|우호적인 관계=dostluq münasibətləri;우호적으로 대하다=dostcasına davranmaq
+이끌어 내다|əldə etmək, nail olmaq|변화를 이끌어 내다=dəyişikliyə nail olmaq;좋은 결과를 이끌어 내다=yaxşı nəticə əldə etmək|üzə çıxarmaq, təşviq etmək
+뛰어넘다|aşmaq, keçmək|한계를 뛰어넘다=hüdudları aşmaq;담을 뛰어넘다=hasardan aşmaq|sərhədləri aşmaq, öhdəsindən gəlmək
+대견하다|fəxr ediləsi, təqdirəlayiq|아들이 대견하다=oğlu ilə fəxr etmək;대견한 행동=təqdirəlayiq hərəkət
+못마땅하다|xoşa gəlməmək|못마땅한 표정=narazı ifadə;태도가 못마땅하다=davranışı xoşa gəlməmək|bəyənməmək, münasib görməmək
+이미|artıq, çoxdan|이미 늦었다=artıq gecdir;이미 알고 있다=artıq bilirəm
+막|elə indi, təzəcə|막 도착하다=təzəcə gəlmək;막 나가려던 참이다=elə indi çıxırdım
+미세|incə, xırda|미세 먼지=narın toz;미세한 차이=cüzi fərq
+강우|yağıntı|강우량=yağıntının miqdarı;인공 강우=süni yağış|elmi və texniki kontekstdə
+활발히|fəal şəkildə|활발히 활동하다=fəal çalışmaq;활발히 논의하다=qızğın müzakirə etmək
+근본적|köklü, əsaslı|근본적인 원인=əsas səbəb;근본적으로 해결하다=kökündən həll etmək
+상용화|kommersiyalaşma|상용화 단계=kommersiyalaşma mərhələsi;상용화되다=geniş istifadəyə verilmək
+재정적|maliyyə|재정적 지원=maliyyə dəstəyi;재정적으로 어렵다=maddi çətinlik içində olmaq
+건강세|sağlamlıq vergisi|건강세를 부과하다=sağlamlıq vergisi qoymaq;건강세 도입=sağlamlıq vergisinin tətbiqi
+가공 식품|emal olunmuş qida|가공 식품을 줄이다=emal olunmuş qidanı azaltmaq;가공 식품 첨가물=qida əlavələri
+질병|xəstəlik|질병을 예방하다=xəstəliyin qarşısını almaq;질병에 걸리다=xəstəliyə tutulmaq
+재원|maliyyə mənbəyi|재원을 마련하다=vəsait tapmaq;재원이 부족하다=vəsait çatışmır
+세대|nəsil|젊은 세대=gənc nəsil;세대 차이=nəsillər arasındakı fərq
+채택하다|qəbul etmək|의견을 채택하다=fikri qəbul etmək;교과서로 채택하다=dərslik kimi seçmək
+섬유질|lifli maddə, sellüloza|섬유질이 풍부하다=liflə zəngin olmaq;섬유질 음식=lifli qida
+틀|qəlib, çərçivə|틀에 박히다=qəlibə düşmək;틀을 깨다=qəlibləri sındırmaq
+자국|iz|발자국=ayaq izi;자국이 남다=iz qalmaq
+저작권|müəllif hüququ|저작권을 침해하다=müəllif hüququnu pozmaq;저작권 보호=müəllif hüququnun qorunması
+문서|sənəd|문서를 작성하다=sənəd tərtib etmək;공식 문서=rəsmi sənəd
+해양|dəniz, okean|해양 생물=dəniz canlıları;해양 오염=dənizin çirklənməsi
+서식하다|yaşamaq (təbii mühitdə)|숲에 서식하다=meşədə yaşamaq;바다에 서식하는 동물=dənizdə yaşayan heyvanlar|heyvanların və ya canlıların təbii mühitdə yaşaması
+언덕|təpə|언덕을 오르다=təpəyə qalxmaq;언덕 위의 집=təpənin üstündəki ev
+골짜기|dərə|깊은 골짜기=dərin dərə;골짜기를 따라 흐르다=dərə boyu axmaq
+파괴되다|dağıdılmaq|환경이 파괴되다=ətraf mühit dağıdılmaq;건물이 파괴되다=bina dağılmaq
+콘크리트|beton|콘크리트 건물=beton bina;콘크리트로 덮다=betonla örtmək
+자갈|çınqıl|자갈길=çınqıllı yol;자갈을 깔다=çınqıl döşəmək
+지형|relyef|지형이 험하다=relyef kələ-kötürdür;지형을 이용하다=relyefdən istifadə etmək
+엄격히|ciddi şəkildə|엄격히 금지하다=ciddi şəkildə qadağan etmək;엄격히 관리하다=ciddi nəzarət etmək
+저마다|hər biri|저마다 다르다=hər biri fərqlidir;저마다의 개성=hər birinin özünəməxsusluğu
+따스하다|ilıq, isti|따스한 햇살=ilıq günəş şüaları;따스한 마음=isti ürək
+호평|müsbət rəy|호평을 받다=müsbət rəy almaq;관객의 호평=tamaşaçıların rəğbəti
+우연하다|təsadüfi|우연한 만남=təsadüfi görüş;우연히 발견하다=təsadüfən tapmaq
+노숙|küçədə yaşama|노숙을 하다=küçədə gecələmək;노숙인=evsiz
+지치다|yorulmaq, əldən düşmək|일에 지치다=işdən yorulmaq;몸도 마음도 지치다=həm bədənən, həm ruhən əldən düşmək
