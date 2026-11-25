@@ -647,7 +647,7 @@ $('rvxShare').onclick=async()=>{const f=new File([JSON.stringify(rvPayload(),nul
 
 // ---------- güncelleme notları ----------
 const NOTES=[
- ['1.0','2026-11-25',{az:['덩어리숲 azərbaycanlı dostlar üçün açıldı! 🇦🇿','Səviyyələr: A1–A2, B1–B2, TOPIK Ⅰ (1.671 söz), TOPIK Ⅱ (2.689 söz), Hanca (Çin heroqlifləri)','Hər sözə söz birləşmələri (짝꿍어휘), çevrilən kartlar, irəliləyiş cədvəli','Bakı mənzərəli arxa fon: Alov qüllələri, Qız qalası, Xəzər dənizi və nar ağacları','Azərbaycan ruhunda sakit fon musiqisi: Segah muğamı, balaban, kamança, tar, qanun, qaval və Xəzər dalğalarının səsi','Sözlərin mənaları hazırda türkcədir; azərbaycanca yoxlaması davam edir'],ko:['아제르바이잔 친구들을 위한 덩어리숲이 열렸어요! 🇦🇿','레벨: A1–A2, B1–B2, TOPIK Ⅰ (1,671단어), TOPIK Ⅱ (2,689단어), 한자','단어마다 짝꿍어휘, 카드 뒤집기, 나의 진도표','바쿠 풍경 배경: 불꽃 타워, 처녀의 탑, 카스피해, 석류나무','아제르바이잔 느낌의 힐링 배경 음악: 세가 무감, 발라반·카만차·타르·가눈·가발, 카스피해 파도 소리','단어 뜻은 아직 튀르키예어예요. 아제르바이잔어 검수를 진행하고 있어요']}]
+ ['1.0','2026-11-25',{az:['덩어리숲 azərbaycanlı dostlar üçün açıldı! 🇦🇿','Səviyyələr: A1–A2, B1–B2, TOPIK Ⅰ (1.671 söz), TOPIK Ⅱ (2.689 söz), Hanca (Çin heroqlifləri)','Hər sözə söz birləşmələri (짝꿍어휘), çevrilən kartlar, irəliləyiş cədvəli','Bakı mənzərəli arxa fon: Alov qüllələri, Qız qalası, Xəzər dənizi və nar ağacları','Fon musiqisi: Azərbaycan xalq mahnısı “Apardı selər Saranı” — balaban, kamança, tar, qanun, qaval və Xəzər dalğalarının səsi ilə sakit düzənləmə','Sözlərin mənaları hazırda türkcədir; azərbaycanca yoxlaması davam edir'],ko:['아제르바이잔 친구들을 위한 덩어리숲이 열렸어요! 🇦🇿','레벨: A1–A2, B1–B2, TOPIK Ⅰ (1,671단어), TOPIK Ⅱ (2,689단어), 한자','단어마다 짝꿍어휘, 카드 뒤집기, 나의 진도표','바쿠 풍경 배경: 불꽃 타워, 처녀의 탑, 카스피해, 석류나무','배경 음악: 아제르바이잔 전통 민요 “Apardı selər Saranı”를 발라반·카만차·타르·가눈·가발과 카스피해 파도 소리로 잔잔하게 편곡','단어 뜻은 아직 튀르키예어예요. 아제르바이잔어 검수를 진행하고 있어요']}]
 ];
 function renderNotes(){$('notesBody').innerHTML=NOTES.map(([v,d,n])=>`<div class="nver"><b>v${v}</b><small>${d}</small><ul>${n[S.lang].map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>`).join('')}
 $('mBook').addEventListener('click',e=>{if(e.target.id==='mBook')$('mBook').hidden=true});
@@ -656,23 +656,28 @@ $('bNotesOk').onclick=()=>{$('mNotes').hidden=true};
 
 // ---------- arka plan müziği (WebAudio ile üretilir) ----------
 const BGM=(()=>{
- // Azərbaycan ruhunda, sakit və dinləndirici fon musiqisi: Segah muğamı (Mi), 6/8 laylay ritmi,
- // balaban (yumşaq nəfəs), kamança (yay), tar (tel), qanun, yumşaq qaval və Xəzər dalğalarının səsi
- let ctx=null,master=null,duckG=null,bus=null,timer=null,step=0,next=0,on=false,noise=null,waves=null,sec=0;
- const E=0.4;// səkkizlik ≈ 150/dəq → 6/8-də yavaş laylay (≈ 50 nəbz)
- const BAR=6;
+ // Azərbaycan xalq mahnısı "Apardı selər Saranı" — yavaş, sakit və dinləndirici düzənləmə (3/8)
+ // balaban və kamança növbə ilə, tar, qanun, yumşaq qaval və Xəzər dalğalarının səsi
+ let ctx=null,master=null,duckG=null,bus=null,timer=null,step=0,next=0,on=false,noise=null,waves=null,pass=0;
+ const E=0.42,S16=E/2;// səkkizlik 0,42 san — yavaş və rahat
+ const BAR=6;// 3/8 = 6 on altılıq
  const N=m=>440*Math.pow(2,(m-69)/12);
- // Segah (Mi): Do Re MI Fa Sol La Si Do Re Mi … — 0 = Mi4
- const SEG=[57,59,60,62,64,65,67,69,71,72,74,76,77,79];
- const deg=d=>SEG[d+4];
- // Bir xana = 6 səkkizlik. [pillə, uzunluq]
- const OPEN=[[[0,3],[1,1],[0,1],[-1,1]],[[0,2],[2,1],[3,2],[2,1]],[[3,3],[2,1],[1,1],[0,1]],[[2,1],[3,1],[5,1],[3,3]],[[-1,1],[0,2],[2,1],[1,2]]];
- const MID=[[[5,3],[6,1],[5,1],[4,1]],[[7,3],[6,1],[5,2]],[[3,1],[5,2],[4,1],[3,2]],[[4,2],[3,1],[2,3]],[[5,2],[7,1],[6,3]]];
- const CAD=[[[2,1],[1,2],[0,3]],[[1,2],[0,1],[-1,1],[0,2]],[[3,1],[2,1],[1,2],[0,2]]];
- const CHORDS=[[40,47,52],[36,43,48],[38,45,50],[40,47,52]];// Mi – Do – Re – Mi (burdon)
- let section=[],lead='balaban',drums=true,rest=false;
- const pick=a=>a[Math.random()*a.length|0];
- function newSection(){sec++;section=[pick(OPEN),pick(MID),pick(OPEN),pick(CAD)];lead=sec%2?'balaban':'kamanca';drums=sec>1&&Math.random()<.75;rest=sec%5===0}
+ const Fs=66,G4=67,A4=69,B4=71,R=null;
+ const UP={66:67,67:69,69:71,71:73};// trel/bəzək üçün üst qonşu nota
+ // [nota, uzunluq(on altılıq), bəzək] — 't' = trel, 'g' = aşağıdan sürüşmə
+ const M={
+  a1:[[A4,4],[A4,2]],a2:[[A4,3],[A4,1],[G4,2]],a3:[[A4,4,'t'],[G4,2]],a4:[[G4,4],[Fs,2]],a5:[[A4,6,'g']],a6:[[A4,2],[R,4]],
+  a7:[[Fs,4],[G4,2]],a9:[[A4,4],[G4,2]],a10:[[G4,4,'t'],[Fs,2]],a11:[[Fs,6]],a12:[[Fs,2],[R,4]],
+  b0:[[A4,2],[A4,4]],b2:[[A4,3],[B4,1],[A4,2]],b3:[[G4,4,'t'],[Fs,2]],b6:[[Fs,2],[G4,4]],
+  c2:[[A4,2],[A4,2],[G4,2]],r:[[R,6]]};
+ M.a8=M.a2;M.b1=M.a2;M.b4=M.a5;M.b5=M.a6;M.b7=M.a2;M.b8=M.b2;M.b9=M.b3;M.b10=M.a11;M.b11=M.a12;M.c1=M.a7;M.c3=M.b2;M.c4=M.b3;M.c5=M.b2;M.c6=M.b3;M.c7=M.b2;M.c8=M.b3;M.c9=M.a11;M.c10=M.a12;
+ const A=['a1','a2','a3','a4','a5','a6','a7','a8','a9','a10','a11','a12'];
+ const B=['b0','b1','b2','b3','b4','b5','b6','b7','b8','b9','b10','b11'];
+ const C=['c1','c2','c3','c4','c5','c6','c7','c8','c9','c10'];
+ const FORM=[...A,...A,...B,...B,...C,'r','r','r','r'];
+ // burdon: notaya görə Re, Mi və ya Fa# üzərində
+ const CH={69:[38,45,50],67:[40,47,52],66:[42,49,54],71:[43,50,55]};
+ let lead='balaban',prevM=null;
  function reverb(){const len=ctx.sampleRate*3.5,b=ctx.createBuffer(2,len,ctx.sampleRate);for(let c=0;c<2;c++){const d=b.getChannelData(c);for(let i=0;i<len;i++)d[i]=(Math.random()*2-1)*Math.pow(1-i/len,2.2)}const r=ctx.createConvolver();r.buffer=b;return r}
  function init(){
   ctx=new (window.AudioContext||window.webkitAudioContext)();
@@ -735,26 +740,26 @@ const BGM=(()=>{
   g.gain.setValueAtTime(v,t);g.gain.exponentialRampToValueAtTime(.001,t+.5);o.connect(g);g.connect(bus);o.start(t);o.stop(t+.55)}
  function tek(t,v=.02){const n=ctx.createBufferSource(),f=ctx.createBiquadFilter(),g=ctx.createGain();n.buffer=noise;f.type='bandpass';f.frequency.value=3000;f.Q.value=1.3;
   g.gain.setValueAtTime(v,t);g.gain.exponentialRampToValueAtTime(.001,t+.07);n.connect(f);f.connect(g);g.connect(bus);n.start(t);n.stop(t+.09)}
- let prevM=null;
  function schedule(){
   while(next<ctx.currentTime+1.6){
-   const pos=step%BAR,bar=Math.floor(step/BAR),bi=bar%4,t=next;
-   if(pos===0&&bi===0)newSection();
-   const ch=CHORDS[bi];
-   if(pos===0)pad(ch,t,E*BAR);
-   // 6/8 laylay ritmi: DUM . tek | dum . tek
-   if(drums){if(pos===0)dum(t,.085);else if(pos===3)dum(t,.05);if(pos===2||pos===5)tek(t,.018)}
-   // tar: aşağıda yumşaq arpecio
-   if(pos===0)tar(ch[0]+12,t,.04,1.3);else if((pos===2||pos===4)&&Math.random()<.8)tar(ch[1+(pos>>2)]+12,t,.028,.8);
-   // qanun: bəzən yuxarıda işıltı
-   if(pos===5&&Math.random()<.45)qanun(pick(ch)+36,t,.02);
-   // melodiya (hər 5-ci bölmə yalnız musiqi fonu — nəfəs)
-   if(!rest&&(bi!==3||pos<6)){let acc=0;for(const [d,l] of section[bi]){if(acc===pos){const m=deg(d),dur=l*E;
-     const slide=prevM!==null&&Math.abs(prevM-m)<=2&&Math.random()<.5?prevM:null;
-     if(lead==='balaban')balaban(m,t,dur*.97,.05,slide);else kamanca(m,t,dur*.97,.042,slide);
-     if(l>=3&&Math.random()<.5)tar(m,t+E*1.5,.025,.6);
-     prevM=m;break}acc+=l}}
-   step++;next+=E;
+   const pos=step%BAR,bar=Math.floor(step/BAR),fi=bar%FORM.length,id=FORM[fi],t=next,notes=M[id];
+   if(fi===0&&pos===0){pass++;lead=pass%2?'balaban':'kamanca'}
+   const first=(notes.find(n=>n[0]!==null)||[66])[0],ch=CH[first];
+   if(pos===0)pad(ch,t,S16*BAR);
+   const play=id!=='r';
+   // 3/8 ritm: DUM . . tek . tek
+   if(play&&pass>1){if(pos===0)dum(t,.08);else if(pos===4)tek(t,.018);else if(pos===2&&Math.random()<.4)tek(t,.012)}
+   // tar: yumşaq arpecio
+   if(pos===0)tar(ch[0]+12,t,play?.038:.028,1.2);else if(pos===2||pos===4)tar(ch[pos/2]+12,t,.024,.7);
+   if(pos===5&&Math.random()<.4)qanun(ch[Math.random()*3|0]+36,t,.018);
+   // melodiya
+   let acc=0;for(const [m,l,o] of notes){if(acc===pos){if(m!==null){let st=t,dur=l*S16;
+     const L=lead==='balaban'?balaban:kamanca,v=lead==='balaban'?.05:.042;
+     if(o==='t'){L(UP[m],st,.1,v*.8,prevM);st+=.1;dur-=.1;L(m,st,dur*.97,v,UP[m])}
+     else L(m,st,dur*.97,v,o==='g'?m-2:(prevM!==null&&Math.abs(prevM-m)<=2&&Math.random()<.4?prevM:null));
+     if(l>=6)qanun(m+12,t+E,.016);
+     prevM=m}break}acc+=l}
+   step++;next+=S16;
   }
  }
  function vol(){return (S.vol/100)*.8}
