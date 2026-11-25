@@ -488,7 +488,7 @@ $('lvBody').addEventListener('click',e=>{const b=e.target.closest('.pick');if(!b
 });
 
 // ---------- ayarlar ----------
-function renderSettings(){
+function renderSettings(){try{$('rvSet').hidden=!(RV.unlocked||Object.keys(RV.items||{}).length)}catch(e){}
  $('sizeChips').innerHTML=[10,0].map(n=>`<button class="chip" data-size="${n}" aria-pressed="${n===S.size}">${n?n:t('sizeAll')+' · '+pool().length}</button>`).join('');
  $('bTimer').textContent=S.timer?t('timerOn'):t('timerOff');$('bTimer').setAttribute('aria-pressed',S.timer);
  $('bAuto').textContent=S.auto?t('autoOn'):t('autoOff');$('bAuto').setAttribute('aria-pressed',S.auto);
@@ -612,10 +612,11 @@ function rvStore(st){const w=rvList[rvI];if(!w)return;const v=rvRead();
  if(rec.st==='del'&&ch){rec.tr=v.tr;rec.pairs=v.pairs}
  RV.items[w.id]=rec;delete RV.drafts[w.id];RV.updated=new Date().toISOString();rvSave()}
 function rvGo(d){rvBuild();rvI=Math.max(0,Math.min(rvList.length-1,rvI+d));rvRender();$('rvCard').scrollTop=0}
-function openReview(){
+function openReview(){if(!RV.unlocked){RV.unlocked=true;rvSave()}$('rvSet').hidden=false;
  if(!rvLv&&RV.pos&&LEVELS.some(L=>L.id===RV.pos.lv)){const P=RV.pos;rvLv=P.lv;rvUnit=P.unit||'all';rvFilter=P.filter||'all';rvBuild();const i=rvList.findIndex(w=>w.id===P.id);rvI=i>=0?i:0}
  rvLv=rvLv||S.lv;rvBuild();show('review');rvRender()}
 $('bReview2').onclick=()=>{$('mSet').hidden=true;openReview()};
+window.addEventListener('hashchange',()=>{if(location.hash==='#kontrol'&&introDone)openReview()});
 $('rvQuit').onclick=()=>{show('home');renderHome()};
 $('rvLv').onchange=e=>{rvLv=e.target.value;rvUnit='all';rvI=0;rvBuild();rvRender()};
 $('rvUnit').onchange=e=>{rvUnit=e.target.value;rvI=0;rvBuild();rvRender()};
