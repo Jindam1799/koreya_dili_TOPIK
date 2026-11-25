@@ -28,7 +28,7 @@ for l in open(P('tools/topik1_topics.txt'),encoding='utf-8'):
     if not l or '|' not in l:continue
     n,ws=l.split('|');T.append(n)
     for w in ws.split():assign.setdefault(w.replace('_',' '),n)
-A12MAP={'여행 (seyahat)':'여행과 나라 (seyahat ve ülkeler)','동물과 식물 (hayvan ve bitki)':'동물·식물·자연 (hayvan, bitki ve doğa)','부사와 표현 (zarflar ve ifadeler)':'부사와 연결어 (zarflar ve bağlaçlar)'}
+A12MAP={'여행 (səyahət)':'여행과 나라 (səyahət və ölkələr)','동물과 식물 (heyvanlar və bitkilər)':'동물·식물·자연 (heyvanlar, bitkilər və təbiət)','부사와 표현 (zərflər və ifadələr)':'부사와 연결어 (zərflər və bağlayıcılar)'}
 a=open(P('data','a12.js'),encoding='utf-8').read();a=a[a.index('text:`')+6:];u=None
 for l in a.split('\n'):
     if l.startswith('#'):u=l[1:];continue

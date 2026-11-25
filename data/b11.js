@@ -1,6 +1,6 @@
 /* B1.1 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
 (window.LEVELS=window.LEVELS||[]).push({id:'B1.1',name:'B1.1',text:`
-#1 · 안부 인사 (hal hatır)
+#1 · 안부 인사 (hal-əhval)
 오랜만이야|uzun zaman oldu (samimi)|정말 오랜만이야=gerçekten uzun zaman oldu;오랜만에 만나다=uzun zaman sonra buluşmak
 이곳저곳 다니다|oraya buraya gidip gelmek|이곳저곳 구경하다=orayı burayı gezmek;이곳저곳 여행하다=oraya buraya seyahat etmek
 한가하게 지내다|boş, rahat vakit geçirmek|요즘 한가하게 지내요=bugünlerde rahatım;주말을 한가하게 보내다=hafta sonunu rahat geçirmek
@@ -11,7 +11,7 @@
 이게 얼마 만이야|görüşmeyeli ne kadar oldu, bu ne sürpriz|이게 몇 년 만이야?=Kaç yıl oldu görüşmeyeli?;10년 만에 만나다=on yıl sonra buluşmak
 이런저런 이야기를 하다|şundan bundan konuşmak|친구와 이런저런 이야기를 하다=arkadaşla şundan bundan konuşmak;이런저런 생각을 하다=şunu bunu düşünmek
 그저 그렇게 지내다|şöyle böyle idare etmek (ne iyi ne kötü)|그냥 그저 그렇게 지내요=şöyle böyle işte;그저 그렇다=idare eder
-#2 · 근황과 소식 (son durum)
+#2 · 근황과 소식 (son xəbərlər)
 입학하다|okula başlamak (kayıt)|대학교에 입학하다=üniversiteye başlamak;입학 시험=giriş sınavı
 일자리를 구하다|iş aramak|일자리를 찾다=iş aramak;아르바이트 자리를 구하다=yarı zamanlı iş aramak
 업무를 맡다|bir görevi üstlenmek|중요한 업무를 맡다=önemli bir görev üstlenmek;책임을 맡다=sorumluluk almak
@@ -30,7 +30,7 @@
 구하다|aramak, bulmak, elde etmek|방을 구하다=oda aramak;도움을 구하다=yardım istemek
 취업 준비|iş arama hazırlığı|취업 준비를 하다=işe hazırlığı yapmak;취업 준비생=iş arayan mezun
 업무|iş, görev|업무 시간=mesai saati;업무가 많다=iş yükü fazla
-#3 · 이사 (taşınma)
+#3 · 이사 (köçmək)
 부동산|emlakçı|부동산에 가다=emlakçıya gitmek;부동산 가격=emlak fiyatı
 월세|aylık kira|월세를 내다=kira ödemek;월세가 비싸다=kira pahalı
 이삿짐 센터|nakliye şirketi|이삿짐 센터를 부르다=nakliyeci çağırmak;이삿짐 센터에 맡기다=nakliyeciye bırakmak
@@ -59,7 +59,7 @@
 부자|zengin|부자가 되다=zengin olmak;부자 동네=zengin mahalle
 꾸미다|süslemek, dekore etmek|방을 꾸미다=odayı süslemek;예쁘게 꾸미다=güzelce süslemek
 선택하다|seçmek|메뉴를 선택하다=menü seçmek;직업을 선택하다=meslek seçmek
-#4 · 집안일 (ev işleri)
+#4 · 집안일 (ev işləri)
 청소기|elektrikli süpürge|청소기를 돌리다=elektrikli süpürge ile süpürmek;무선 청소기=kablosuz süpürge
 세탁기|çamaşır makinesi|세탁기를 돌리다=çamaşır makinesini çalıştırmak;세탁기에 넣다=çamaşır makinesine koymak
 쓰레기통|çöp kutusu|쓰레기통에 버리다=çöp kutusuna atmak;쓰레기통이 가득 차다=çöp kutusu dolmak
@@ -88,7 +88,7 @@
 세균|mikrop, bakteri|세균이 번식하다=mikrop üremek;세균을 없애다=mikropları yok etmek
 건조기|kurutma makinesi|건조기를 돌리다=kurutma makinesini çalıştırmak;건조기에 넣다=kurutma makinesine koymak
 식기세척기|bulaşık makinesi|식기세척기를 돌리다=bulaşık makinesini çalıştırmak;식기세척기에 넣다=bulaşık makinesine koymak
-#5 · 교환과 환불 (değişim ve iade)
+#5 · 교환과 환불 (dəyişdirmə və geri qaytarma)
 구입하다|satın almak|물건을 구입하다=eşya satın almak;인터넷으로 구입하다=internetten satın almak
 가격이 저렴하다|fiyatı uygun olmak|가격이 저렴한 상품=fiyatı uygun ürün;생각보다 가격이 저렴하다=fiyatı düşündüğümden ucuz
 구매하다|satın almak (resmî)|온라인으로 구매하다=online satın almak;구매 내역=satın alma geçmişi
@@ -124,7 +124,7 @@
 달러|dolar|달러로 바꾸다=dolara çevirmek;100달러=yüz dolar
 더러워지다|kirlenmek|옷이 더러워지다=kıyafeti kirlenmek;손이 더러워지다=eli kirlenmek
 기간이 지나다|süresi geçmek|교환 기간이 지나다=değişim süresi geçmek;유효 기간이 지나다=son kullanma tarihi geçmek
-#6 · 고장과 수리 (arıza ve tamir)
+#6 · 고장과 수리 (nasazlıq və təmir)
 고장이 나다|bozulmak (alet)|컴퓨터가 고장이 나다=bilgisayarın bozulması;자주 고장이 나다=sık sık bozulmak
 화면이 안 나오다|ekran görüntü vermemek|텔레비전 화면이 안 나오다=televizyonda görüntü yok;화면이 깨지다=ekran kırılmak
 바람이 안 나오다|hava (rüzgâr) gelmemek|에어컨에서 바람이 안 나오다=klimadan hava gelmiyor;선풍기 바람=vantilatör rüzgârı
@@ -161,7 +161,7 @@
 신청하다|başvurmak|수업을 신청하다=derse kayıt olmak;비자를 신청하다=vizeye başvurmak
 제출하다|teslim etmek|서류를 제출하다=belge teslim etmek;숙제를 제출하다=ödev teslim etmek
 확인|kontrol, onay|확인 메일=onay e-postası;본인 확인=kimlik doğrulama
-#7 · 기념일 (özel günler)
+#7 · 기념일 (əlamətdar günlər)
 밸런타인데이|Sevgililer Günü|밸런타인데이 선물=Sevgililer Günü hediyesi;밸런타인데이에 초콜릿을 주다=Sevgililer Günü'nde çikolata vermek
 100일|100. gün (ilişki)|사귄 지 100일=çıkmanın 100. günü;100일 기념=100. gün kutlaması
 결혼기념일|evlilik yıl dönümü|결혼기념일을 축하하다=evlilik yıl dönümünü kutlamak;결혼기념일 선물=yıl dönümü hediyesi
@@ -191,7 +191,7 @@
 일회용|tek kullanımlık|일회용 컵=tek kullanımlık bardak;일회용품을 줄이다=tek kullanımlık ürünleri azaltmak
 장바구니|alışveriş filesi|장바구니를 들고 가다=alışveriş filesiyle gitmek;장바구니에 담다=sepete eklemek
 발음하다|telaffuz etmek|정확하게 발음하다=doğru telaffuz etmek;발음하기 어렵다=telaffuzu zor
-#8 · 국경일과 대회 (bayramlar ve yarışmalar)
+#8 · 국경일과 대회 (bayramlar və yarışlar)
 국경일|ulusal bayram|국경일에 태극기를 달다=ulusal bayramda bayrak asmak;국경일에 쉬다=ulusal bayramda tatil olmak
 3·1절|1 Mart Bağımsızlık Hareketi Günü|3·1절을 기념하다=1 Mart'ı anmak;3·1절 행사=1 Mart töreni
 광복절|Kurtuluş Günü (15 Ağustos)|광복절 기념식=Kurtuluş Günü töreni;8월 15일 광복절=15 Ağustos Kurtuluş Günü
@@ -223,7 +223,7 @@
 체험|deneyim|체험 학습=uygulamalı öğrenme;문화 체험=kültür deneyimi
 자세하다|ayrıntılı olmak|자세한 설명=ayrıntılı açıklama;자세하게 말하다=ayrıntılı anlatmak
 바라다|dilemek, ummak|행복을 바라다=mutluluk dilemek;합격을 바라다=başarı ummak
-#9 · 날씨와 감정 (hava ve duygular)
+#9 · 날씨와 감정 (hava və hisslər)
 한여름|yaz ortası|한여름 더위=yaz ortası sıcağı;한여름 밤=yaz ortası gecesi
 한겨울|kış ortası|한겨울 추위=kış ortası soğuğu;한겨울에 눈이 오다=kış ortasında kar yağmak
 무더위|bunaltıcı sıcak|무더위가 계속되다=bunaltıcı sıcak devam etmek;무더위를 피하다=sıcaktan kaçmak
@@ -256,7 +256,7 @@
 해소하다|gidermek|스트레스를 해소하다=stres atmak;갈증을 해소하다=susuzluğu gidermek
 나누다|bölmek, paylaşmak|반으로 나누다=ikiye bölmek;이야기를 나누다=sohbet etmek
 사라지다|kaybolmak|갑자기 사라지다=aniden kaybolmak;걱정이 사라지다=endişe kaybolmak
-#10 · 증상과 치료 (belirti ve tedavi)
+#10 · 증상과 치료 (əlamətlər və müalicə)
 열이 심하다|ateşi çok yüksek olmak|밤새 열이 심하다=bütün gece ateşi yüksek;열이 내리다=ateşi düşmek
 기침을 하다|öksürmek|심하게 기침을 하다=şiddetli öksürmek;기침을 참다=öksürüğünü tutmak
 재채기를 하다|hapşırmak|계속 재채기를 하다=durmadan hapşırmak;재채기가 나오다=hapşırık gelmek
@@ -295,7 +295,7 @@
 피로|yorgunluk|피로가 쌓이다=yorgunluk birikmek;피로를 풀다=yorgunluk atmak
 면역력|bağışıklık|면역력을 높이다=bağışıklığı güçlendirmek;면역력이 약하다=bağışıklığı zayıf
 유지하다|korumak, sürdürmek|건강을 유지하다=sağlığını korumak;관계를 유지하다=ilişkiyi sürdürmek
-#11 · 여가 활동 (boş zaman)
+#11 · 여가 활동 (asudə vaxt)
 스트레스가 풀리다|stres atılmak|운동하면 스트레스가 풀리다=spor yapınca stres atılır;노래를 부르면 스트레스가 풀리다=şarkı söyleyince rahatlamak
 뿌듯한 기분이 들다|gurur ve tatmin hissetmek|봉사 후에 뿌듯한 기분이 들다=gönüllülükten sonra gurur duymak;뿌듯하다=içi gururla dolmak
 일상에서 벗어나다|günlük hayattan uzaklaşmak|여행으로 일상에서 벗어나다=seyahatle rutinden kaçmak;잠시 일상에서 벗어나다=kısa bir süre rutinden uzaklaşmak
@@ -326,7 +326,7 @@
 요가|yoga|요가를 하다=yoga yapmak;요가 수업=yoga dersi
 필라테스|pilates|필라테스를 배우다=pilates öğrenmek;필라테스 학원=pilates stüdyosu
 계속하다|devam etmek|공부를 계속하다=çalışmaya devam etmek;계속해서=sürekli olarak
-#12 · 영화와 공연 (film ve gösteri)
+#12 · 영화와 공연 (film və tamaşa)
 액션|aksiyon|액션 영화=aksiyon filmi;액션 배우=aksiyon oyuncusu
 멜로|romantik dram|멜로 영화=romantik film;멜로 드라마=aşk dizisi
 코미디|komedi|코미디 영화=komedi filmi;코미디 프로그램=komedi programı
@@ -413,7 +413,7 @@
 장점|avantaj, güçlü yan|장점이 많다=avantajı çok;장점과 단점=artı ve eksiler
 대중문화|popüler kültür|한국 대중문화=Kore popüler kültürü;대중문화의 영향=popüler kültürün etkisi
 강추|kesinlikle tavsiye (argo)|이 영화 강추!=bu filmi kesinlikle öneririm!;강추 맛집=kesinlikle önerilen restoran
-#Zarflar · Bağlaçlar
+#Zərflər · Bağlayıcılar
 가까이|yakına, yakında|가까이 오다=yakına gelmek;가까이 살다=yakında oturmak
 그냥|sadece, öylesine|그냥 집에 있다=sadece evde kalmak;그냥 물어봤어요=öylesine sordum
 가장|en|가장 좋아하다=en çok sevmek;가장 중요한 것=en önemli şey

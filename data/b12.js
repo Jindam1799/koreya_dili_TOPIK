@@ -1,6 +1,6 @@
 /* B1.2 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
 (window.LEVELS=window.LEVELS||[]).push({id:'B1.2',name:'B1.2',text:`
-#1 · 방학 활동 (tatil etkinlikleri)
+#1 · 방학 활동 (tətil fəaliyyətləri)
 봉사 활동을 하다|gönüllü çalışma yapmak|양로원에서 봉사 활동을 하다=huzurevinde gönüllü çalışmak;봉사 활동 시간=gönüllülük saati
 어학연수를 하다|yurt dışında dil eğitimi almak|미국에서 어학연수를 하다=Amerika'da dil eğitimi almak;어학연수를 떠나다=dil eğitimine gitmek
 아르바이트를 하다|yarı zamanlı çalışmak|편의점에서 아르바이트를 하다=markette yarı zamanlı çalışmak;아르바이트 자리=yarı zamanlı iş
@@ -10,7 +10,7 @@
 시간을 알차게 보내다|zamanı verimli geçirmek|방학을 알차게 보내다=tatili verimli geçirmek;알찬 하루=dolu dolu bir gün
 시험을 준비하다|sınava hazırlanmak|자격증 시험을 준비하다=sertifika sınavına hazırlanmak;토픽 시험을 준비하다=TOPIK sınavına hazırlanmak
 보람을 느끼다|tatmin olmak, emeğinin karşılığını hissetmek|봉사하면서 보람을 느끼다=gönüllülükle tatmin olmak;보람 있는 일=anlamlı iş
-#2 · 공연과 팬 활동 (konser ve hayranlık)
+#2 · 공연과 팬 활동 (konsert və fan fəaliyyəti)
 사인회|imza günü|사인회에 가다=imza gününe gitmek;사인을 받다=imza almak
 팬 미팅|hayran buluşması|팬 미팅에 참석하다=hayran buluşmasına katılmak;팬 미팅 표=hayran buluşması bileti
 표가 매진되다|biletler tükenmek|콘서트 표가 매진되다=konser biletleri tükenmek;1분 만에 매진되다=bir dakikada tükenmek
@@ -26,7 +26,7 @@
 무대|sahne|무대에 서다=sahneye çıkmak;무대 공연=sahne gösterisi
 관객|seyirci|관객이 많다=seyirci çok;관객의 박수=seyircinin alkışı
 열광적이다|coşkulu olmak|열광적인 반응=coşkulu tepki;열광적인 팬=ateşli hayran
-#3 · 맛 (tatlar)
+#3 · 맛 (dadlar)
 시다|ekşi olmak|레몬이 시다=limon ekşi;신 김치=ekşimiş kimçi
 쓰다|acı olmak (tat)|약이 쓰다=ilaç acı;쓴 커피=acı kahve
 맵다|acı olmak (baharatlı)|떡볶이가 맵다=tteokbokki acı;매운 음식=acı yemek
@@ -43,7 +43,7 @@
 개운하다|ferahlatıcı olmak|국물이 개운하다=çorba ferahlatıcı;몸이 개운하다=vücut zinde
 산뜻하다|ferah, taze olmak|맛이 산뜻하다=tadı ferah;산뜻한 색=canlı renk
 양념|baharat, sos|양념을 하다=baharatlamak;양념 치킨=soslu tavuk
-#4 · 조리 도구와 조리법 (mutfak)
+#4 · 조리 도구와 조리법 (mətbəx)
 냄비|tencere|냄비에 물을 붓다=tencereye su koymak;냄비를 불에 올리다=tencereyi ocağa koymak
 프라이팬|tava|프라이팬에 볶다=tavada kavurmak;프라이팬을 달구다=tavayı ısıtmak
 전기밥솥|elektrikli pilav pişirici|전기밥솥으로 밥을 하다=pilav pişiricide pilav yapmak;전기밥솥을 켜다=pilav pişiriciyi açmak
@@ -66,7 +66,7 @@
 상을 차리다|sofra kurmak|저녁상을 차리다=akşam sofrasını kurmak;상을 치우다=sofrayı kaldırmak
 데우다|ısıtmak (yemek)|국을 데우다=çorbayı ısıtmak;우유를 데우다=süt ısıtmak
 도구|alet|요리 도구=mutfak aletleri;도구를 사용하다=alet kullanmak
-#5 · 실수 (hatalar)
+#5 · 실수 (səhvlər)
 깜빡하다|unutuvermek|약속을 깜빡하다=randevuyu unutmak;깜빡 잊다=tamamen unutmak
 놓고 오다|unutup bırakmak|우산을 놓고 오다=şemsiyeyi unutup gelmek;집에 두고 오다=evde unutmak
 부딪히다|çarpmak|문에 머리를 부딪히다=başını kapıya çarpmak;차가 부딪히다=araba çarpmak
@@ -95,7 +95,7 @@
 빨개지다|kızarmak|얼굴이 빨개지다=yüzü kızarmak;눈이 빨개지다=gözleri kızarmak
 결국|sonunda|결국 포기하다=sonunda vazgeçmek;결국 성공하다=nihayet başarmak
 어머|aman!, ay!|어머, 깜짝이야!=ay, korktum!;어머, 정말요?=aa, gerçekten mi?
-#6 · 사과와 용서 (özür ve af)
+#6 · 사과와 용서 (üzr və bağışlama)
 말실수하다|ağzından yanlış söz kaçırmak|회의에서 말실수하다=toplantıda yanlış bir şey söylemek;말실수를 사과하다=sözü için özür dilemek
 오해하다|yanlış anlamak|친구를 오해하다=arkadaşını yanlış anlamak;오해하지 마세요=yanlış anlamayın
 후회하다|pişman olmak|선택을 후회하다=seçiminden pişman olmak;후회하지 않다=pişman olmamak
@@ -128,7 +128,7 @@
 입이 가볍다|ağzı gevşek olmak|입이 가벼운 사람=ağzı gevşek biri;입이 무겁다=sır tutan biri
 다투다|tartışmak|친구와 다투다=arkadaşıyla tartışmak;사소한 일로 다투다=küçük şeyler yüzünden tartışmak
 사소하다|önemsiz olmak|사소한 실수=küçük hata;사소한 일=önemsiz şey
-#7 · 동호회 활동 (kulüp etkinlikleri)
+#7 · 동호회 활동 (klub fəaliyyətləri)
 동호회|hobi kulübü|등산 동호회=dağcılık kulübü;동호회 활동=kulüp etkinliği
 마라톤|maraton|마라톤에 참가하다=maratona katılmak;마라톤을 완주하다=maratonu tamamlamak
 자전거|bisiklet|자전거를 타다=bisiklete binmek;자전거 도로=bisiklet yolu
@@ -163,7 +163,7 @@
 초보|acemi|초보 운전=acemi sürücü;초보자=yeni başlayan
 적극적이다|aktif, istekli olmak|적극적으로 참여하다=aktif olarak katılmak;적극적인 태도=istekli tutum
 소극적이다|pasif olmak|소극적인 성격=çekingen kişilik;소극적으로 행동하다=pasif davranmak
-#8 · 휴가 (tatil)
+#8 · 휴가 (tətil)
 관광지|turistik yer|유명한 관광지=ünlü turistik yer;관광지를 둘러보다=turistik yerleri gezmek
 휴양지|dinlenme yeri, tatil beldesi|바닷가 휴양지=sahil tatil beldesi;휴양지에서 쉬다=tatil beldesinde dinlenmek
 유적지|tarihî yer|역사 유적지=tarihî mekân;유적지를 방문하다=tarihî yeri ziyaret etmek
@@ -273,7 +273,7 @@
 풍년|bereketli yıl|풍년이 들다=bereketli yıl olmak;풍년과 흉년=bereketli ve kıtlık yılı
 풍성하다|bol, bereketli olmak|음식이 풍성하다=yemek bol;풍성한 수확=bol hasat
 새해|yeni yıl|새해 계획=yeni yıl planı;새해 첫날=yılın ilk günü
-#11 · 취업 (iş hayatı)
+#11 · 취업 (iş həyatı)
 신입 사원|yeni çalışan|신입 사원을 뽑다=yeni çalışan almak;신입 사원 교육=yeni çalışan eğitimi
 경력 사원|deneyimli çalışan|경력 사원을 모집하다=deneyimli personel aramak;경력 3년=üç yıl deneyim
 직장 상사|iş yerindeki üst|직장 상사와 갈등=amirle çatışma;직장 상사에게 보고하다=amire rapor vermek
@@ -301,7 +301,7 @@
 긴장되다|gergin olmak|면접 전에 긴장되다=mülakattan önce gerilmek;너무 긴장돼요=çok gerginim
 승진|terfi|승진 시험=terfi sınavı;승진 소식=terfi haberi
 동기|aynı dönemden arkadaş|입사 동기=aynı dönemde işe girenler;대학 동기=üniversiteden dönem arkadaşı
-#12 · 유학 준비 (yurt dışında eğitim hazırlığı)
+#12 · 유학 준비 (xaricdə təhsilə hazırlıq)
 유학을 계획하다|yurt dışında okumayı planlamak|한국 유학을 계획하다=Kore'de okumayı planlamak;유학 생활=yurt dışında öğrenci hayatı
 대학원에 등록하다|lisansüstüne kaydolmak|한국 대학원에 등록하다=Kore'de lisansüstüne kaydolmak;등록 기간=kayıt dönemi
 유학원을 알아보다|eğitim danışmanlığı araştırmak|믿을 만한 유학원을 알아보다=güvenilir danışmanlık şirketi araştırmak;유학원 상담=eğitim danışmanlığı görüşmesi
@@ -314,7 +314,7 @@
 서류를 떼다|belge çıkarmak|주민센터에서 서류를 떼다=nüfus müdürlüğünden belge çıkarmak;서류를 준비하다=belgeleri hazırlamak
 서류를 제출하다|belge teslim etmek|마감일까지 서류를 제출하다=son güne kadar belge teslim etmek;제출 서류=teslim edilecek belgeler
 학비를 지원받다|eğitim desteği almak|장학 재단에서 학비를 지원받다=burs vakfından destek almak;학비가 많이 들다=okul masrafı yüksek
-#Ek 1 · Deneyim ve gönüllülük
+#Əlavə 1 · Təcrübə və könüllülük
 외국어를 배우다|yabancı dil öğrenmek|새로운 외국어를 배우다=yeni bir yabancı dil öğrenmek;외국어 실력=yabancı dil becerisi
 외국 문화를 체험하다|yabancı kültürü deneyimlemek|유학하면서 외국 문화를 체험하다=yurt dışında okurken yabancı kültürü tanımak;문화 차이를 느끼다=kültür farkını hissetmek
 걸어서 여행하다|yürüyerek gezmek|제주도를 걸어서 여행하다=Jeju'yu yürüyerek gezmek;걸어서 가다=yürüyerek gitmek
@@ -377,7 +377,7 @@
 신선하다|taze olmak|신선한 채소=taze sebze;신선한 공기=temiz hava
 총|toplam|총 비용=toplam masraf;총 10명=toplam on kişi
 덕분에|sayesinde|덕분에 잘 지내요=sayenizde iyiyim;선생님 덕분에=öğretmen sayesinde
-#Ek 2 · Kore kültürü ve toplum
+#Əlavə 2 · Koreya mədəniyyəti və cəmiyyət
 삼면|üç taraf|삼면이 바다로 둘러싸이다=üç tarafı denizle çevrili olmak;삼면이 산=üç tarafı dağ
 어업|balıkçılık|어업이 발달하다=balıkçılık gelişmek;어업에 종사하다=balıkçılıkla uğraşmak
 발달하다|gelişmek|산업이 발달하다=sanayi gelişmek;기술이 발달하다=teknoloji gelişmek
@@ -418,7 +418,7 @@
 예언자|peygamber|예언자의 말씀=peygamberin sözleri;예언자 무함마드=Hz. Muhammed
 사상|düşünce, ideoloji|동양 사상=Doğu düşüncesi;자유 사상=özgür düşünce
 사교적이다|sosyal, girişken olmak|사교적인 성격=sosyal kişilik;사교적으로 행동하다=girişken davranmak
-#Ek 3 · Yiyecek ve içecek
+#Əlavə 3 · Yeməklər və içkilər
 올리브유|zeytinyağı|올리브유를 뿌리다=zeytinyağı gezdirmek;올리브유 요리=zeytinyağlı yemek
 섞다|karıştırmak|재료를 섞다=malzemeleri karıştırmak;잘 섞다=iyice karıştırmak
 나물|yabani sebze yemeği|나물을 무치다=sebzeyi baharatlamak;봄나물=bahar otları
@@ -502,7 +502,7 @@
 버터|tereyağı|버터를 바르다=tereyağı sürmek;버터 냄새=tereyağı kokusu
 기름|yağ|기름을 두르다=tavaya yağ koymak;기름이 튀다=yağ sıçramak
 어묵|balık köftesi (eomuk)|어묵 꼬치=eomuk şişi;어묵탕=eomuk çorbası
-#Ek 4 · Günlük hayat ve iletişim
+#Əlavə 4 · Gündəlik həyat və ünsiyyət
 법칙|kural, yasa|자연의 법칙=doğa yasası;법칙을 따르다=kurala uymak
 오히려|aksine|오히려 좋다=aksine iyi;오히려 더 힘들다=aksine daha zor
 일어나다|meydana gelmek|사고가 일어나다=kaza meydana gelmek;문제가 일어나다=sorun çıkmak

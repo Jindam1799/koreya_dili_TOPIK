@@ -1,6 +1,6 @@
 /* B2.2 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
 (window.LEVELS=window.LEVELS||[]).push({id:'B2.2',name:'B2.2',text:`
-#1 · 성격 (kişilik)
+#1 · 성격 (xasiyyət)
 외향적이다|dışa dönük olmak|외향적인 성격=dışa dönük kişilik;외향적인 사람=sosyal biri
 내성적이다|içe dönük olmak|내성적인 성격=içe dönük kişilik;내성적이라 말이 적다=içe dönük olduğu için az konuşmak
 적극적이다|aktif, girişken olmak|적극적으로 참여하다=aktif katılmak;적극적인 자세=istekli tutum
@@ -20,7 +20,7 @@
 디자인이 세련되다|tasarımı şık olmak|세련된 디자인=şık tasarım;옷차림이 세련되다=kıyafeti zarif
 집값이 저렴하다|ev fiyatları ucuz olmak|이 동네는 집값이 저렴하다=bu mahallede evler ucuz;집값이 오르다=ev fiyatları artmak
 편리한 기능이 많다|kullanışlı özelliği çok olmak|휴대폰에 편리한 기능이 많다=telefonda kullanışlı özellik çok;새로운 기능=yeni özellik
-#2 · 성격 표현 (kişilik ifadeleri)
+#2 · 성격 표현 (xasiyyət ifadələri)
 밝다|neşeli olmak (kişilik)|성격이 밝다=neşeli bir kişiliği var;밝게 웃다=içten gülmek
 어둡다|kasvetli olmak (kişilik)|성격이 어둡다=kasvetli kişilik;분위기가 어둡다=ortam kasvetli
 얌전하다|uslu, sakin olmak|얌전한 아이=uslu çocuk;얌전하게 앉다=uslu uslu oturmak
@@ -33,7 +33,7 @@
 사교적이다|sosyal olmak|사교적인 성격=sosyal kişilik;사교적으로 지내다=insanlarla iyi geçinmek
 표정이 어둡다|yüzü asık olmak|오늘 표정이 어둡다=bugün yüzü asık;어두운 얼굴=asık surat
 표정이 밝다|yüzü güleç olmak|항상 표정이 밝다=her zaman güler yüzlü;밝은 얼굴=güleç yüz
-#3 · 고민 (dertler)
+#3 · 고민 (dərdlər)
 진로를 정하지 못하다|kariyer yolunu seçememek|졸업이 다가오는데 진로를 정하지 못하다=mezuniyet yaklaşırken yolunu seçememek;진로 고민=kariyer kaygısı
 직장 생활이 맞지 않다|iş hayatı uymamak|회사 생활이 맞지 않아서 그만두다=şirket hayatı uymadığı için bırakmak;적성에 맞지 않다=yeteneğine uygun olmamak
 업무량이 많다|iş yükü fazla olmak|업무량이 너무 많아서 야근하다=iş yükü fazla olduğu için mesai yapmak;업무량을 줄이다=iş yükünü azaltmak
@@ -42,7 +42,7 @@
 경제적인 상황이 좋지 않다|maddi durumu iyi olmamak|요즘 경제적인 상황이 좋지 않다=bugünlerde maddi durum kötü;경제적 어려움=maddi sıkıntı
 실력이 늘지 않다|ilerleme kaydedememek|아무리 공부해도 실력이 늘지 않다=ne kadar çalışsam da gelişemiyorum;제자리걸음=yerinde saymak
 연애를 하고 싶다|bir ilişki yaşamak istemek|외로워서 연애를 하고 싶다=yalnız olduğu için sevgili istemek;연애 상담=ilişki danışmanlığı
-#4 · 후회 (pişmanlık)
+#4 · 후회 (peşmançılıq)
 신중하게 결정하다|dikkatle karar vermek|신중하게 결정하지 못하다=dikkatli karar verememek;신중한 태도=temkinli tutum
 최선을 다하지 못하다|elinden geleni yapamamak|시험에서 최선을 다하지 못하다=sınavda elinden geleni yapamamak;아쉬움이 남다=içinde ukde kalmak
 쉽게 포기하다|kolayca pes etmek|너무 쉽게 포기하다=çok kolay vazgeçmek;포기하지 않다=pes etmemek
@@ -53,7 +53,7 @@
 상처를 주다|kalbini kırmak|말로 상처를 주다=sözle kalbini kırmak;상처를 받다=kırılmak
 시선을 신경 쓰다|başkalarının bakışını dert etmek|남의 시선을 너무 신경 쓰다=başkalarının ne düşündüğünü çok dert etmek;시선을 느끼다=bakışları hissetmek
 잘해 주다|iyi davranmak|부모님께 잘해 드리다=anne babaya iyi davranmak;친구에게 잘해 주다=arkadaşına iyi davranmak
-#5 · 세대 (nesiller)
+#5 · 세대 (nəsillər)
 아동|çocuk (resmî)|아동 교육=çocuk eğitimi;아동 보호=çocuk koruma
 사춘기|ergenlik dönemi|사춘기를 겪다=ergenlik dönemi geçirmek;사춘기 아이=ergen çocuk
 청년|genç (yetişkin)|청년 실업=genç işsizliği;청년 세대=genç kuşak
@@ -65,7 +65,7 @@
 개혁적이다|yenilikçi, reformcu olmak|개혁적인 정책=reformcu politika;개혁적인 사고=yenilikçi düşünce
 투표하다|oy vermek|선거에서 투표하다=seçimde oy vermek;투표율=katılım oranı
 남겨 놓다|bırakmak (geride)|메모를 남겨 놓다=not bırakmak;음식을 남겨 놓다=yemek ayırmak
-#6 · 한국 문화 (Kore kültürü)
+#6 · 한국 문화 (Koreya mədəniyyəti)
 어른을 존경하다|büyüklere saygı duymak|어른을 존경하는 문화=büyüklere saygı kültürü;존경하는 인물=saygı duyduğu kişi
 정이 많다|sıcakkanlı olmak|한국 사람은 정이 많다=Koreliler sıcakkanlı;정이 들다=bağlanmak
 우리를 중요하게 생각하다|"biz"i önemsemek|'나'보다 '우리'를 중요하게 생각하다=“ben”den çok “biz”i önemsemek;공동체 의식=topluluk bilinci
@@ -76,7 +76,7 @@
 가족 호칭|aile hitapları|가족 호칭이 다양하다=aile hitapları çeşitli;호칭을 부르다=hitapla seslenmek
 의성어와 의태어|yansıma ve tasvir sözcükleri|의성어가 많다=yansıma sözcükleri çok;의태어를 배우다=tasvir sözcükleri öğrenmek
 사투리|şive, ağız|지역 사투리=yöresel şive;사투리를 쓰다=şiveyle konuşmak
-#7 · 직업과 업무 (meslek ve görevler)
+#7 · 직업과 업무 (peşə və vəzifələr)
 분석하다|analiz etmek|자료를 분석하다=verileri analiz etmek;원인을 분석하다=nedeni analiz etmek
 관리하다|yönetmek|건물을 관리하다=binayı yönetmek;시간을 관리하다=zamanı yönetmek
 제작하다|üretmek|영화를 제작하다=film yapmak;제품을 제작하다=ürün üretmek
@@ -85,7 +85,7 @@
 검사하다|incelemek, test etmek|품질을 검사하다=kaliteyi denetlemek;건강 검사=sağlık kontrolü
 제공하다|sağlamak, sunmak|정보를 제공하다=bilgi sağlamak;서비스를 제공하다=hizmet sunmak
 홍보하다|tanıtımını yapmak|제품을 홍보하다=ürünün tanıtımını yapmak;홍보 영상=tanıtım videosu
-#8 · 위인 (büyük insanlar)
+#8 · 위인 (böyük şəxsiyyətlər)
 세계 평화에 기여하다|dünya barışına katkıda bulunmak|평생 세계 평화에 기여하다=ömrü boyunca dünya barışına katkıda bulunmak;평화를 지키다=barışı korumak
 생명을 구하다|hayat kurtarmak|많은 사람의 생명을 구하다=pek çok kişinin hayatını kurtarmak;목숨을 구하다=canını kurtarmak
 예술 작품을 남기다|sanat eseri bırakmak|훌륭한 예술 작품을 남기다=muhteşem eserler bırakmak;이름을 남기다=adını bırakmak
@@ -100,13 +100,13 @@
 평화|barış|평화를 지키다=barışı korumak;세계 평화=dünya barışı
 남기다|bırakmak|음식을 남기다=yemeği artırmak;기록을 남기다=kayıt bırakmak
 기여하다|katkıda bulunmak|사회에 기여하다=topluma katkıda bulunmak;발전에 기여하다=gelişmeye katkı sağlamak
-#9 · 변화 (değişim)
+#9 · 변화 (dəyişiklik)
 증가하다|artmak|인구가 증가하다=nüfus artmak;크게 증가하다=büyük ölçüde artmak
 감소하다|azalmak|출생률이 감소하다=doğum oranı azalmak;점차 감소하다=giderek azalmak
 변화하다|değişmek|사회가 변화하다=toplum değişmek;빠르게 변화하다=hızla değişmek
 급격히|aniden, hızla|급격히 증가하다=hızla artmak;급격히 변하다=birden değişmek
 꾸준히|sürekli, istikrarlı|꾸준히 늘어나다=istikrarlı biçimde artmak;꾸준히 노력하다=durmadan çaba göstermek
-#10 · 의견 (görüş bildirme)
+#10 · 의견 (fikir bildirmək)
 찬성하다|lehinde olmak|의견에 찬성하다=görüşü desteklemek;찬성과 반대=lehte ve aleyhte
 동의하다|katılmak, onaylamak|제안에 동의하다=öneriye katılmak;전적으로 동의하다=tamamen katılmak
 적절하다|uygun olmak|적절한 방법=uygun yöntem;적절하게 대응하다=uygun şekilde karşılık vermek
@@ -114,14 +114,14 @@
 장점이 있다|avantajı olmak|이 방법은 장점이 있다=bu yöntemin avantajı var;장점이 많다=artısı çok
 단점이 있다|dezavantajı olmak|단점이 있지만 괜찮다=dezavantajı var ama olur;단점을 보완하다=eksikliği gidermek
 부작용이 생기다|yan etki ortaya çıkmak|정책에 부작용이 생기다=politikada yan etkiler doğmak;부작용을 줄이다=yan etkileri azaltmak
-#11 · 인생 (hayat evreleri)
+#11 · 인생 (həyat mərhələləri)
 독립하다|bağımsız olmak (evden ayrılmak)|부모님에게서 독립하다=anne babadan ayrı yaşamaya başlamak;경제적으로 독립하다=maddi bağımsızlık kazanmak
 창업하다|iş kurmak|회사를 창업하다=şirket kurmak;창업 자금=girişim sermayesi
 가정을 이루다|yuva kurmak|결혼해서 가정을 이루다=evlenip yuva kurmak;행복한 가정=mutlu yuva
 출산하다|doğum yapmak|아이를 출산하다=çocuk doğurmak;출산 휴가=doğum izni
 아이를 기르다|çocuk yetiştirmek|혼자서 아이를 기르다=tek başına çocuk büyütmek;아이를 잘 기르다=çocuğu iyi yetiştirmek
 노후를 보내다|yaşlılığını geçirmek|시골에서 노후를 보내다=yaşlılığını köyde geçirmek;노후 준비=yaşlılığa hazırlık
-#12 · 감정 표현 (duygular)
+#12 · 감정 표현 (hisslər)
 믿기지 않다|inanılmaz gelmek|합격했다는 게 믿기지 않다=kazandığıma inanamıyorum;믿기지 않는 일=inanılmaz olay
 그립다|özlemek|고향이 그립다=memleketi özlemek;그리운 사람=özlenen kişi
 홀가분하다|ferahlamak, yükten kurtulmak|시험이 끝나서 홀가분하다=sınav bittiği için içim rahat;홀가분한 마음=hafiflemiş gönül

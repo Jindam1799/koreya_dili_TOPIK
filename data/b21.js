@@ -1,6 +1,6 @@
 /* B2.1 · Kaynak: Aslıhan Erdoğan, KOREAN VOCAB (Sejong) · 짝꿍어휘: Wonju */
 (window.LEVELS=window.LEVELS||[]).push({id:'B2.1',name:'B2.1',text:`
-#1 · 버킷 리스트 (hayaller listesi)
+#1 · 버킷 리스트 (arzular siyahısı)
 세계 일주|dünya turu|세계 일주를 하다=dünya turu yapmak;배로 세계 일주=gemiyle dünya turu
 해외 봉사 활동|yurt dışında gönüllülük|해외 봉사 활동에 참여하다=yurt dışı gönüllülüğe katılmak;해외 봉사단=yurt dışı gönüllü ekibi
 캠핑카 여행|karavan gezisi|캠핑카 여행을 떠나다=karavan gezisine çıkmak;캠핑카를 빌리다=karavan kiralamak
@@ -26,7 +26,7 @@
 초능력이 생기다|süper güç kazanmak|갑자기 초능력이 생기다=aniden süper güç kazanmak;초능력을 가지다=süper gücü olmak
 복권에 당첨되다|piyangoyu kazanmak|로또 복권에 당첨되다=lotoyu kazanmak;복권을 사다=piyango bileti almak
 투명 인간|görünmez adam|투명 인간이 되다=görünmez olmak;투명 인간처럼=görünmez biri gibi
-#2 · 여행지 (gezilecek yerler)
+#2 · 여행지 (gəziləsi yerlər)
 낭만적이다|romantik olmak|낭만적인 분위기=romantik atmosfer;낭만적인 밤=romantik gece
 현대적이다|modern olmak|현대적인 건물=modern bina;현대적인 디자인=modern tasarım
 활기가 넘치다|canlılık dolu olmak|활기가 넘치는 시장=canlı pazar;활기가 넘치는 도시=hareketli şehir
@@ -59,7 +59,7 @@
 도착지|varış yeri|도착지를 입력하다=varış yerini girmek;도착지에 도착하다=varış noktasına ulaşmak
 요금|ücret|택시 요금=taksi ücreti;요금을 내다=ücret ödemek
 택시를 잡다|taksi çevirmek|길에서 택시를 잡다=yolda taksi çevirmek;택시를 부르다=taksi çağırmak
-#3 · 소식과 사건 (haberler)
+#3 · 소식과 사건 (xəbərlər)
 앨범이 나오다|albüm çıkmak|새 앨범이 나오다=yeni albüm çıkmak;앨범을 발표하다=albüm yayımlamak
 콘서트가 열리다|konser düzenlenmek|서울에서 콘서트가 열리다=Seul'de konser düzenlenmek;단독 콘서트=solo konser
 영화가 개봉하다|film vizyona girmek|다음 주에 영화가 개봉하다=film gelecek hafta vizyona giriyor;개봉 첫날=vizyondaki ilk gün
@@ -68,7 +68,7 @@
 경제가 발전하다|ekonomi gelişmek|빠르게 경제가 발전하다=ekonomi hızla gelişmek;경제 발전=ekonomik kalkınma
 작성자|yazan kişi|글 작성자=yazının sahibi;작성자 이름=yazarın adı
 수상자|ödül sahibi|수상자를 발표하다=ödül sahibini açıklamak;노벨상 수상자=Nobel ödüllü
-#4 · 재해와 사고 (afet ve kaza)
+#4 · 재해와 사고 (fəlakət və qəza)
 가뭄|kuraklık|가뭄이 들다=kuraklık olmak;가뭄 피해=kuraklık zararı
 홍수|sel|홍수가 나다=sel olmak;홍수 피해=sel hasarı
 폭발|patlama|가스 폭발=gaz patlaması;폭발 사고=patlama kazası
@@ -138,7 +138,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 배경|arka plan|배경 화면=duvar kâğıdı (ekran);배경 음악=arka plan müziği
 입력하다|girmek (veri)|비밀번호를 입력하다=şifre girmek;정보를 입력하다=bilgi girmek
 적당히 사용하다|ölçülü kullanmak|스마트폰을 적당히 사용하다=akıllı telefonu ölçülü kullanmak;적당히 쉬다=yeterince dinlenmek
-#6 · 건강한 음식 (sağlıklı beslenme)
+#6 · 건강한 음식 (sağlam qidalanma)
 뼈를 튼튼하게 하다|kemikleri güçlendirmek|우유는 뼈를 튼튼하게 한다=süt kemikleri güçlendirir;튼튼한 몸=sağlam vücut
 소화가 잘되다|sindirimi kolay olmak|소화가 잘되는 음식=kolay sindirilen yemek;소화가 안 되다=hazımsızlık olmak
 시력을 보호하다|görme gücünü korumak|당근은 시력을 보호한다=havuç gözleri korur;시력이 나쁘다=gözleri kötü
@@ -172,7 +172,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 현대인|modern insan|바쁜 현대인=meşgul modern insan;현대인의 건강=günümüz insanının sağlığı
 땀을 흘리다|terlemek|운동하며 땀을 흘리다=spor yaparken terlemek;땀이 나다=ter çıkmak
 수분|nem, sıvı|수분을 보충하다=sıvı almak;수분이 부족하다=susuz kalmak
-#7 · 감정과 경험 (duygular ve deneyimler)
+#7 · 감정과 경험 (hisslər və təcrübələr)
 창피하다|utanmak (rezil olmak)|사람들 앞에서 창피하다=insanların önünde rezil olmak;창피를 당하다=rezil olmak
 얼굴을 들 수가 없다|yüzü kızarmak (utançtan başını kaldıramamak)|너무 창피해서 얼굴을 들 수가 없다=utançtan başımı kaldıramıyorum;고개를 들다=başını kaldırmak
 떨리다|titremek, heyecanlanmak|목소리가 떨리다=sesi titremek;손이 떨리다=elleri titremek
@@ -188,7 +188,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 뒤집히다|ters dönmek, alabora olmak|보트가 뒤집히다=tekne alabora olmak;우산이 뒤집히다=şemsiye ters dönmek
 얼굴이 하얘지다|yüzü bembeyaz olmak|놀라서 얼굴이 하얘지다=korkudan bembeyaz kesilmek;얼굴이 창백하다=yüzü solgun
 고개를 들고 다니다|başı dik gezmek|부끄러워서 고개를 들고 다닐 수 없다=utançtan başımı kaldıramıyorum;당당하게 다니다=başı dik dolaşmak
-#8 · 풍경 묘사 (manzara tasviri)
+#8 · 풍경 묘사 (mənzərə təsviri)
 그림 같다|resim gibi olmak|그림 같은 풍경=resim gibi manzara;그림 같은 집=resim gibi ev
 배가 떠 있다|tekne suda durmak|바다에 배가 떠 있다=denizde tekne süzülüyor;호수에 떠 있다=gölde yüzmek
 한눈에 보이다|bir bakışta görünmek|마을이 한눈에 보이다=köy bir bakışta görünmek;도시가 한눈에 보이는 곳=şehrin tamamen göründüğü yer
@@ -225,7 +225,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 강물|nehir suyu|강물이 맑다=nehir suyu berrak;강물에 발을 담그다=ayaklarını nehre sokmak
 졸졸|şırıl şırıl|물이 졸졸 흐르다=su şırıl şırıl akmak;시냇물 소리=dere sesi
 젖다|ıslanmak|비에 젖다=yağmurda ıslanmak;옷이 젖다=kıyafet ıslanmak
-#9 · 작품 평가 (eser değerlendirme)
+#9 · 작품 평가 (əsərin qiymətləndirilməsi)
 유익하다|faydalı olmak|유익한 정보=faydalı bilgi;유익한 시간=verimli zaman
 무익하다|faydasız olmak|무익한 논쟁=faydasız tartışma;무익한 일=boş iş
 교훈을 주다|ders vermek (ibret)|아이들에게 교훈을 주다=çocuklara ders vermek;교훈을 얻다=ders çıkarmak
@@ -253,7 +253,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 편|bölüm (dizi)|다음 편=sonraki bölüm;1편과 2편=birinci ve ikinci bölüm
 덜|daha az|덜 맵다=daha az acı;덜 먹다=daha az yemek
 위로|teselli|위로의 말=teselli sözü;큰 위로가 되다=büyük teselli olmak
-#10 · 줄거리 (olay örgüsü)
+#10 · 줄거리 (süjet)
 우연히 마주치다|tesadüfen karşılaşmak|길에서 우연히 마주치다=yolda tesadüfen karşılaşmak;눈이 마주치다=göz göze gelmek
 인물이 등장하다|karakter ortaya çıkmak|새로운 인물이 등장하다=yeni karakter ortaya çıkmak;처음 등장하다=ilk kez görünmek
 갈등을 겪다|çatışma yaşamak|가족과 갈등을 겪다=aileyle çatışma yaşamak;갈등이 생기다=anlaşmazlık çıkmak
@@ -296,7 +296,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 운명적이다|kadersel olmak|운명적인 만남=kaderin getirdiği karşılaşma;운명적인 사랑=kader aşkı
 등장인물|karakter (eserde)|등장인물이 많다=karakter çok;주요 등장인물=ana karakterler
 실감 나다|gerçekçi olmak|실감 나는 연기=gerçekçi oyunculuk;실감 나게 표현하다=canlı anlatmak
-#11 · 지역과 도시 (bölgeler ve şehirler)
+#11 · 지역과 도시 (bölgələr və şəhərlər)
 중심지 역할을 하다|merkez rolü oynamak|경제의 중심지 역할을 하다=ekonomi merkezi olmak;문화의 중심지=kültür merkezi
 교통의 요충지|ulaşımın kilit noktası|교통의 요충지이다=ulaşımın kavşak noktası olmak;군사적 요충지=askerî stratejik nokta
 공장이 모여 있다|fabrikalar toplanmak|공업 단지에 공장이 모여 있다=sanayi bölgesinde fabrikalar toplanmış;공업 도시=sanayi şehri
@@ -327,7 +327,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 매력적이다|çekici olmak|매력적인 도시=çekici şehir;매력적인 사람=çekici insan
 도청|il valiliği|도청 소재지=valilik merkezi;도청에서 일하다=valilikte çalışmak
 소재지|bulunduğu yer|본사 소재지=genel merkezin bulunduğu yer;도청 소재지=il merkezi
-#12 · 나라 소개 (ülke tanıtımı)
+#12 · 나라 소개 (ölkə təqdimatı)
 민족|etnik grup, millet|단일 민족=tek ulus;소수 민족=azınlık halk
 상징|sembol|국가의 상징=ülkenin sembolü;평화의 상징=barışın sembolü
 기후|iklim|기후가 온화하다=iklim ılıman;기후 변화=iklim değişikliği
@@ -371,7 +371,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 일으키다|yol açmak, başlatmak|열풍을 일으키다=furya başlatmak;문제를 일으키다=sorun çıkarmak
 주목|dikkat, ilgi|주목을 받다=ilgi görmek;세계의 주목=dünyanın ilgisi
 강국|güçlü ülke|경제 강국=ekonomik güç;기술 강국=teknoloji devi
-#Ek 1 · Okuma ve yazma
+#Əlavə 1 · Oxu və yazı
 문장|cümle|문장을 만들다=cümle kurmak;긴 문장=uzun cümle
 돌려주다|geri vermek|빌린 책을 돌려주다=ödünç kitabı geri vermek;돈을 돌려주다=parayı geri vermek
 목표|hedef|목표를 세우다=hedef belirlemek;목표를 달성하다=hedefe ulaşmak
@@ -441,7 +441,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 글자|harf, yazı|글자를 쓰다=harf yazmak;글자가 작다=yazı küçük
 훨씬|çok daha|훨씬 좋다=çok daha iyi;훨씬 빠르다=çok daha hızlı
 편리하다|kullanışlı olmak|교통이 편리하다=ulaşım kolay;편리한 기능=kullanışlı özellik
-#Ek 2 · Günlük hayat ve olaylar
+#Əlavə 2 · Gündəlik həyat və hadisələr
 자신감|özgüven|자신감이 생기다=özgüven kazanmak;자신감을 잃다=özgüvenini kaybetmek
 시내|şehir merkezi|시내에 나가다=şehir merkezine çıkmak;시내 구경=şehir gezisi
 가사|şarkı sözü|노래 가사=şarkı sözleri;가사를 외우다=sözleri ezberlemek
@@ -540,7 +540,7 @@ SNS에 사진을 올리다|sosyal medyaya fotoğraf yüklemek|여행 사진을 S
 무리하다|kendini zorlamak|무리하게 일하다=kendini zorlayarak çalışmak;무리하지 마세요=kendinizi yormayın
 회복하다|iyileşmek, geri kazanmak|건강을 회복하다=sağlığına kavuşmak;빠르게 회복하다=hızla iyileşmek
 부르다|çağırmak|택시를 부르다=taksi çağırmak;친구를 부르다=arkadaşını çağırmak
-#Ek 3 · Karakter ve beden dili
+#Əlavə 3 · Xarakter və bədən dili
 정신|zihin, ruh|정신을 차리다=kendine gelmek;정신 건강=ruh sağlığı
 좋은 점|iyi yanı|이 일의 좋은 점=bu işin iyi yanı;좋은 점과 나쁜 점=iyi ve kötü yanlar
 진행자|sunucu|프로그램 진행자=program sunucusu;진행자가 소개하다=sunucu tanıtmak
