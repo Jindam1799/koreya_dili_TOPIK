@@ -1,5 +1,7 @@
 """Aslıhan Erdoğan'ın TOPİK SINAV KELİMELERİ.docx dosyasından data/topik2.js üretir.
 Kullanım: python3 tools/build_topik2.py <docx>  → data/topik2.js + tools/topik2_report.md"""
+import sys
+sys.exit("Azərbaycan versiyasında data/topik2.js birbaşa redaktə olunur (tərcümə: tools/az/topik2.txt + tools/az_apply.py). Bu skripti işlətməyin — tərcüməni silər.")
 import sys,re,docx,os
 SRC=sys.argv[1]
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

@@ -6,7 +6,7 @@ import os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 name = sys.argv[1]
 dp = os.path.join(ROOT, 'data', name + '.js')
-tp = os.path.join(ROOT, 'tools', 'az', name + '.txt')
+tp = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, 'tools', 'az', name + '.txt')
 src = open(dp, encoding='utf-8').read()
 a = src.index('text:`') + 6
 b = src.rindex('`')
