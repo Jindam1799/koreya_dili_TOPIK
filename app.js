@@ -828,7 +828,7 @@ function cheer(tap){
  clearTimeout(chHide);chHide=setTimeout(()=>b.classList.remove('show'),6000);
 }
 $('cheer').addEventListener('click',e=>{e.stopPropagation();cheer(true)});
-setInterval(()=>{if(!document.hidden&&!$('cheer').classList.contains('show')&&Math.random()<.7)cheer()},16000);
+setInterval(()=>{if(!document.hidden&&!$('cheer').classList.contains('show'))cheer()},10000);
 
 $('bMsg').onclick=()=>{$('nameIn').value=S.name;$('mWel').hidden=false};
 $('bWel').onclick=()=>{const n=$('nameIn').value.trim();if(n)S.name=n;save();$('mWel').hidden=true;renderHome();
