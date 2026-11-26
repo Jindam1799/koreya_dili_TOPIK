@@ -802,7 +802,7 @@ $('bMusic').onclick=()=>{S.music=!S.music;save();renderSettings();S.music?BGM.st
 $('vol').addEventListener('input',e=>{S.vol=+e.target.value;save();BGM.setVol()});
 document.addEventListener('visibilitychange',()=>{document.hidden?BGM.pause():BGM.resume()});
 function voiceBusy(){try{return speechSynthesis.speaking||(!GTA.paused&&!GTA.ended)||(typeof GDA!=='undefined'&&!GDA.paused&&!GDA.ended)}catch(err){return false}}
-document.addEventListener('pointerdown',()=>BGM.wake(),{capture:true});
+document.addEventListener('pointerdown',()=>setTimeout(()=>BGM.wake(),1500),{capture:true});
 setInterval(()=>BGM.wake(),2500);
 
 // ---------- hoş geldin ----------
@@ -864,17 +864,19 @@ const SILENT=(()=>{const n=800,b=new ArrayBuffer(44+n),d=new DataView(b),w=(o,t)
  return URL.createObjectURL(new Blob([b],{type:'audio/wav'}))})();
 document.addEventListener('pointerdown',()=>{if(gtUnlocked)return;gtUnlocked=true;
  try{GTA.src=SILENT;GTA.play().catch(()=>{})}catch(e){}},{capture:true});
+let ttsT=null;function ttsWait(on){clearTimeout(ttsT);document.body.classList.toggle('tts-wait',on);if(on)ttsT=setTimeout(()=>document.body.classList.remove('tts-wait'),2500)}
 function speakDevice(text,male){
- speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';
+ if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';
  const v=male?(maleReal||voice):voice;if(v)u.voice=v;
  const r=+S.rate||1;u.rate=r;
  u.pitch=male?(maleReal?1:.65):S.voice==='low1'?.8:S.voice==='low2'?.62:(v&&FEMALE.test(v.name)||S.voice)?1:1.15;
- window.__utt=u;BGM.duck(true);u.onend=u.onerror=()=>{if(window.__utt===u)window.__utt=null;BGM.duck(false)};speechSynthesis.speak(u)}
+ window.__utt=u;BGM.duck(true);ttsWait(true);u.onstart=()=>ttsWait(false);u.onend=u.onerror=()=>{if(window.__utt===u)window.__utt=null;ttsWait(false);BGM.duck(false)};speechSynthesis.speak(u)}
 function speakGT(text){
- try{speechSynthesis.cancel()}catch(e){}
+ try{if(speechSynthesis.speaking)speechSynthesis.cancel()}catch(e){}
  let done=false;const fail=()=>{if(done)return;done=true;BGM.duck(false);try{speakDevice(text,false)}catch(e){}};
  GTA.onended=()=>{done=true;BGM.duck(false)};GTA.onerror=fail;
- GTA.src='https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ko&q='+encodeURIComponent(text.slice(0,190));
+ const src='https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ko&q='+encodeURIComponent(text.slice(0,190));
+ if(GTA.src===src&&GTA.readyState>=2){try{GTA.currentTime=0}catch(e){}}else GTA.src=src;
  const r=+S.rate||1;try{GTA.preservesPitch=true;GTA.playbackRate=Math.max(.35,r)}catch(e){}
  BGM.duck(true);const p=GTA.play();if(p&&p.catch)p.catch(fail)}
 function speak(text,force){
