@@ -562,7 +562,7 @@ function renderBook(){
  $('bkGrid').innerHTML=h;
 }
 function openBook(){bookFam=S.pet||null;renderBook();$('mBook').hidden=false;$('mBook').querySelector('.box').scrollTop=0}
-$('bBook').onclick=openBook;$('mascot').addEventListener('click',openBook);
+$('bBook').onclick=openBook;$('mascot').addEventListener('click',()=>cheer(true));
 $('bBookX').onclick=()=>{$('mBook').hidden=true};
 $('bkFam').addEventListener('click',e=>{const b=e.target.closest('[data-bf]');if(b){bookFam=b.dataset.bf;renderBook()}});
 
@@ -649,6 +649,7 @@ $('rvxShare').onclick=async()=>{const f=new File([JSON.stringify(rvPayload(),nul
 
 // ---------- güncelleme notları ----------
 const NOTES=[
+ ['1.7','2026-11-27',{az:["Lobidə 덩이 danışır: 20 motivasiya cümləsi, tullanma, mayallaq, gülmə kimi hərəkətlərlə; 덩이-ya toxunanda cavab verir (Bitki bələdçisi: yuxarıdakı kitab düyməsi)"],ko:['로비의 덩이가 말풍선으로 응원해요: 시험·공부 응원 20문장, 점프·구르기·웃음 등 랜덤 동작, 덩이를 누르면 대답해요 (식물 도감은 위쪽 책 버튼)']}],
  ['1.6','2026-11-27',{az:["Fon musiqisi söz oxunduqdan sonra yavaşca geri qayıdır, iPhone-da kəsiləndə özü davam edir"],ko:['단어를 읽은 뒤 배경 음악이 부드럽게 다시 커지고, 아이폰에서 끊겨도 스스로 다시 나와요']}],
  ['1.5','2026-11-27',{az:["Düzgün cavabda qanun səsi ilə parlaq effekt və qalın çərçivə, səhvdə bağlama səsi və ekran silkələnməsi (Parametrlər → Effekt səsləri)"],ko:['정답이면 카눈 소리 띠리링과 굵은 테두리, 오답이면 바을라마 소리 또롱과 화면 흔들림 (설정 → 효과음)']}],
  ['1.4','2026-11-26',{az:["A1–A2-yə 45 yeni söz: istiqamətlər (동·서·남·북…), bədən, rənglər, heyvanlar, zaman"],ko:['A1–A2 초급 어휘 45개 추가: 방향(동·서·남·북…), 몸, 색깔, 동물, 시간']}],
@@ -805,9 +806,33 @@ document.addEventListener('pointerdown',()=>BGM.wake(),{capture:true});
 setInterval(()=>BGM.wake(),2500);
 
 // ---------- hoş geldin ----------
+// ---------- 덩이 응원 말풍선 ----------
+const CHEERS=[["오늘도 한 걸음!", "Bu gün də bir addım!"], ["TOPIK 합격을 응원해요!", "TOPIK-də uğurlar arzulayıram!"], ["천천히 해도 괜찮아요.", "Yavaş getmək də olar."], ["할 수 있어요!", "Bacararsan!"], ["꾸준함이 실력이에요.", "Davamlılıq ən böyük güçdür."], ["틀려도 괜찮아요. 다시 하면 돼요!", "Səhv etmək problem deyil, yenidən sına!"], ["오늘은 단어 10개, 어때요?", "Bu gün 10 sözə nə deyirsən?"], ["시험 잘 볼 거예요!", "İmtahanın çox yaxşı keçəcək!"], ["어제보다 오늘 더 잘하고 있어요.", "Bu gün dünənkindən daha yaxşısan."], ["한국어 실력이 쑥쑥 자라고 있어요!", "Koreya dilin sürətlə böyüyür!"], ["파이팅!", "Haydı, sən bacararsan!"], ["조금씩, 매일매일.", "Az-az, hər gün."], ["포기하지 마세요!", "Təslim olma!"], ["잠깐 쉬어도 괜찮아요.", "Bir az fasilə vermək də yaxşıdır."], ["열심히 하는 모습이 멋져요!", "Bu qədər çalışmağın əladır!"], ["시험 날까지 같이 가요!", "İmtahan gününə qədər birlikdəyik!"], ["단어 하나가 모여 문장이 돼요.", "Sözlər birləşib cümlə olur."], ["오늘의 노력이 내일의 합격!", "Bu günün zəhməti, sabahın uğurudur!"], ["덩이도 같이 공부할게요!", "덩이 də səninlə oxuyur!"], ["물 한 잔 마시고 시작해요!", "Bir stəkan su iç, sonra başlayaq!"]];
+const TAPS=[["히히, 간지러워요!", "Hihi, qıdıqlanıram!", "laugh"], ["불렀어요?", "Məni çağırdın?", "jump"], ["같이 공부할까요?", "Birlikdə oxuyaq?", "bounce"], ["덩이 여기 있어요!", "덩이 buradadır!", "wiggle"], ["오늘 기분 어때요?", "Bu gün necəsən?", "squish"], ["한 문제만 더 풀어요!", "Bir sual də həll edək!", "excited"], ["우와, 반가워요!", "Vay, səni görməyimə şadam!", "spin"], ["공부할수록 저도 자라요!", "Sən oxuduqca mən də böyüyürəm!", "jump"], ["데굴데굴~ 구르기 보여 줄게요!", "Bax, sənə mayallaq aşıram!", "roll"], ["콧수염 멋있죠?", "Bığım yaraşıqlı deyil?", "laugh"]];
+const M_ACTS=['jump','spin','wiggle','squish','bounce','roll','laugh','excited'];
+let chLast=-1,tpLast=-1,chHide=null,mActT=null;
+function mAct(a){const m=$('mascot');clearTimeout(mActT);m.className='mascot';void m.offsetWidth;m.className='mascot happy m-'+a;mActT=setTimeout(()=>m.className='mascot',a==='roll'?1300:1100)}
+function cheerY(){const m=$('mascot'),hab=m.parentElement,hr=hab.getBoundingClientRect();
+ try{const sv=m.querySelector('svg'),bb=sv.getBBox(),vb=sv.viewBox.baseVal,r=sv.getBoundingClientRect();
+  if(vb&&vb.height){const k=Math.min(r.width/vb.width,r.height/vb.height),oy=(r.height-vb.height*k)/2;return Math.max(40,Math.round(hr.bottom-(r.top+oy+(bb.y-vb.y)*k)+18))}}catch(e){}
+ return hab.clientHeight-m.offsetTop+4}
+function cheer(tap){
+ const b=$('cheer'),h=$('home'),m=$('mascot');if(!b||h.hidden||document.querySelector('.modal:not([hidden])')||!$('guide').hidden)return;
+ let ko,tr,act;
+ if(tap){let i;do i=Math.floor(Math.random()*TAPS.length);while(i===tpLast&&TAPS.length>1);tpLast=i;[ko,tr,act]=TAPS[i]}
+ else{let i;do i=Math.floor(Math.random()*CHEERS.length);while(i===chLast&&CHEERS.length>1);chLast=i;[ko,tr]=CHEERS[i];act=M_ACTS[Math.floor(Math.random()*M_ACTS.length)]}
+ if(tap&&S.name&&Math.random()<.3)ko=S.name+', '+ko;
+ b.innerHTML=`<b>${esc(ko)}</b>`+(S.lang==='ko'?'':`<small>${esc(tr)}</small>`);
+ b.style.bottom=cheerY()+'px';
+ b.classList.remove('show');void b.offsetWidth;b.classList.add('show');mAct(act);
+ clearTimeout(chHide);chHide=setTimeout(()=>b.classList.remove('show'),6000);
+}
+$('cheer').addEventListener('click',e=>{e.stopPropagation();cheer(true)});
+setInterval(()=>{if(!document.hidden&&!$('cheer').classList.contains('show')&&Math.random()<.7)cheer()},16000);
+
 $('bMsg').onclick=()=>{$('nameIn').value=S.name;$('mWel').hidden=false};
 $('bWel').onclick=()=>{const n=$('nameIn').value.trim();if(n)S.name=n;save();$('mWel').hidden=true;renderHome();
- $('mascot').className='mascot hop';setTimeout(()=>$('mascot').className='mascot',1200);speak('안녕하세요! 같이 공부해요.')};
+ $('mascot').className='mascot hop';setTimeout(()=>$('mascot').className='mascot',1200);setTimeout(()=>cheer(),500)};
 
 // ---------- ses (kadın sesi öncelikli) ----------
 let voice=null,KOV=[],maleReal=null;

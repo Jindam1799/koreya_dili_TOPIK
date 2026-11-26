@@ -16,7 +16,7 @@ setTimeout(function(){d.style.visibility=''},2500)})();</script>
 <meta property="og:description" content="Koreyaca sözə bax, mənasını seç. Söz birləşmələri, kartlar və bitki dostunu böyüt!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://jindam1799.github.io/koreya_dili_TOPIK/">
-<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=28">
+<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=29">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="덩어리숲 · Koreya Dili Söz Meşəsi">
@@ -25,7 +25,7 @@ setTimeout(function(){d.style.visibility=''},2500)})();</script>
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="덩어리숲 · Koreya Dili Söz Meşəsi">
 <meta name="twitter:description" content="Koreyaca sözə bax, mənasını seç. A1–B2, TOPIK, Hanca, söz birləşmələri və bitki dostun!">
-<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=28">
+<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=29">
 <meta name="theme-color" content="#315e48">
 <meta name="author" content="Wonju (원주)">
 <link rel="manifest" href="manifest.webmanifest">
@@ -66,6 +66,11 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
 .icon svg{width:20px;height:20px}
 /* ana sayfa */
 .companion{flex:1;min-height:0;background:var(--light);border-radius:24px;position:relative;overflow:hidden;display:flex;flex-direction:column}
+.cheer{position:absolute;left:50%;bottom:60%;transform:translate(-50%,8px) scale(.85);opacity:0;pointer-events:none;max-width:min(78%,300px);background:#fffdf7;border:2px solid #2f6b4f;border-radius:18px;padding:8px 14px 9px;text-align:center;box-shadow:0 4px 0 rgba(47,107,79,.18);transition:opacity .3s,transform .35s cubic-bezier(.3,1.5,.5,1);z-index:3;font:inherit;color:var(--ink);cursor:pointer}
+.cheer.show{opacity:1;transform:translate(-50%,0) scale(1);pointer-events:auto}
+.cheer::after{content:"";position:absolute;left:50%;bottom:-9px;width:14px;height:14px;background:#fffdf7;border-right:2px solid #2f6b4f;border-bottom:2px solid #2f6b4f;transform:translateX(-50%) rotate(45deg)}
+.cheer b{display:block;font:800 15px/1.35 "Noto Sans KR",sans-serif;color:#2f6b4f;word-break:keep-all}
+.cheer small{display:block;font-size:12px;color:var(--muted);margin-top:2px;line-height:1.3}
 .habitat{flex:1;min-height:0;position:relative;display:grid;place-items:end center;background:#f8dfc0;overflow:hidden}
 .scene{position:absolute;inset:0}.scene svg{width:100%;height:100%;display:block}
 .scene .bal{animation:float 7s ease-in-out infinite}.scene .bal:nth-of-type(2){animation-duration:9s;animation-delay:-3s}.scene .bal:nth-of-type(3){animation-duration:8s;animation-delay:-5s}
@@ -75,7 +80,17 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
 .mascot svg{width:100%;height:100%;display:block;overflow:visible}
 .expression-happy,.expression-lift,.expression-land{display:none}
 .mascot.hop .expression-normal,.happy .expression-normal{display:none}.mascot.hop .expression-happy,.happy .expression-happy{display:inline}
-.mascot.hop{animation:hop .55s ease 2}.mascot.sad{animation:wob .4s ease 2}
+.mascot.hop{animation:hop .55s ease 2}
+.mascot{cursor:pointer}
+.mascot.m-jump{animation:gjump .75s cubic-bezier(.3,.7,.4,1)}.mascot.m-spin{animation:gspin .8s cubic-bezier(.3,.7,.4,1)}
+.mascot.m-wiggle{animation:gwig .7s ease-in-out}.mascot.m-squish{animation:gsq .7s ease}.mascot.m-bounce{animation:gbnc .9s ease}
+.mascot.m-roll{transform-origin:50% 55%;animation:mroll 1.25s ease-in-out}
+@keyframes mroll{0%{transform:translateX(0) rotate(0)}45%,55%{transform:translateX(70px) rotate(360deg)}100%{transform:translateX(0) rotate(0)}}
+.mascot.m-laugh{animation:mlaugh .9s ease-in-out}
+@keyframes mlaugh{0%,100%{transform:none}10%,30%,50%,70%{transform:translateY(-4px) rotate(-5deg)}20%,40%,60%,80%{transform:translateY(0) rotate(5deg)}}
+.mascot.m-excited{animation:mexc 1s ease}
+@keyframes mexc{0%,100%{transform:none}15%,48%,81%{transform:translateY(-16px) scale(.96,1.05)}30%,63%{transform:translateY(0) scale(1.06,.94)}}
+@media (prefers-reduced-motion:reduce){.mascot[class*="m-"]{animation:none}}.mascot.sad{animation:wob .4s ease 2}
 .guide{position:fixed;inset:0;z-index:45;overflow:hidden;background:#f8dfc0;cursor:pointer;user-select:none;-webkit-user-select:none;opacity:0;transition:opacity .35s;font-family:Nunito,"Noto Sans KR",system-ui,sans-serif}
 .guide.in{opacity:1}.guide[hidden]{display:none}
 .gscene{position:absolute;inset:0}.gscene svg{width:100%;height:100%;display:block}.gscene .bal{animation:float 7s ease-in-out infinite}
@@ -422,7 +437,7 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
    <button class="icon" id="bSet" data-al="settings"><svg><use href="#i-set"/></svg></button>
   </div>
   <div class="companion">
-   <div class="habitat"><div class="scene" id="scene" aria-hidden="true"></div><div class="mascot" id="mascot"></div></div>
+   <div class="habitat"><div class="scene" id="scene" aria-hidden="true"></div><div class="mascot" id="mascot"></div><button class="cheer" id="cheer" aria-live="polite"></button></div>
    <div class="cinfo">
     <div class="crow"><span class="cname" id="cName"></span><span class="tag" id="cLv"></span></div>
     <div class="bar"><i id="xpBar"></i></div>
@@ -586,16 +601,16 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
  </div></div>
 </div>
 
-<script src="config.js?v=28"></script>
-<script src="char.js?v=28"></script>
-<script src="data/a12.js?v=28"></script>
-<script src="data/b11.js?v=28"></script>
-<script src="data/b12.js?v=28"></script>
-<script src="data/b21.js?v=28"></script>
-<script src="data/b22.js?v=28"></script>
-<script src="data/topik1.js?v=28"></script>
-<script src="data/topik2.js?v=28"></script>
-<script src="data/hanja.js?v=28"></script>
-<script src="app.js?v=28"></script>
+<script src="config.js?v=29"></script>
+<script src="char.js?v=29"></script>
+<script src="data/a12.js?v=29"></script>
+<script src="data/b11.js?v=29"></script>
+<script src="data/b12.js?v=29"></script>
+<script src="data/b21.js?v=29"></script>
+<script src="data/b22.js?v=29"></script>
+<script src="data/topik1.js?v=29"></script>
+<script src="data/topik2.js?v=29"></script>
+<script src="data/hanja.js?v=29"></script>
+<script src="app.js?v=29"></script>
 </body>
 </html>
