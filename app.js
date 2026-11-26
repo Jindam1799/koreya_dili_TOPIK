@@ -518,12 +518,12 @@ $('bReset').onclick=()=>{if(!resetArm){resetArm=true;$('bReset').textContent=t('
 function chromeURL(u){return /Android/i.test(navigator.userAgent)?'intent://'+u.replace(/^https?:\/\//,'')+'#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url='+encodeURIComponent(u)+';end':u}
 function renderLinks(){
  const h=[];
- if(INSTA)h.push(`<a class="lk ig" href="${esc(chromeURL('https://www.instagram.com/'+encodeURIComponent(INSTA)+'/'))}" target="_blank" rel="noopener"><span class="ic"><svg><use href="#i-ig"/></svg></span><span class="tx"><b>Instagram · ${t('igSub')}</b><small>@${esc(INSTA)}</small></span></a>`);
+ if(INSTA)h.push(`<a class="lk ig" href="${esc(chromeURL('https://www.instagram.com/'+encodeURIComponent(INSTA)+'/'))}" target="_blank" rel="noopener"><span class="ic"><svg><use href="#i-ig"/></svg></span><span class="tx"><b>Instagram<span class="igs"> · ${t('igSub')}</span></b><small>@${esc(INSTA)}</small></span></a>`);
  if(KAKAO_OPEN)h.push(`<a class="lk kk" href="${esc(KAKAO_OPEN)}" target="_blank" rel="noopener"><span class="ic"><svg><use href="#i-kk"/></svg></span><span class="tx"><b>KakaoTalk</b><small>${esc(t('kakaoOpen'))}</small></span></a>`);
  else if(KAKAO)h.push(`<button class="lk kk" data-copy="${esc(KAKAO)}"><span class="ic"><svg><use href="#i-kk"/></svg></span><span class="tx"><b>KakaoTalk</b><small>ID · ${esc(KAKAO)}</small></span></button>`);
  if(CONTACT)h.push(`<a class="lk ml" href="${esc(chromeURL('https://mail.google.com/mail/?view=cm&fs=1&to='+encodeURIComponent(CONTACT)+'&su='+encodeURIComponent('덩어리숲')))}" target="_blank" rel="noopener"><span class="ic"><svg><use href="#i-mail"/></svg></span><span class="tx"><b>E-mail</b><small>${esc(CONTACT)}</small></span></a>`);
  ['links','linksW','linksN'].forEach(id=>{$(id).innerHTML=h.join('')});
- if(ASLI_YT&&$('asliYt')){const a=$('asliYt');a.href=chromeURL(ASLI_YT);a.hidden=false;const m=ASLI_YT.match(/@[\w.-]+/);if(m)a.querySelector('span').textContent='YouTube · '+m[0]}
+ if(ASLI_YT&&$('asliYt')){const a=$('asliYt');a.href=chromeURL(ASLI_YT);a.hidden=false;const m=ASLI_YT.match(/@[\w.-]+/);if(m)a.querySelector('span').innerHTML='<i class="ytp">YouTube · </i>'+esc(m[0])}
 }
 document.addEventListener('click',async e=>{const b=e.target.closest('[data-copy]');if(!b)return;const sm=b.querySelector('small');
  try{await navigator.clipboard.writeText(b.dataset.copy);sm.textContent=t('kakaoCopied');sm.classList.add('ok')}catch(err){}
