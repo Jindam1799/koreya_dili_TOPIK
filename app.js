@@ -3,7 +3,7 @@
 const $=id=>document.getElementById(id);
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
-const SPK='<svg><use href="#i-spk"/></svg>';
+const SPK='<svg class="spk" viewBox="0 0 24 24" aria-hidden="true"><path class="sb" d="M3.4 9.3c0-.8.6-1.4 1.4-1.4h2.6l4.5-3.5c.9-.7 2.1-.1 2.1 1v13.2c0 1.1-1.2 1.7-2.1 1l-4.5-3.5H4.8c-.8 0-1.4-.6-1.4-1.4z" fill="currentColor"/><path d="M6.2 10.3h1.6" stroke="#fff" stroke-opacity=".55" stroke-width="1.3" stroke-linecap="round"/><path class="w1" d="M16.7 9.3c1.5 1.5 1.5 3.9 0 5.4" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/><path class="w2" d="M19.3 6.7c2.9 2.9 2.9 7.7 0 10.6" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/></svg>';
 const CH=window.FOREST_CHAR;
 const CFG=window.SITE_CONFIG||{};
 const OWNER=CFG.owner||'Wonju Kim (원주)';
@@ -871,6 +871,11 @@ document.addEventListener('pointerdown',()=>{if(gtUnlocked)return;gtUnlocked=tru
 // iOS ses motorunu önceden ısıt: ilk dokunuşta sessiz kısa okuma (ilk kelimede gecikme olmasın)
 let ttsWarm=false;function ttsWarmUp(){if(ttsWarm)return;ttsWarm=true;try{const u=new SpeechSynthesisUtterance(' ');u.volume=0;u.lang='ko-KR';if(voice)u.voice=voice;speechSynthesis.speak(u)}catch(e){}}
 document.addEventListener('pointerdown',()=>ttsWarmUp(),{capture:true,once:true});
+// basılan hoparlör düğmesi: ses bitene kadar dalgalar oynar
+let sayBtn=null,sayPoll=null;
+function sayOn(btn){if(sayBtn)sayBtn.classList.remove('on');sayBtn=btn;btn.classList.add('on');clearInterval(sayPoll);const t0=performance.now();
+ sayPoll=setInterval(()=>{const el=performance.now()-t0;if(el>8000||(el>700&&!voiceBusy())){clearInterval(sayPoll);btn.classList.remove('on');if(sayBtn===btn)sayBtn=null}},150)}
+document.addEventListener('click',e=>{const b=e.target.closest('.say');if(b)sayOn(b)},true);
 let ttsT=null;function ttsWait(on){clearTimeout(ttsT);document.body.classList.toggle('tts-wait',on);if(on)ttsT=setTimeout(()=>document.body.classList.remove('tts-wait'),2500)}
 function speakDevice(text,male){
  if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';
