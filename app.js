@@ -780,7 +780,7 @@ const BGM=(()=>{
   // ses/okuma sırasında müziği yumuşakça kıs, bitince yavaşça geri aç; iOS'ta bitiş olayı gelmezse kendisi fark eder
   duck(d){if(!ctx||!duckG)return;const g=duckG.gain,t=ctx.currentTime;g.cancelScheduledValues(t);g.setValueAtTime(g.value,t);g.setTargetAtTime(d?.3:1,t,d?.12:.5);
    clearInterval(duckWatch);if(d){let n=0;duckWatch=setInterval(()=>{n++;if(n>2&&!voiceBusy()||n>40)BGM.duck(false)},400)}else this.wake()},
-  wake(){if(ctx&&on&&!document.hidden&&ctx.state!=='running')try{ctx.resume().catch(()=>{})}catch(e){}},
+  wake(){if(ctx&&on&&!document.hidden&&ctx.state!=='running'&&!voiceBusy())try{ctx.resume().catch(()=>{})}catch(e){}},
   // efekt sesleri: doğru = kanun ile Hicaz'da parlak çıkış (띠리링), yanlış = bağlamada inen iki tel (또롱)
   sfx(kind){if(S.sfx===false)return;try{if(!ctx)init();ctx.resume();
    const t0=ctx.currentTime+.02,out=ctx.createGain();out.gain.value=.9;out.connect(ctx.destination);
@@ -844,7 +844,7 @@ function speakDevice(text,male){
  const v=male?(maleReal||voice):voice;if(v)u.voice=v;
  const r=+S.rate||1;u.rate=r;
  u.pitch=male?(maleReal?1:.65):S.voice==='low1'?.8:S.voice==='low2'?.62:(v&&FEMALE.test(v.name)||S.voice)?1:1.15;
- BGM.duck(true);u.onend=u.onerror=()=>BGM.duck(false);speechSynthesis.speak(u)}
+ window.__utt=u;BGM.duck(true);u.onend=u.onerror=()=>{if(window.__utt===u)window.__utt=null;BGM.duck(false)};speechSynthesis.speak(u)}
 function speakGT(text){
  try{speechSynthesis.cancel()}catch(e){}
  let done=false;const fail=()=>{if(done)return;done=true;BGM.duck(false);try{speakDevice(text,false)}catch(e){}};
