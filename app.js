@@ -868,6 +868,9 @@ const SILENT=(()=>{const n=800,b=new ArrayBuffer(44+n),d=new DataView(b),w=(o,t)
  return URL.createObjectURL(new Blob([b],{type:'audio/wav'}))})();
 document.addEventListener('pointerdown',()=>{if(gtUnlocked)return;gtUnlocked=true;
  try{GTA.src=SILENT;GTA.play().catch(()=>{})}catch(e){}},{capture:true});
+// iOS ses motorunu önceden ısıt: ilk dokunuşta sessiz kısa okuma (ilk kelimede gecikme olmasın)
+let ttsWarm=false;function ttsWarmUp(){if(ttsWarm)return;ttsWarm=true;try{const u=new SpeechSynthesisUtterance(' ');u.volume=0;u.lang='ko-KR';if(voice)u.voice=voice;speechSynthesis.speak(u)}catch(e){}}
+document.addEventListener('pointerdown',()=>ttsWarmUp(),{capture:true,once:true});
 let ttsT=null;function ttsWait(on){clearTimeout(ttsT);document.body.classList.toggle('tts-wait',on);if(on)ttsT=setTimeout(()=>document.body.classList.remove('tts-wait'),2500)}
 function speakDevice(text,male){
  if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';
