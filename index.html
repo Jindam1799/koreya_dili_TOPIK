@@ -16,7 +16,7 @@ setTimeout(function(){d.style.visibility=''},2500)})();</script>
 <meta property="og:description" content="Koreyaca sözə bax, mənasını seç. Söz birləşmələri, kartlar və bitki dostunu böyüt!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://jindam1799.github.io/koreya_dili_TOPIK/">
-<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=34">
+<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=35">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="덩어리숲 · Koreya Dili Söz Meşəsi">
@@ -25,7 +25,7 @@ setTimeout(function(){d.style.visibility=''},2500)})();</script>
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="덩어리숲 · Koreya Dili Söz Meşəsi">
 <meta name="twitter:description" content="Koreyaca sözə bax, mənasını seç. A1–B2, TOPIK, Hanca, söz birləşmələri və bitki dostun!">
-<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=34">
+<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=35">
 <meta name="theme-color" content="#315e48">
 <meta name="author" content="Wonju (원주)">
 <link rel="manifest" href="manifest.webmanifest">
@@ -48,6 +48,8 @@ button:disabled{opacity:.5;cursor:default}
 button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--orange);outline-offset:2px}
 [hidden]{display:none!important}
 .ko{font-family:"Noto Sans KR","Apple SD Gothic Neo",sans-serif}
+/* iOS 26 Safari: üstte sabit opak şerit → durum çubuğu bulanık/gölge yerine bu renkle dolar */
+.topcap{position:fixed;top:0;left:0;right:0;height:max(env(safe-area-inset-top),2px);background:#fbf6e3;z-index:35;pointer-events:none}
 .app{position:relative;height:100dvh;max-width:480px;margin:auto;background:linear-gradient(180deg,#fbf6e3 0%,var(--paper) 38%);overflow:hidden;
  padding:calc(10px + env(safe-area-inset-top)) 14px calc(10px + env(safe-area-inset-bottom))}
 @media(min-width:500px){.app{box-shadow:0 0 0 1px var(--line),0 20px 60px #243e361a;max-height:900px;margin-top:max(0px,calc((100dvh - 900px)/2));border-radius:0}}
@@ -420,6 +422,7 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
 </style>
 </head>
 <body>
+<div class="topcap" aria-hidden="true"></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
  <symbol id="i-spk" viewBox="0 0 24 24"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></symbol>
  <symbol id="i-set" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h4M12 17h8" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="16" cy="7" r="2.4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="10" cy="17" r="2.4" fill="none" stroke="currentColor" stroke-width="2"/></symbol>
@@ -610,16 +613,16 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
  </div></div>
 </div>
 
-<script src="config.js?v=34"></script>
-<script src="char.js?v=34"></script>
-<script src="data/a12.js?v=34"></script>
-<script src="data/b11.js?v=34"></script>
-<script src="data/b12.js?v=34"></script>
-<script src="data/b21.js?v=34"></script>
-<script src="data/b22.js?v=34"></script>
-<script src="data/topik1.js?v=34"></script>
-<script src="data/topik2.js?v=34"></script>
-<script src="data/hanja.js?v=34"></script>
-<script src="app.js?v=34"></script>
+<script src="config.js?v=35"></script>
+<script src="char.js?v=35"></script>
+<script src="data/a12.js?v=35"></script>
+<script src="data/b11.js?v=35"></script>
+<script src="data/b12.js?v=35"></script>
+<script src="data/b21.js?v=35"></script>
+<script src="data/b22.js?v=35"></script>
+<script src="data/topik1.js?v=35"></script>
+<script src="data/topik2.js?v=35"></script>
+<script src="data/hanja.js?v=35"></script>
+<script src="app.js?v=35"></script>
 </body>
 </html>
