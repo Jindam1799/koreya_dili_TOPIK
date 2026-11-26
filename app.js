@@ -647,7 +647,7 @@ $('rvxShare').onclick=async()=>{const f=new File([JSON.stringify(rvPayload(),nul
 
 // ---------- güncelleme notları ----------
 const NOTES=[
- ['1.3','2026-11-26',{az:['Yeni açılış bələdçisi: 덩이 tullanaraq, fırlanaraq 덩어리숲-u tanıdır (Parametrlər → Tanıtıma yenidən bax)','Xoş gəldin pəncərəsi sadələşdirildi'],ko:['새 오프닝 안내: 덩이가 점프·회전하며 덩어리숲을 소개해요 (설정 → 소개 다시 보기)','환영 창 간소화 (사용법 부분 삭제)']}],
+ ['1.3','2026-11-26',{az:['Yeni açılış bələdçisi: 덩이 tullanaraq, fırlanaraq 덩어리숲-u tanıdır (Parametrlər → Tanıtıma yenidən bax)','Xoş gəldin pəncərəsi sadələşdirildi','Bələdçidə altyazı seçimi: AZ · 한'],ko:['새 오프닝 안내: 덩이가 점프·회전하며 덩어리숲을 소개해요 (설정 → 소개 다시 보기)','환영 창 간소화 (사용법 부분 삭제)','오프닝 자막 선택: AZ · 한']}],
  ['1.2','2026-11-26',{az:['TOPIK Ⅱ-yə 3–4-cü səviyyə üçün 627 yeni söz əlavə olundu (bölmə 54–66), hər sözə söz birləşmələri','TOPIK Ⅱ-yə mövzu bölmələri əlavə olundu: 경제 (iqtisadiyyat), 감정 (hisslər), 의성어·의태어 (təqlidi sözlər), 건강 (sağlamlıq), 과학 기술 (elm və texnologiya) — 143 yeni söz','TOPIK Ⅱ artıq 3.459 sözdür','Giriş ekranında TOPIK Ⅰ · TOPIK Ⅱ nişanları'],ko:['TOPIK Ⅱ에 3–4급 단어 627개 추가 (54–66단원), 모든 단어에 짝꿍어휘','TOPIK Ⅱ 주제별 단원 추가: 경제·감정·의성어·의태어·건강·과학 기술 (143개)','TOPIK Ⅱ 총 3,459단어','첫 화면에 TOPIK Ⅰ · TOPIK Ⅱ 배지']}],
  ['1.1','2026-11-25',{az:['Bütün səviyyələr azərbaycancadır: A1–A2 (893), B1–B2 (1.791), TOPIK Ⅰ (1.671), TOPIK Ⅱ (2.689) və Hanca (390) — sözlərin mənası, söz birləşmələri və qeydlər','Giriş ekranında TOPIK Ⅰ · TOPIK Ⅱ yazısı','Fon musiqisi: Azərbaycan xalq mahnısı “Apardı selər Saranı”'],ko:['모든 레벨 아제르바이잔어 완료: A1–A2(893)·B1–B2(1,791)·TOPIK Ⅰ(1,671)·TOPIK Ⅱ(2,689)·한자(390) — 뜻, 짝꿍어휘, 설명까지','첫 화면에 TOPIK Ⅰ · TOPIK Ⅱ 표시','배경 음악: 아제르바이잔 민요 “Apardı selər Saranı”']}],
  ['1.0','2026-11-25',{az:['덩어리숲 azərbaycanlı dostlar üçün açıldı! 🇦🇿','Səviyyələr: A1–A2, B1–B2, TOPIK Ⅰ (1.671 söz), TOPIK Ⅱ (2.689 söz), Hanca (Çin heroqlifləri)','Hər sözə söz birləşmələri (짝꿍어휘), çevrilən kartlar, irəliləyiş cədvəli','Bakı mənzərəli arxa fon: Alov qüllələri, Qız qalası, Xəzər dənizi və nar ağacları','Fon musiqisi: Azərbaycan xalq mahnısı “Apardı selər Saranı” — balaban, kamança, tar, qanun, qaval və Xəzər dalğalarının səsi ilə sakit düzənləmə','Sözlərin mənalarının azərbaycancaya tərcüməsi başladı'],ko:['아제르바이잔 친구들을 위한 덩어리숲이 열렸어요! 🇦🇿','레벨: A1–A2, B1–B2, TOPIK Ⅰ (1,671단어), TOPIK Ⅱ (2,689단어), 한자','단어마다 짝꿍어휘, 카드 뒤집기, 나의 진도표','바쿠 풍경 배경: 불꽃 타워, 처녀의 탑, 카스피해, 석류나무','배경 음악: 아제르바이잔 전통 민요 “Apardı selər Saranı”를 발라반·카만차·타르·가눈·가발과 카스피해 파도 소리로 잔잔하게 편곡','단어 뜻 아제르바이잔어 번역 시작']}]
@@ -861,7 +861,22 @@ $('nameIn').value=S.name;
 $('iScene').innerHTML=sceneSVG();$('iMascot').innerHTML=art();
 /* ── 오프닝 안내 (덩이의 소개) ── */
 const GD={"az": {"ui": {"skip": "Ötür ›", "tap": "toxun ›", "start": "Başla! 🌱", "l1": "başlanğıc", "l2": "orta", "l3": "yüksək", "soon": "tezliklə!", "sun": "gün · günəş"}, "s": [["hello", "Hamıya salam! <b>덩어리숲</b>-a xoş gəlmisiniz!", "jump"], ["wonju", "<b>덩어리숲</b> Azərbaycanda yaşayan və Koreya dilini öyrənməyə könül vermiş hər kəs üçün <b>Wonju</b> tərəfindən yaradılmış Koreya dili öyrənmə tətbiqidir.", "wave"], ["roof", "<b>“Koreya dili öyrənmə yolunuzda ehtiyac duya biləcəyiniz hər şey bir dam altında!”</b> Bu şüarla yola çıxaraq tətbiqimizdəki məzmunu müxtəlif öyrənmə məqsədlərinə görə bölmələrə ayırdıq.", "squish"], ["levels", "Koreya dilini yeni öyrənməyə başlayanlar və hobbi kimi öyrənənlər üçün <b>A1-A2, B1-B2</b> və <b>C1-C2</b> səviyyələrində söz məşqləri hazırladıq. (C1-C2 tezliklə!)", "bounce"], ["topik", "TOPIK imtahanına hazırlaşanlar, Koreyada təhsil almaq və ya iş həyatında Koreya dilindən istifadə etmək istəyənlər üçün isə <b>TOPIK I (1-2급)</b> və <b>TOPIK II (3-6급)</b> söz bölmələrini yaratdıq.", "jump"], ["hanja", "Həmçinin Koreya dilini yüksək səviyyədə öyrənmək və TOPIK II-də 5-ci və 6-cı səviyyələrə çatmaq istəyənlər üçün <b>Hanca (한자)</b> məşqlərinə də yer verdik.", "wiggle"], ["grow", "Üstəlik, məzmunumuz <b>daim yenilənir</b> və hər gün təkmilləşir.", "spin"], ["all", "Koreya dilini öyrənmək üçün ehtiyac duya biləcəyiniz belə geniş məzmunu əvvəllər bir yerdə görmüşdünüzmü?", "wave"], ["end", "İndi kəşf etmə növbəsi sizdədir! Koreya dili öyrənmə yolunuzda yeni yol yoldaşınız: <b>덩어리숲</b>!", "spin"]]}, "ko": {"ui": {"skip": "건너뛰기 ›", "tap": "터치 ›", "start": "시작! 🌱", "l1": "입문", "l2": "중급", "l3": "고급", "soon": "곧 출시!", "sun": "날 · 해"}, "s": [["hello", "여러분 안녕하세요! <b>덩어리숲</b>에 오신 것을 환영해요!", "jump"], ["wonju", "<b>덩어리숲</b>은 아제르바이잔에 살면서 한국어 공부에 마음을 쏟는 모든 분을 위해 <b>원주</b>가 만든 한국어 학습 앱이에요.", "wave"], ["roof", "<b>“한국어 공부 여정에 필요한 모든 것을 한곳에!”</b> 이 모토로 출발해서 앱의 내용을 학습 목적에 따라 나눴어요.", "squish"], ["levels", "한국어를 처음 시작하거나 취미로 배우는 분들을 위해 <b>A1-A2, B1-B2</b>, <b>C1-C2</b> 단계 단어를 준비했어요. (C1-C2는 곧 업데이트돼요!)", "bounce"], ["topik", "TOPIK을 준비하거나 한국에서 공부하고 일하고 싶은 분들을 위해 <b>TOPIK Ⅰ(1-2급)</b>과 <b>TOPIK Ⅱ(3-6급)</b> 단어를 만들었어요.", "jump"], ["hanja", "고급 한국어를 배우고 TOPIK Ⅱ 5–6급을 목표로 하는 분들을 위해 <b>한자</b> 공부도 넣었어요.", "wiggle"], ["grow", "게다가 내용은 <b>계속 업데이트</b>되고 날마다 발전하고 있어요.", "spin"], ["all", "한국어 공부에 필요한 이렇게 풍부한 내용을 한곳에서 본 적 있나요?", "wave"], ["end", "이제 여러분이 탐험할 차례예요! 한국어 여정의 새 길동무, <b>덩어리숲</b>!", "spin"]]}};
-const gdT=()=>GD[S.lang]||GD[Object.keys(GD)[0]];
+let gdLang=null;
+const gdT=()=>GD[gdLang]||GD[S.lang]||GD[Object.keys(GD)[0]];
+/* 음성 나레이션: audio/guide/<언어>/01.mp3 … 09.mp3 를 올린 뒤 해당 언어를 true 로 바꾸세요. */
+const GD_VOICE=Object.fromEntries(Object.keys(GD).map(k=>[k,false]));
+const GDA=new Audio();GDA.preload='auto';let gdAuto=null;
+function gdStopVoice(){clearTimeout(gdAuto);try{GDA.pause()}catch(e){}GDA.onended=GDA.onerror=GDA.onloadedmetadata=null;BGM.duck(false)}
+function gdVoice(n,len){
+ gdStopVoice();if(!GD_VOICE[gdLang]||S.gdMute)return 26;
+ GDA.src=`audio/guide/${gdLang}/${String(n+1).padStart(2,'0')}.mp3`;
+ GDA.onended=()=>{BGM.duck(false);const g=gdT();if(gdI===n&&n<g.s.length-1)gdAuto=setTimeout(()=>{if(gdI===n&&!$('guide').hidden){gdFinishType();gdShow(n+1)}},1400)};
+ GDA.onerror=()=>BGM.duck(false);
+ GDA.onloadedmetadata=()=>{if(isFinite(GDA.duration)&&gdI===n)gdSpeed=Math.max(18,Math.min(90,GDA.duration*1000*.85/Math.max(1,len)))};
+ BGM.duck(true);const pr=GDA.play();if(pr&&pr.catch)pr.catch(()=>BGM.duck(false));
+ return 40;
+}
+let gdSpeed=26;
 let gdI=0,gdTy=null,gdFull='',gdDone=null,gdBusy=false;
 function gdAct(kind){
  const m=$('gdM');if(!m)return;const acts=['jump','spin','wiggle','squish','bounce','wave'];
@@ -894,26 +909,29 @@ function gdType(h){
   if(pi>=parts.length){clearInterval(gdTy);gdTy=null;t.innerHTML=gdFull;b.classList.add('done');m.classList.remove('talk');return}
   out+=parts[pi][ci++];if(ci>=parts[pi].length){pi++;ci=0}
   t.innerHTML=out+'<span class="gcur">▍</span>';
- },26);
+ },gdSpeed);
 }
+function gdFinishType(){if(gdTy){clearInterval(gdTy);gdTy=null;$('gdTxt').innerHTML=gdFull;$('gdBub').classList.add('done');$('gdM').classList.remove('talk')}}
 function gdShow(n){
  const g=gdT();gdI=n;[...$('gdDots').children].forEach((d,k)=>d.classList.toggle('on',k===gdI));
- const [v,txt,act]=g.s[gdI];gdVis(v);gdType(txt);setTimeout(()=>gdAct(act),120);
+ const [v,txt,act]=g.s[gdI];gdVis(v);gdSpeed=gdVoice(gdI,txt.replace(/<[^>]+>/g,'').length);gdType(txt);setTimeout(()=>gdAct(act),120);
 }
-function gdApplyLang(){const g=gdT();$('gdSkip').textContent=g.ui.skip;$('gdNext').textContent=g.ui.tap;$('gdGoB').textContent=g.ui.start;$('gdDots').innerHTML=g.s.map(()=>'<i></i>').join('')}
+function gdApplyLang(){const g=gdT();$('gdLang').innerHTML=Object.keys(GD).map(k=>`<button data-gl="${k}" class="${k===gdLang?'on':''}">${k==='ko'?'한':k.toUpperCase()}</button>`).join('');$('gdMute').textContent=S.gdMute?'🔇':'🔊';$('gdMute').hidden=!GD_VOICE[gdLang];$('gdSkip').textContent=g.ui.skip;$('gdNext').textContent=g.ui.tap;$('gdGoB').textContent=g.ui.start;$('gdDots').innerHTML=g.s.map(()=>'<i></i>').join('')}
 function openGuide(done){
- gdDone=done||null;$('gdScene').innerHTML=sceneSVG(1);$('gdM').innerHTML=art();gdApplyLang();$('guide').hidden=false;requestAnimationFrame(()=>$('guide').classList.add('in'));gdShow(0);
+ gdDone=done||null;gdLang=GD[S.lang]?S.lang:Object.keys(GD)[0];$('gdScene').innerHTML=sceneSVG(1);$('gdM').innerHTML=art();gdApplyLang();$('guide').hidden=false;requestAnimationFrame(()=>$('guide').classList.add('in'));gdShow(0);
 }
 function closeGuide(){
- if($('guide').hidden)return;clearInterval(gdTy);gdTy=null;S.guideSeen=true;save();
+ if($('guide').hidden)return;clearInterval(gdTy);gdTy=null;gdStopVoice();S.guideSeen=true;save();
  $('guide').classList.remove('in');setTimeout(()=>{$('guide').hidden=true;$('gdStage').innerHTML='';const f=gdDone;gdDone=null;if(f)f()},350);
 }
 $('guide').addEventListener('click',e=>{
  if(e.target.closest('#gdSkip'))return closeGuide();
+ const gl=e.target.closest('[data-gl]');if(gl){gdLang=gl.dataset.gl;gdApplyLang();gdShow(gdI);return}
+ if(e.target.closest('#gdMute')){S.gdMute=!S.gdMute;save();gdApplyLang();if(S.gdMute)gdStopVoice();else gdShow(gdI);return}
  if(e.target.closest('#gdGo'))return closeGuide();
  if(e.target.closest('#gdMw')){gdAct();return}
  if(gdTy){clearInterval(gdTy);gdTy=null;$('gdTxt').innerHTML=gdFull;$('gdBub').classList.add('done');$('gdM').classList.remove('talk');return}
- const g=gdT();if(gdI<g.s.length-1)gdShow(gdI+1);
+ clearTimeout(gdAuto);const g=gdT();if(gdI<g.s.length-1)gdShow(gdI+1);
 });
 document.addEventListener('keydown',e=>{if($('guide').hidden)return;if(e.key==='Escape')closeGuide();else if(e.key==='Enter'||e.key===' '||e.key==='ArrowRight'){e.preventDefault();$('guide').click()}});
 $('bGuide').onclick=()=>{$('mSet').hidden=true;openGuide(()=>{})};
