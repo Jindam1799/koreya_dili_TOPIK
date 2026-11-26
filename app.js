@@ -144,7 +144,14 @@ if(S.size!==0&&S.size!==10)S.size=10;
 if(/^B[12]\.[12]$/.test(S.lv)){S.lv='B1-B2';S.unit='all'}
 S.retry=S.retry.filter(id=>BYID.has(id));if(!LEVELS.some(L=>L.id===S.lv))S.lv=LEVELS[0].id;
 const save=()=>{try{localStorage.setItem('deongeoriForestAZ',JSON.stringify(S))}catch(e){}};
-const t=(k,...a)=>{const v=TX[S.lang][k];return typeof v==='function'?v(...a):v};
+// karakterin adı: kullanıcı verdiyse o, yoksa 덩이
+const PN=()=>S.name||'덩이';
+function josa(n,a,b){const c=n.charCodeAt(n.length-1);if(c>=0xAC00&&c<=0xD7A3)return (c-0xAC00)%28?a:b;return /[aeıioöuüAEIİOÖUÜ]$/.test(n)?b:a}
+// Türkçe/Azərbaycanca ilgi eki (ses uyumu): Fıstık'ın, Ayşe'nin, Nar-ın
+function gen(n,sep){const hc=n.charCodeAt(n.length-1);if(hc>=0xAC00&&hc<=0xD7A3)return sep+((hc-0xAC00)%28?'in':'nin');const l=n.toLocaleLowerCase('tr'),vs=l.match(/[aeıioöuüə]/g),v=vs?vs[vs.length-1]:'e',x={a:'ı',ı:'ı',e:'i',i:'i',ə:'i',o:'u',u:'u',ö:'ü',ü:'ü'}[v]||'i';return sep+(/[aeıioöuüə]$/.test(l)?'n':'')+x+'n'}
+function pn(v){if(!S.name)return v;if(Array.isArray(v))return v.map(pn);if(typeof v!=='string')return v;const N=S.name;
+ return v.replace(/Deongi(['-])nin/g,(m,sep)=>N+gen(N,sep)).replace(/Deongi \(덩이\)/g,N).replace(/Deongi/g,N).replace(/덩이는/g,N+josa(N,'은','는')).replace(/덩이가/g,N+josa(N,'이','가')).replace(/덩이를/g,N+josa(N,'을','를')).replace(/덩이(?!어)/g,N)}
+const t=(k,...a)=>{const v=TX[S.lang][k];return pn(typeof v==='function'?v(...a):v)};
 
 function applyLang(){
  document.documentElement.lang=S.lang;
@@ -561,7 +568,7 @@ function renderBook(){
   })});
  $('bkGrid').innerHTML=h;
 }
-function openBook(){bookFam=S.pet||null;renderBook();$('mBook').hidden=false;$('mBook').querySelector('.box').scrollTop=0}
+function openBook(){bookFam=S.pet||null;$('mBook').querySelectorAll('[data-t]').forEach(el=>el.textContent=t(el.dataset.t));renderBook();$('mBook').hidden=false;$('mBook').querySelector('.box').scrollTop=0}
 $('bBook').onclick=openBook;$('mascot').addEventListener('click',()=>cheer(true));
 $('bBookX').onclick=()=>{$('mBook').hidden=true};
 $('bkFam').addEventListener('click',e=>{const b=e.target.closest('[data-bf]');if(b){bookFam=b.dataset.bf;renderBook()}});
@@ -649,6 +656,7 @@ $('rvxShare').onclick=async()=>{const f=new File([JSON.stringify(rvPayload(),nul
 
 // ---------- güncelleme notları ----------
 const NOTES=[
+ ['2.0','2026-11-27',{az:["Bitki dostuna verdiyin ad hər yerdə istifadə olunur (balon, bələdçi, hekayə); sürüşdürmə, böyütmə və kopyalama bağlandı; lobidə versiya məlumatı"],ko:['식물 친구 이름을 정하면 말풍선·오프닝 안내·이야기에서 그 이름으로 불러요. 화면 스크롤·확대·복사 방지, 로비 아래 버전 표시']}],
  ['1.9','2026-11-27',{az:["Bitki dostuna ad verəndə özünü tanıdır, toxunanda adını deyir; xoş gəldin başlığı tək sətir"],ko:['식물 친구에게 이름을 지어 주면 그 이름으로 자기소개를 하고, 누르면 이름을 말해요. 환영 인사 한 줄로']}],
  ['1.8','2026-11-27',{az:["Oxuyarkən fon musiqisi həmişə alçaq çalır, söz səsi dərhal və aydın çıxır; effekt səsləri oxunuşla toqquşmur"],ko:['공부 화면에서는 배경 음악을 계속 작게 틀고, 단어 음성은 크게 바로 나와요. 효과음이 음성과 부딪히지 않아요']}],
  ['1.7','2026-11-27',{az:["Lobidə 덩이 danışır: 20 motivasiya cümləsi, tullanma, mayallaq, gülmə kimi hərəkətlərlə; 덩이-ya toxunanda cavab verir (Bitki bələdçisi: yuxarıdakı kitab düyməsi)"],ko:['로비의 덩이가 말풍선으로 응원해요: 시험·공부 응원 20문장, 점프·구르기·웃음 등 랜덤 동작, 덩이를 누르면 대답해요 (식물 도감은 위쪽 책 버튼)']}],
@@ -812,8 +820,8 @@ setInterval(()=>BGM.wake(),2500);
 
 // ---------- hoş geldin ----------
 // ---------- 덩이 응원 말풍선 ----------
-const CHEERS=[["오늘도 한 걸음!", "Bu gün də bir addım!"], ["TOPIK 합격을 응원해요!", "TOPIK-də uğurlar arzulayıram!"], ["천천히 해도 괜찮아요.", "Yavaş getmək də olar."], ["할 수 있어요!", "Bacararsan!"], ["꾸준함이 실력이에요.", "Davamlılıq ən böyük güçdür."], ["틀려도 괜찮아요. 다시 하면 돼요!", "Səhv etmək problem deyil, yenidən sına!"], ["오늘은 단어 10개, 어때요?", "Bu gün 10 sözə nə deyirsən?"], ["시험 잘 볼 거예요!", "İmtahanın çox yaxşı keçəcək!"], ["어제보다 오늘 더 잘하고 있어요.", "Bu gün dünənkindən daha yaxşısan."], ["한국어 실력이 쑥쑥 자라고 있어요!", "Koreya dilin sürətlə böyüyür!"], ["파이팅!", "Haydı, sən bacararsan!"], ["조금씩, 매일매일.", "Az-az, hər gün."], ["포기하지 마세요!", "Təslim olma!"], ["잠깐 쉬어도 괜찮아요.", "Bir az fasilə vermək də yaxşıdır."], ["열심히 하는 모습이 멋져요!", "Bu qədər çalışmağın əladır!"], ["시험 날까지 같이 가요!", "İmtahan gününə qədər birlikdəyik!"], ["단어 하나가 모여 문장이 돼요.", "Sözlər birləşib cümlə olur."], ["오늘의 노력이 내일의 합격!", "Bu günün zəhməti, sabahın uğurudur!"], ["덩이도 같이 공부할게요!", "덩이 də səninlə oxuyur!"], ["물 한 잔 마시고 시작해요!", "Bir stəkan su iç, sonra başlayaq!"]];
-const TAPS=[["히히, 간지러워요!", "Hihi, qıdıqlanıram!", "laugh"], ["불렀어요?", "Məni çağırdın?", "jump"], ["같이 공부할까요?", "Birlikdə oxuyaq?", "bounce"], ["덩이 여기 있어요!", "덩이 buradadır!", "wiggle"], ["오늘 기분 어때요?", "Bu gün necəsən?", "squish"], ["한 문제만 더 풀어요!", "Bir sual də həll edək!", "excited"], ["우와, 반가워요!", "Vay, səni görməyimə şadam!", "spin"], ["공부할수록 저도 자라요!", "Sən oxuduqca mən də böyüyürəm!", "jump"], ["데굴데굴~ 구르기 보여 줄게요!", "Bax, sənə mayallaq aşıram!", "roll"], ["콧수염 멋있죠?", "Bığım yaraşıqlı deyil?", "laugh"]];
+const CHEERS=[["오늘도 한 걸음!", "Bu gün də bir addım!"], ["TOPIK 합격을 응원해요!", "TOPIK-də uğurlar arzulayıram!"], ["천천히 해도 괜찮아요.", "Yavaş getmək də olar."], ["할 수 있어요!", "Bacararsan!"], ["꾸준함이 실력이에요.", "Davamlılıq ən böyük güçdür."], ["틀려도 괜찮아요. 다시 하면 돼요!", "Səhv etmək problem deyil, yenidən sına!"], ["오늘은 단어 10개, 어때요?", "Bu gün 10 sözə nə deyirsən?"], ["시험 잘 볼 거예요!", "İmtahanın çox yaxşı keçəcək!"], ["어제보다 오늘 더 잘하고 있어요.", "Bu gün dünənkindən daha yaxşısan."], ["한국어 실력이 쑥쑥 자라고 있어요!", "Koreya dilin sürətlə böyüyür!"], ["파이팅!", "Haydı, sən bacararsan!"], ["조금씩, 매일매일.", "Az-az, hər gün."], ["포기하지 마세요!", "Təslim olma!"], ["잠깐 쉬어도 괜찮아요.", "Bir az fasilə vermək də yaxşıdır."], ["열심히 하는 모습이 멋져요!", "Bu qədər çalışmağın əladır!"], ["시험 날까지 같이 가요!", "İmtahan gününə qədər birlikdəyik!"], ["단어 하나가 모여 문장이 돼요.", "Sözlər birləşib cümlə olur."], ["오늘의 노력이 내일의 합격!", "Bu günün zəhməti, sabahın uğurudur!"], ["{N}도 같이 공부할게요!", "{N} də səninlə oxuyur!"], ["물 한 잔 마시고 시작해요!", "Bir stəkan su iç, sonra başlayaq!"]];
+const TAPS=[["히히, 간지러워요!", "Hihi, qıdıqlanıram!", "laugh"], ["불렀어요?", "Məni çağırdın?", "jump"], ["같이 공부할까요?", "Birlikdə oxuyaq?", "bounce"], ["{N} 여기 있어요!", "{N} buradadır!", "wiggle"], ["오늘 기분 어때요?", "Bu gün necəsən?", "squish"], ["한 문제만 더 풀어요!", "Bir sual də həll edək!", "excited"], ["우와, 반가워요!", "Vay, səni görməyimə şadam!", "spin"], ["공부할수록 저도 자라요!", "Sən oxuduqca mən də böyüyürəm!", "jump"], ["데굴데굴~ 구르기 보여 줄게요!", "Bax, sənə mayallaq aşıram!", "roll"], ["콧수염 멋있죠?", "Bığım yaraşıqlı deyil?", "laugh"]];
 const M_ACTS=['jump','spin','wiggle','squish','bounce','roll','laugh','excited'];
 let chLast=-1,tpLast=-1,chHide=null,mActT=null;
 function mAct(a){const m=$('mascot');clearTimeout(mActT);m.className='mascot';void m.offsetWidth;m.className='mascot happy m-'+a;mActT=setTimeout(()=>m.className='mascot',a==='roll'?1300:1100)}
@@ -830,7 +838,7 @@ function cheer(tap){
  else{let i;do i=Math.floor(Math.random()*CHEERS.length);while(i===chLast&&CHEERS.length>1);chLast=i;[ko,tr]=CHEERS[i];act=M_ACTS[Math.floor(Math.random()*M_ACTS.length)]}
  if(nameIntro&&S.name){nameIntro=false;[ko,tr,act]=NM_INTRO[Math.floor(Math.random()*NM_INTRO.length)]}
  else if(tap&&S.name&&Math.random()<.35)[ko,tr,act]=NM_TAP[Math.floor(Math.random()*NM_TAP.length)];
- if(S.name){ko=ko.split('{N}').join(S.name);tr=tr.split('{N}').join(S.name)}
+ ko=ko.split('{N}').join(PN());tr=tr.split('{N}').join(PN());
  b.innerHTML=`<b>${esc(ko)}</b>`+(S.lang==='ko'?'':`<small>${esc(tr)}</small>`);
  b.style.bottom=cheerY()+'px';
  b.classList.remove('show');void b.offsetWidth;b.classList.add('show');mAct(act);
@@ -986,7 +994,7 @@ function gdShow(n){
  const [v,txt,act]=g.s[gdI];gdVis(v);gdSpeed=gdVoice(gdI,txt.replace(/<[^>]+>/g,'').length);gdType(txt);setTimeout(()=>gdAct(act),120);
 }
 function gdApplyLang(){const g=gdT();$('gdLang').innerHTML=Object.keys(GD).map(k=>`<button data-gl="${k}" class="${k===gdLang?'on':''}">${k==='ko'?'한':k.toUpperCase()}</button>`).join('');$('gdMute').textContent=S.gdMute?'🔇':'🔊';$('gdMute').hidden=!GD_VOICE[gdLang];$('gdSkip').textContent=g.ui.skip;$('gdNext').textContent=g.ui.tap;$('gdGoB').textContent=g.ui.start;$('gdDots').innerHTML=g.s.map(()=>'<i></i>').join('')}
-function openGuide(done){
+function openGuide(done){try{document.querySelector('#gdBub .gname').textContent=PN()}catch(e){}
  gdDone=done||null;gdLang=GD[S.lang]?S.lang:Object.keys(GD)[0];$('gdScene').innerHTML=sceneSVG(1);$('gdM').innerHTML=art();gdApplyLang();$('guide').hidden=false;requestAnimationFrame(()=>$('guide').classList.add('in'));gdShow(0);
 }
 function closeGuide(){
@@ -1013,5 +1021,14 @@ $('intro').focus();
 // lobi alt bilgisi: telif · sürüm · güncelleme tarihi (dokununca yenilikler)
 function renderFoot(){const f=$('hFoot');if(!f||!NOTES.length)return;f.textContent=`© 2026 Wonju Kim (원주) · v${NOTES[0][0]} · ${NOTES[0][1].replace(/-/g,'.')}`}
 renderFoot();$('hFoot').onclick=()=>$('bNotes').click();
+// kaydırma, yakınlaştırma ve kopyalama engeli (yazı alanları hariç)
+{const ed=el=>el&&el.closest&&el.closest('input,textarea,select,[contenteditable]');
+ const scrollable=el=>{for(;el&&el!==document.body;el=el.parentElement){const cs=getComputedStyle(el),o=cs.overflowY,ox=cs.overflowX;if(((o==='auto'||o==='scroll')&&el.scrollHeight>el.clientHeight+1)||((ox==='auto'||ox==='scroll')&&el.scrollWidth>el.clientWidth+1))return true}return false};
+ ['gesturestart','gesturechange','gestureend'].forEach(ev=>document.addEventListener(ev,e=>e.preventDefault(),{passive:false}));
+ document.addEventListener('touchmove',e=>{if(e.touches.length>1||(!scrollable(e.target)&&!ed(e.target)))e.preventDefault()},{passive:false});
+ document.addEventListener('dblclick',e=>e.preventDefault(),{passive:false});
+ ['contextmenu','copy','cut','dragstart','selectstart'].forEach(ev=>document.addEventListener(ev,e=>{if(!ed(e.target))e.preventDefault()}));
+ document.addEventListener('wheel',e=>{if(e.ctrlKey)e.preventDefault()},{passive:false});
+ document.addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&['+','-','=','0'].includes(e.key))e.preventDefault()});}
 if('serviceWorker' in navigator&&location.protocol==='https:')navigator.serviceWorker.register('sw.js').catch(()=>{});
 }
