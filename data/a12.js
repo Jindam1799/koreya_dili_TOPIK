@@ -215,6 +215,17 @@
 시간|vaxt, saat (müddət)|시간이 없다=vaxt yoxdur;두 시간=iki saat
 시|saat (saat neçədir)|몇 시예요?=Saat neçədir?;한 시=saat bir
 분#2|dəqiqə|십 분=on dəqiqə;몇 분 걸려요?=Neçə dəqiqə çəkir?
+날|gün|좋은 날=gözəl bir gün;날을 잡다=gün təyin etmək
+일#2|gün (rəqəmlə)|삼 일=üç gün;며칠=neçə gün
+월|ay (rəqəmlə)|삼월=mart;몇 월=hansı ay
+주중|həftə içi|주중에 일하다=həftə içi işləmək;주중 할인=həftə içi endirim
+이번 주|bu həftə|이번 주 금요일=bu cümə;이번 주에 바쁘다=bu həftə məşğul olmaq
+이번 달|bu ay|이번 달 월급=bu ayın maaşı;이번 달 말=bu ayın sonu
+다음 주|gələn həftə|다음 주에 만나요=gələn həftə görüşək;다음 주 월요일=gələn bazar ertəsi
+다음 달|gələn ay|다음 달에 이사하다=gələn ay köçmək;다음 달 초=gələn ayın əvvəli
+그제|srağagün|그제 만났다=srağagün görüşdük;그제 밤=srağagün gecə
+늘|həmişə|늘 고맙다=həmişə minnətdar olmaq;늘 바쁘다=həmişə məşğul olmaq
+주로|əsasən, çox vaxt|주로 집에서 쉬다=əsasən evdə dincəlmək;주로 먹는 음식=ən çox yediyi yemək
 #날씨와 계절 (hava və fəsillər)
 계절|fəsil|계절이 바뀌다=fəsil dəyişir;좋아하는 계절=sevdiyim fəsil
 맑다|aydın olmaq (hava)|날씨가 맑다=hava aydındır;하늘이 맑다=səma aydındır
@@ -237,6 +248,7 @@
 날씨|hava|날씨가 좋다=hava yaxşıdır;날씨가 흐리다=hava tutqundur
 눈이 내리다|qar yağmaq|눈이 많이 내리다=çoxlu qar yağır;밤새 눈이 내리다=bütün gecə qar yağır
 비가 오다|yağış yağmaq|비가 많이 오다=güclü yağış yağır;비가 와서 우산을 쓰다=yağış yağdığı üçün çətir açmaq
+눈#2|qar|눈이 오다=qar yağmaq;눈사람=qar adam
 #위치와 방향 (yer və istiqamət)
 앞|ön|학교 앞=məktəbin qabağı;앞에 서다=qabaqda durmaq
 뒤|arxa|문 뒤=qapının arxası;뒤를 보다=arxaya baxmaq
@@ -262,6 +274,14 @@
 동쪽|şərq|동쪽 하늘=şərq səması;해가 동쪽에서 뜨다=günəş şərqdən doğur
 남쪽|cənub|남쪽 지방=cənub bölgəsi;남쪽으로 내려가다=cənuba enmək
 북쪽|şimal|북쪽 지방=şimal bölgəsi;북쪽으로 가다=şimala getmək
+동|şərq|동해=Şərq dənizi;동아시아=Şərqi Asiya
+서|qərb|서해=Sarı dəniz (Qərb dənizi);서울 서부=Seulun qərbi
+남|cənub|남한=Cənubi Koreya;남부 지방=cənub bölgəsi
+북|şimal|북한=Şimali Koreya;북극=Şimal qütbü
+남동|cənub-şərq|남동쪽=cənub-şərq istiqaməti;남동부=cənub-şərq bölgəsi
+남서|cənub-qərb|남서쪽=cənub-qərb istiqaməti;남서풍=cənub-qərb küləyi
+북동|şimal-şərq|북동쪽=şimal-şərq istiqaməti;북동부=şimal-şərq bölgəsi
+북서|şimal-qərb|북서쪽=şimal-qərb istiqaməti;북서풍=şimal-qərb küləyi
 #장소와 건물 (yerlər və binalar)
 지하|zirzəmi, yeraltı mərtəbə|지하 1층=mənfi birinci mərtəbə;지하에 있다=yeraltı mərtəbədədir
 주소|ünvan|주소를 쓰다=ünvanı yazmaq;주소가 어떻게 되세요?=Ünvanınız nədir?
@@ -554,6 +574,22 @@
 폐|ağciyər|폐가 건강하다=ağciyəri sağlamdır;폐에 나쁘다=ağciyərə zərərlidir
 간|qaraciyər|간이 나쁘다=qaraciyəri xəstədir;간 건강=qaraciyər sağlamlığı
 신장|böyrək|신장이 약하다=böyrəkləri zəifdir;신장 기능=böyrək funksiyası
+눈|göz|눈이 크다=gözləri böyük olmaq;눈을 감다=gözlərini yummaq
+가슴|sinə|가슴이 아프다=sinəsi ağrımaq;가슴이 뛰다=ürəyi döyünmək
+살|ət, dəri|살이 찌다=kökəlmək;살을 빼다=arıqlamaq
+속눈썹|kirpik|긴 속눈썹=uzun kirpiklər;속눈썹이 빠지다=kirpiyi tökülmək
+콧대|burun körpüsü|콧대가 높다=burnu yuxarıda olmaq (təkəbbürlü);콧대가 서다=burun körpüsü düz olmaq
+귓구멍|qulaq dəliyi|귓구멍을 막다=qulağını tutmaq;귓구멍이 가렵다=qulaq dəliyi qaşınmaq
+목구멍|boğaz (daxili)|목구멍이 따갑다=boğazı göynəmək;목구멍에 걸리다=boğazında ilişmək
+윗몸|bədənin yuxarı hissəsi|윗몸 일으키기=press məşqi;윗몸을 숙이다=irəli əyilmək
+히프|omba|히프가 크다=ombası enli olmaq;히프 라인=omba xətti
+둔부|omba (rəsmi)|둔부 근육=omba əzələsi;둔부 통증=omba ağrısı
+무릎뼈|diz qapağı|무릎뼈를 다치다=diz qapağını zədələmək;무릎뼈가 아프다=diz qapağı ağrımaq
+위장|mədə (və bağırsaq)|위장이 약하다=mədəsi zəif olmaq;위장병=mədə xəstəliyi
+창자|bağırsaq|창자가 꼬이다=bağırsaqları düyünlənmək;작은창자=nazik bağırsaq
+장기|orqan (daxili)|장기 기증=orqan bağışı;장기 이식=orqan köçürülməsi
+방광|sidik kisəsi|방광염=sidik kisəsinin iltihabı;방광이 차다=sidik kisəsi dolmaq
+허리띠|kəmər|허리띠를 매다=kəmər bağlamaq;허리띠를 졸라매다=kəməri bərk bağlamaq (qənaət etmək)
 #취미와 여가 (hobbi və asudə vaxt)
 활동|fəaliyyət|야외 활동=açıq havada fəaliyyət;활동을 하다=fəaliyyət göstərmək
 경기|oyun, yarış (matç)|축구 경기=futbol oyunu;경기를 보다=oyuna baxmaq
@@ -711,6 +747,9 @@
 초록색|yaşıl|초록색 잎=yaşıl yarpaq;초록색 신호=yaşıl işıq
 남색|tünd göy|남색 바지=tünd göy şalvar;남색 교복=tünd göy məktəb forması
 색깔|rəng|좋아하는 색깔=sevdiyim rəng;색깔이 예쁘다=rəngi gözəldir
+하얀색|ağ|하얀색 셔츠=ağ köynək;하얀색 눈=ağappaq qar
+까만색|qara|까만색 구두=qara ayaqqabı;까만색 머리=qara saç
+녹색|yaşıl|녹색 신호=yaşıl işıq;녹색 채소=yaşıl tərəvəz
 #동물과 식물 (heyvanlar və bitkilər)
 동물|heyvan|동물을 키우다=heyvan saxlamaq;동물원=zoopark
 강아지|küçük (it balası)|강아지를 키우다=küçük saxlamaq;강아지와 산책하다=küçüklə gəzmək
@@ -804,6 +843,12 @@
 꽃|gül, çiçək|꽃이 피다=gül açır;꽃을 선물하다=gül hədiyyə etmək
 나뭇가지|budaq|나뭇가지가 부러지다=budaq sınır;나뭇가지에 앉다=budağa qonmaq
 나뭇잎|yarpaq|나뭇잎이 떨어지다=yarpaqlar tökülür;노란 나뭇잎=sarı yarpaq
+생쥐|siçan (balaca)|생쥐 한 마리=bir siçan;생쥐처럼 작다=siçan kimi balaca
+새끼|bala|새끼를 낳다=bala doğmaq;새끼 고양이=pişik balası
+새끼 고양이|pişik balası|새끼 고양이를 키우다=pişik balası saxlamaq;귀여운 새끼 고양이=sevimli pişik balası
+침팬지|şimpanze|침팬지가 똑똑하다=şimpanze ağıllıdır;침팬지 무리=şimpanze sürüsü
+오랑우탄|oranqutan|오랑우탄을 보다=oranqutan görmək;오랑우탄 보호=oranqutanları qorumaq
+치타|gepard|치타처럼 빠르다=gepard kimi sürətli;치타가 달리다=gepardın qaçması
 #자주 쓰는 동사 (tez-tez işlənən feillər)
 찾다|axtarmaq, tapmaq|길을 찾다=yolu axtarmaq;열쇠를 찾다=açarı tapmaq
 보이다|görünmək, göstərmək|잘 보이다=yaxşı görünür;신분증을 보이다=şəxsiyyət vəsiqəsini göstərmək
