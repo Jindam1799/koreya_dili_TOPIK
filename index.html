@@ -16,7 +16,7 @@ setTimeout(function(){d.style.visibility=''},2500)})();</script>
 <meta property="og:description" content="Koreyaca sözə bax, mənasını seç. Söz birləşmələri, kartlar və bitki dostunu böyüt!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://jindam1799.github.io/koreya_dili_TOPIK/">
-<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=23">
+<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=24">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="덩어리숲 · Koreya Dili Söz Meşəsi">
@@ -25,7 +25,7 @@ setTimeout(function(){d.style.visibility=''},2500)})();</script>
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="덩어리숲 · Koreya Dili Söz Meşəsi">
 <meta name="twitter:description" content="Koreyaca sözə bax, mənasını seç. A1–B2, TOPIK, Hanca, söz birləşmələri və bitki dostun!">
-<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=23">
+<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=24">
 <meta name="theme-color" content="#315e48">
 <meta name="author" content="Wonju (원주)">
 <link rel="manifest" href="manifest.webmanifest">
@@ -180,6 +180,13 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
 .answer.ok{border-color:var(--green);background:#e5efdc;color:var(--green)}
 .answer.no{border-color:var(--red);background:#f8e4e0;color:var(--red)}
 .answer.dim{opacity:.45}
+.answer.ok,.answer.no{opacity:1!important}
+.answer.ok{border-width:3.5px;animation:okPop .55s cubic-bezier(.3,1.6,.5,1)}
+@keyframes okPop{0%{transform:scale(1);box-shadow:0 0 0 0 rgba(63,122,74,.55)}40%{transform:scale(1.06);box-shadow:0 0 0 10px rgba(63,122,74,.18)}100%{transform:scale(1);box-shadow:0 0 0 14px rgba(63,122,74,0)}}
+.answer.no{border-width:2.5px}
+#game.shake{animation:shake .5s cubic-bezier(.36,.07,.19,.97)}
+@keyframes shake{10%,90%{transform:translateX(-2px)}20%,80%{transform:translateX(5px)}30%,50%,70%{transform:translateX(-9px)}40%,60%{transform:translateX(9px)}}
+@media (prefers-reduced-motion:reduce){.answer.ok{animation:none}}
 .hint{flex:none;text-align:center}
 /* geri bildirim (alt sayfa) */
 .sheet-wrap{position:absolute;inset:0;background:#1e362d55;display:flex;align-items:flex-end;z-index:10;padding:10px}
@@ -560,7 +567,7 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
   <h3 data-t="lang"></h3><div class="lang" style="width:max-content"><button data-lang="az">Azərbaycanca</button><button data-lang="ko">한국어</button></div>
   <h3 data-t="roundSize"></h3><div class="chips" id="sizeChips"></div>
   <h3 data-t="timeLimit"></h3><div class="chips"><button class="chip" id="bTimer"></button></div>
-  <h3 data-t="sound"></h3><div class="chips"><button class="chip" id="bAuto"></button><button class="chip" id="bTest" data-t="test"></button></div>
+  <h3 data-t="sound"></h3><div class="chips"><button class="chip" id="bAuto"></button><button class="chip" id="bSfx"></button><button class="chip" id="bTest" data-t="test"></button></div>
   <h3 data-t="voiceH"></h3><div class="field"><select id="voiceSel" aria-label="voice"></select></div>
   <h3 data-t="speedH"></h3><div class="chips" id="rateChips"></div>
   <h3 data-t="music"></h3><div class="chips"><button class="chip" id="bMusic"></button><input type="range" id="vol" min="0" max="100" aria-label="volume"></div>
@@ -575,16 +582,16 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
  </div></div>
 </div>
 
-<script src="config.js?v=23"></script>
-<script src="char.js?v=23"></script>
-<script src="data/a12.js?v=23"></script>
-<script src="data/b11.js?v=23"></script>
-<script src="data/b12.js?v=23"></script>
-<script src="data/b21.js?v=23"></script>
-<script src="data/b22.js?v=23"></script>
-<script src="data/topik1.js?v=23"></script>
-<script src="data/topik2.js?v=23"></script>
-<script src="data/hanja.js?v=23"></script>
-<script src="app.js?v=23"></script>
+<script src="config.js?v=24"></script>
+<script src="char.js?v=24"></script>
+<script src="data/a12.js?v=24"></script>
+<script src="data/b11.js?v=24"></script>
+<script src="data/b12.js?v=24"></script>
+<script src="data/b21.js?v=24"></script>
+<script src="data/b22.js?v=24"></script>
+<script src="data/topik1.js?v=24"></script>
+<script src="data/topik2.js?v=24"></script>
+<script src="data/hanja.js?v=24"></script>
+<script src="app.js?v=24"></script>
 </body>
 </html>
