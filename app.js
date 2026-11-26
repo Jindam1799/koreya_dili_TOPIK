@@ -649,6 +649,7 @@ $('rvxShare').onclick=async()=>{const f=new File([JSON.stringify(rvPayload(),nul
 
 // ---------- güncelleme notları ----------
 const NOTES=[
+ ['1.6','2026-11-27',{az:["Fon musiqisi söz oxunduqdan sonra yavaşca geri qayıdır, iPhone-da kəsiləndə özü davam edir"],ko:['단어를 읽은 뒤 배경 음악이 부드럽게 다시 커지고, 아이폰에서 끊겨도 스스로 다시 나와요']}],
  ['1.5','2026-11-27',{az:["Düzgün cavabda qanun səsi ilə parlaq effekt və qalın çərçivə, səhvdə bağlama səsi və ekran silkələnməsi (Parametrlər → Effekt səsləri)"],ko:['정답이면 카눈 소리 띠리링과 굵은 테두리, 오답이면 바을라마 소리 또롱과 화면 흔들림 (설정 → 효과음)']}],
  ['1.4','2026-11-26',{az:["A1–A2-yə 45 yeni söz: istiqamətlər (동·서·남·북…), bədən, rənglər, heyvanlar, zaman"],ko:['A1–A2 초급 어휘 45개 추가: 방향(동·서·남·북…), 몸, 색깔, 동물, 시간']}],
  ['1.3','2026-11-26',{az:['Yeni açılış bələdçisi: 덩이 tullanaraq, fırlanaraq 덩어리숲-u tanıdır (Parametrlər → Tanıtıma yenidən bax)','Xoş gəldin pəncərəsi sadələşdirildi','Bələdçidə altyazı seçimi: AZ · 한'],ko:['새 오프닝 안내: 덩이가 점프·회전하며 덩어리숲을 소개해요 (설정 → 소개 다시 보기)','환영 창 간소화 (사용법 부분 삭제)','오프닝 자막 선택: AZ · 한']}],
@@ -665,7 +666,7 @@ $('bNotesOk').onclick=()=>{$('mNotes').hidden=true};
 const BGM=(()=>{
  // Azərbaycan xalq mahnısı "Apardı selər Saranı" — yavaş, sakit və dinləndirici düzənləmə (3/8)
  // balaban və kamança növbə ilə, tar, qanun, yumşaq qaval və Xəzər dalğalarının səsi
- let ctx=null,master=null,duckG=null,bus=null,timer=null,step=0,next=0,on=false,noise=null,waves=null,pass=0;
+ let duckWatch=null,ctx=null,master=null,duckG=null,bus=null,timer=null,step=0,next=0,on=false,noise=null,waves=null,pass=0;
  const E=0.42,S16=E/2;// səkkizlik 0,42 san — yavaş və rahat
  const BAR=6;// 3/8 = 6 on altılıq
  const N=m=>440*Math.pow(2,(m-69)/12);
@@ -688,6 +689,7 @@ const BGM=(()=>{
  function reverb(){const len=ctx.sampleRate*3.5,b=ctx.createBuffer(2,len,ctx.sampleRate);for(let c=0;c<2;c++){const d=b.getChannelData(c);for(let i=0;i<len;i++)d[i]=(Math.random()*2-1)*Math.pow(1-i/len,2.2)}const r=ctx.createConvolver();r.buffer=b;return r}
  function init(){
   ctx=new (window.AudioContext||window.webkitAudioContext)();
+  ctx.onstatechange=()=>{if(on&&ctx.state!=='running'&&!document.hidden)setTimeout(()=>BGM.wake(),300)};
   master=ctx.createGain();master.gain.value=0;duckG=ctx.createGain();bus=ctx.createGain();bus.connect(duckG);
   const rv=reverb(),wet=ctx.createGain();wet.gain.value=.6;duckG.connect(master);duckG.connect(rv);rv.connect(wet);wet.connect(master);master.connect(ctx.destination);
   const len=ctx.sampleRate*2;noise=ctx.createBuffer(1,len,ctx.sampleRate);const d=noise.getChannelData(0);for(let i=0;i<len;i++)d[i]=Math.random()*2-1;
@@ -775,7 +777,10 @@ const BGM=(()=>{
    master.gain.cancelScheduledValues(ctx.currentTime);master.gain.setValueAtTime(master.gain.value,ctx.currentTime);master.gain.linearRampToValueAtTime(vol(),ctx.currentTime+3)}catch(e){}},
   stop(){if(!ctx||!on)return;on=false;clearInterval(timer);master.gain.cancelScheduledValues(ctx.currentTime);master.gain.setValueAtTime(master.gain.value,ctx.currentTime);master.gain.linearRampToValueAtTime(0,ctx.currentTime+.8)},
   setVol(){if(ctx&&on){master.gain.cancelScheduledValues(ctx.currentTime);master.gain.setTargetAtTime(vol(),ctx.currentTime,.1)}},
-  duck(d){if(ctx&&duckG)duckG.gain.setTargetAtTime(d?.25:1,ctx.currentTime,.15)},
+  // ses/okuma sırasında müziği yumuşakça kıs, bitince yavaşça geri aç; iOS'ta bitiş olayı gelmezse kendisi fark eder
+  duck(d){if(!ctx||!duckG)return;const g=duckG.gain,t=ctx.currentTime;g.cancelScheduledValues(t);g.setValueAtTime(g.value,t);g.setTargetAtTime(d?.3:1,t,d?.12:.5);
+   clearInterval(duckWatch);if(d){let n=0;duckWatch=setInterval(()=>{n++;if(n>2&&!voiceBusy()||n>40)BGM.duck(false)},400)}else this.wake()},
+  wake(){if(ctx&&on&&!document.hidden&&ctx.state!=='running')try{ctx.resume().catch(()=>{})}catch(e){}},
   // efekt sesleri: doğru = kanun ile Hicaz'da parlak çıkış (띠리링), yanlış = bağlamada inen iki tel (또롱)
   sfx(kind){if(S.sfx===false)return;try{if(!ctx)init();ctx.resume();
    const t0=ctx.currentTime+.02,out=ctx.createGain();out.gain.value=.9;out.connect(ctx.destination);
@@ -795,6 +800,9 @@ const BGM=(()=>{
 $('bMusic').onclick=()=>{S.music=!S.music;save();renderSettings();S.music?BGM.start():BGM.stop()};
 $('vol').addEventListener('input',e=>{S.vol=+e.target.value;save();BGM.setVol()});
 document.addEventListener('visibilitychange',()=>{document.hidden?BGM.pause():BGM.resume()});
+function voiceBusy(){try{return speechSynthesis.speaking||(!GTA.paused&&!GTA.ended)||(typeof GDA!=='undefined'&&!GDA.paused&&!GDA.ended)}catch(err){return false}}
+document.addEventListener('pointerdown',()=>BGM.wake(),{capture:true});
+setInterval(()=>BGM.wake(),2500);
 
 // ---------- hoş geldin ----------
 $('bMsg').onclick=()=>{$('nameIn').value=S.name;$('mWel').hidden=false};
