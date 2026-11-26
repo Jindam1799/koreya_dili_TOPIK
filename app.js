@@ -1010,5 +1010,8 @@ function closeIntro(){if(introDone)return;introDone=true;$('intro').classList.ad
 $('intro').addEventListener('click',closeIntro);
 document.addEventListener('keydown',e=>{if(!introDone){e.preventDefault();closeIntro()}},{capture:true});
 $('intro').focus();
+// lobi alt bilgisi: telif · sürüm · güncelleme tarihi (dokununca yenilikler)
+function renderFoot(){const f=$('hFoot');if(!f||!NOTES.length)return;f.textContent=`© 2026 Wonju Kim (원주) · v${NOTES[0][0]} · ${NOTES[0][1].replace(/-/g,'.')}`}
+renderFoot();$('hFoot').onclick=()=>$('bNotes').click();
 if('serviceWorker' in navigator&&location.protocol==='https:')navigator.serviceWorker.register('sw.js').catch(()=>{});
 }
