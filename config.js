@@ -10,6 +10,6 @@ window.SITE_CONFIG = {
   contact: 'wkim5298@gmail.com',
   kakao: 'wj5298',
   kakaoOpen: '',
-  instagram: 'wj_kimi',
+  instagram: 'turkce_gunlugum52',
   asliYoutube: 'https://www.youtube.com/@gumguri_korean'
 };

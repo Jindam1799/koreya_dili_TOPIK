@@ -44,7 +44,7 @@ const clash=(a,b)=>{const x=norm(a),y=norm(b);return !x||!y||x===y||x.includes(y
 
 // ---------- dil ----------
 const TX={
-az:{sub:'Koreya dili söz meşəsi · A1–B2 · TOPIK Ⅰ·Ⅱ',a2hsT:'📲 Əsas ekrana əlavə et (tətbiq kimi istifadə et)',installBtn:'Əsas ekrana əlavə et',
+az:{sub:'Koreya dili söz meşəsi · A1–B2 · TOPIK Ⅰ·Ⅱ',a2hsT:'📲 Əsas ekrana əlavə et (tətbiq kimi istifadə et)',igSub:'Əlaqə və əməkdaşlıq',installBtn:'Əsas ekrana əlavə et',
  and1:'Bu səhifəni Chrome-da aç.',and2:'Yuxarı sağdakı ⋮ menyusuna toxun.',and3:'“Əsas ekrana əlavə et” və ya “Tətbiqi quraşdır” seçimini et.',
  ios1:'Bu səhifəni Safari-də aç.',ios2:'Aşağıdakı Paylaş düyməsinə (□↑) toxun.',ios3:'“Əsas ekrana əlavə et” (Add to Home Screen) seçimini et və “Əlavə et”ə toxun.',feedback:'💬 덩어리숲 mütəmadi olaraq yenilənəcək. Öyrənərkən çətinlik çəkdiyin bir şey və ya ehtiyac duyduğun bir funksiya olsa, bizə mütləq yaz!',rvH:'Söz yoxlaması (redaktor)',rvOpen:'Yoxlama rejimini aç',rvTitle:'Söz yoxlaması',rvSend:'Göndər',rvMean:'Azərbaycanca mənası',rvPairs:'Söz birləşmələri (koreyaca = azərbaycanca)',rvAdd:'+ Söz birləşməsi əlavə et',rvNote:'Qeyd (istəyə görə)',rvNotePh:'Məs. bu söz köhnədir, əvəzinə … daha təbiidir',rvEmpty:'Bu süzgəcdə söz yoxdur.',
  rvAll:'Hamısı',rvTodo:'Baxılmayıb',rvOkF:'Düzgün',rvEditF:'Düzəldildi',rvDelF:'Çıxarılacaq',rvOkBtn:'✓ Düzgün',rvSaveBtn:'✓ Yadda saxla',rvDelBtn:'🗑 Çıxar',rvUndel:'↺ Geri qaytar',
@@ -90,7 +90,7 @@ az:{sub:'Koreya dili söz meşəsi · A1–B2 · TOPIK Ⅰ·Ⅱ',a2hsT:'📲 Əs
  fam:{petal:'Könül Çiçəyi',mushroom:'Könül Göbələyi',succulent:'Könül Sukulenti',clover:'Könül Yarpağı',berry:'Könül Meyvəsi',tree:'Könül Ağacı'},
  route:{sunflower:'Qızıl Günəbaxan',rose:'Kraliça Qızılgül',hibiscus:'Cəsur Hibiskus',matsutake:'Kral Matsutake',horn:'Zərif Buynuzlu Göbələk',reishi:'Parlaq Reyşi',undulata:'Nəhəng Undulata',euphorbia:'Nazlı Südləyən',cactus:'Əzmkar Kaktus',lucky:'Bəxtəvər Dördyarpaq Yonca',silver:'Ay İşığı Yoncası',crimson:'Mehriban Qırmızı Yonca',strawberry:'Şirin Nəhəng Çiyələk',blueberry:'Ulduzlu Qaragilə',raspberry:'Canlı Moruq',oak:'Möhkəm Palıd',willow:'Küləkli Söyüd',ginkgo:'Qızıl Ginkqo'},
  way:'Yol'},
-ko:{sub:'한국어 단어의 숲 · A1–B2 · TOPIK Ⅰ·Ⅱ',a2hsT:'📲 홈 화면에 추가하기 (앱처럼 쓰기)',installBtn:'홈 화면에 추가',
+ko:{sub:'한국어 단어의 숲 · A1–B2 · TOPIK Ⅰ·Ⅱ',a2hsT:'📲 홈 화면에 추가하기 (앱처럼 쓰기)',igSub:'문의 및 협업',installBtn:'홈 화면에 추가',
  and1:'이 페이지를 Chrome에서 열어요.',and2:'오른쪽 위 ⋮ 메뉴를 눌러요.',and3:'“홈 화면에 추가” 또는 “앱 설치”를 골라요.',
  ios1:'이 페이지를 Safari에서 열어요.',ios2:'아래쪽 공유 버튼(□↑)을 눌러요.',ios3:'“홈 화면에 추가”를 고르고 “추가”를 눌러요.',feedback:'💬 덩어리숲은 앞으로도 꾸준히 업데이트돼요. 공부하면서 어려운 점이나 필요한 게 있으면 언제든 건의해 주세요!',rvH:'단어 검수 (편집자)',rvOpen:'검수 모드 열기',rvTitle:'단어 검수',rvSend:'보내기',rvMean:'아제르바이잔어 뜻',rvPairs:'짝꿍어휘 (한국어 = 아제르바이잔어)',rvAdd:'+ 짝꿍어휘 추가',rvNote:'메모 (선택)',rvNotePh:'예: 이 단어는 오래된 말, … 가 더 자연스러움',rvEmpty:'이 필터에 해당하는 단어가 없어요.',
  rvAll:'전체',rvTodo:'안 본 것',rvOkF:'맞음',rvEditF:'고침',rvDelF:'뺄 것',rvOkBtn:'✓ 맞아요',rvSaveBtn:'✓ 저장',rvDelBtn:'🗑 빼기',rvUndel:'↺ 되돌리기',
@@ -518,7 +518,7 @@ $('bReset').onclick=()=>{if(!resetArm){resetArm=true;$('bReset').textContent=t('
 function chromeURL(u){return /Android/i.test(navigator.userAgent)?'intent://'+u.replace(/^https?:\/\//,'')+'#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url='+encodeURIComponent(u)+';end':u}
 function renderLinks(){
  const h=[];
- if(INSTA)h.push(`<a class="lk ig" href="${esc(chromeURL('https://www.instagram.com/'+encodeURIComponent(INSTA)+'/'))}" target="_blank" rel="noopener"><span class="ic"><svg><use href="#i-ig"/></svg></span><span class="tx"><b>Instagram</b><small>@${esc(INSTA)}</small></span></a>`);
+ if(INSTA)h.push(`<a class="lk ig" href="${esc(chromeURL('https://www.instagram.com/'+encodeURIComponent(INSTA)+'/'))}" target="_blank" rel="noopener"><span class="ic"><svg><use href="#i-ig"/></svg></span><span class="tx"><b>Instagram · ${t('igSub')}</b><small>@${esc(INSTA)}</small></span></a>`);
  if(KAKAO_OPEN)h.push(`<a class="lk kk" href="${esc(KAKAO_OPEN)}" target="_blank" rel="noopener"><span class="ic"><svg><use href="#i-kk"/></svg></span><span class="tx"><b>KakaoTalk</b><small>${esc(t('kakaoOpen'))}</small></span></a>`);
  else if(KAKAO)h.push(`<button class="lk kk" data-copy="${esc(KAKAO)}"><span class="ic"><svg><use href="#i-kk"/></svg></span><span class="tx"><b>KakaoTalk</b><small>ID · ${esc(KAKAO)}</small></span></button>`);
  if(CONTACT)h.push(`<a class="lk ml" href="${esc(chromeURL('https://mail.google.com/mail/?view=cm&fs=1&to='+encodeURIComponent(CONTACT)+'&su='+encodeURIComponent('덩어리숲')))}" target="_blank" rel="noopener"><span class="ic"><svg><use href="#i-mail"/></svg></span><span class="tx"><b>E-mail</b><small>${esc(CONTACT)}</small></span></a>`);
