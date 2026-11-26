@@ -938,7 +938,7 @@ document.addEventListener('keydown',e=>{if($('guide').hidden)return;if(e.key==='
 $('bGuide').onclick=()=>{$('mSet').hidden=true;openGuide(()=>{})};
 
 let introDone=false;
-function closeIntro(){if(introDone)return;introDone=true;$('intro').classList.add('out');BGM.start();setTimeout(()=>{$('intro').remove();if(location.hash==='#kontrol')openReview();else if(S.guideSeen)$('mWel').hidden=false;else openGuide(()=>{$('mWel').hidden=false})},550)}
+function closeIntro(){if(introDone)return;introDone=true;$('intro').classList.add('out');BGM.start();setTimeout(()=>{$('intro').remove();if(location.hash==='#kontrol')openReview();else openGuide(()=>{$('mWel').hidden=false})},550)}
 $('intro').addEventListener('click',closeIntro);
 document.addEventListener('keydown',e=>{if(!introDone){e.preventDefault();closeIntro()}},{capture:true});
 $('intro').focus();
