@@ -16,7 +16,7 @@ setTimeout(function(){d.style.visibility=''},2500)})();</script>
 <meta property="og:description" content="Koreyaca sözə bax, mənasını seç. Söz birləşmələri, kartlar və bitki dostunu böyüt!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://jindam1799.github.io/koreya_dili_TOPIK/">
-<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=24">
+<meta property="og:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=25">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="덩어리숲 · Koreya Dili Söz Meşəsi">
@@ -25,7 +25,7 @@ setTimeout(function(){d.style.visibility=''},2500)})();</script>
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="덩어리숲 · Koreya Dili Söz Meşəsi">
 <meta name="twitter:description" content="Koreyaca sözə bax, mənasını seç. A1–B2, TOPIK, Hanca, söz birləşmələri və bitki dostun!">
-<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=24">
+<meta name="twitter:image" content="https://jindam1799.github.io/koreya_dili_TOPIK/og-image.png?v=25">
 <meta name="theme-color" content="#315e48">
 <meta name="author" content="Wonju (원주)">
 <link rel="manifest" href="manifest.webmanifest">
@@ -79,7 +79,7 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
 .guide{position:fixed;inset:0;z-index:45;overflow:hidden;background:#f8dfc0;cursor:pointer;user-select:none;-webkit-user-select:none;opacity:0;transition:opacity .35s;font-family:Nunito,"Noto Sans KR",system-ui,sans-serif}
 .guide.in{opacity:1}.guide[hidden]{display:none}
 .gscene{position:absolute;inset:0}.gscene svg{width:100%;height:100%;display:block}.gscene .bal{animation:float 7s ease-in-out infinite}
-.gtop{position:absolute;top:calc(14px + env(safe-area-inset-top));left:14px;right:14px;display:flex;justify-content:space-between;align-items:center;z-index:5}
+.gdtop{position:absolute;top:calc(14px + env(safe-area-inset-top));left:14px;right:14px;display:flex;justify-content:space-between;align-items:center;z-index:5}
 .greplay{display:flex;align-items:center;gap:10px;width:100%;margin:2px 0 6px;padding:11px 14px;border:2px solid #2f6b4f;border-radius:16px;background:#eaf4ec;color:#2f6b4f;font:800 15px Nunito,"Noto Sans KR",sans-serif;cursor:pointer;text-align:left}.greplay:active{transform:scale(.98)}.gplay{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:#2f6b4f;color:#fff;font-size:12px;padding-left:2px}
 .gbtns{display:flex;gap:6px;align-items:center}.glang{display:flex;background:rgba(255,248,236,.92);border-radius:99px;padding:3px;box-shadow:0 1px 0 #fff}.glang button{border:0;background:none;border-radius:99px;padding:5px 11px;font:800 13px Nunito,"Noto Sans KR",sans-serif;color:#5a3d2b;cursor:pointer}.glang button.on{background:#2f6b4f;color:#fff}.gmute{padding:7px 10px}.gmute[hidden]{display:none}
 .gdots{display:flex;gap:6px}.gdots i{width:8px;height:8px;border-radius:9px;background:rgba(38,63,54,.25);transition:.3s}.gdots i.on{width:22px;background:#2f6b4f}
@@ -161,6 +161,11 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
 .gtop{display:flex;align-items:center;gap:10px;flex:none}
 .gtop .count{font-weight:800;font-size:15px}.gtop .xp{margin-left:auto;color:var(--orange);font-weight:800;font-size:14px}
 .lines{flex:none;display:grid;gap:5px}
+#game .gtop{gap:10px}#game .gtop .icon{flex:none}
+#game .line.gp{flex:1;height:10px;border-radius:10px;background:#e6eadd}
+#game .gtop .count{flex:none;font-size:14px;color:var(--muted);font-variant-numeric:tabular-nums;min-width:38px;text-align:center}
+#game .gtop .xp{flex:none;margin-left:0;background:#fbe9df;border-radius:99px;padding:5px 11px;font-size:13px;white-space:nowrap}
+#game .lines{padding:0 2px}#game .trow{font-variant-numeric:tabular-nums}
 .line{height:6px;border-radius:6px;background:#e6eadd;overflow:hidden}.line i{display:block;height:100%;background:var(--green);transition:width .3s}
 .line.timer i{background:var(--orange);transition:none}.line.timer.urgent i{background:var(--red)}
 .trow{display:flex;justify-content:space-between;font-size:12px;color:var(--muted)}.trow .urgent{color:var(--red);font-weight:800}
@@ -430,9 +435,8 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
  </section>
 
  <section class="screen" id="game" hidden>
-  <div class="gtop"><button class="icon" id="bQuit" data-al="quit"><svg><use href="#i-x"/></svg></button><span class="count" id="gCount"></span><span class="xp" id="gXp"></span></div>
+  <div class="gtop"><button class="icon" id="bQuit" data-al="quit"><svg><use href="#i-x"/></svg></button><div class="line gp"><i id="gProg"></i></div><span class="count" id="gCount"></span><span class="xp" id="gXp"></span></div>
   <div class="lines">
-   <div class="line"><i id="gProg"></i></div>
    <div class="line timer" id="tLine"><i id="gTimer"></i></div>
    <div class="trow"><span id="gMode"></span><span id="gTime"></span></div>
   </div>
@@ -507,7 +511,7 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
 
  <div class="guide" id="guide" hidden>
   <div class="gscene" id="gdScene" aria-hidden="true"></div>
-  <div class="gtop"><div class="gdots" id="gdDots"></div><div class="gbtns"><div class="glang" id="gdLang"></div><button class="gchip gmute" id="gdMute" hidden></button><button class="gchip" id="gdSkip"></button></div></div>
+  <div class="gdtop"><div class="gdots" id="gdDots"></div><div class="gbtns"><div class="glang" id="gdLang"></div><button class="gchip gmute" id="gdMute" hidden></button><button class="gchip" id="gdSkip"></button></div></div>
   <div class="gstage" id="gdStage"></div>
   <div class="ggo" id="gdGo" hidden><button id="gdGoB"></button></div>
   <div class="gbub" id="gdBub"><span class="gname">덩이</span><span id="gdTxt"></span><span class="gnext" id="gdNext"></span></div>
@@ -582,16 +586,16 @@ button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid 
  </div></div>
 </div>
 
-<script src="config.js?v=24"></script>
-<script src="char.js?v=24"></script>
-<script src="data/a12.js?v=24"></script>
-<script src="data/b11.js?v=24"></script>
-<script src="data/b12.js?v=24"></script>
-<script src="data/b21.js?v=24"></script>
-<script src="data/b22.js?v=24"></script>
-<script src="data/topik1.js?v=24"></script>
-<script src="data/topik2.js?v=24"></script>
-<script src="data/hanja.js?v=24"></script>
-<script src="app.js?v=24"></script>
+<script src="config.js?v=25"></script>
+<script src="char.js?v=25"></script>
+<script src="data/a12.js?v=25"></script>
+<script src="data/b11.js?v=25"></script>
+<script src="data/b12.js?v=25"></script>
+<script src="data/b21.js?v=25"></script>
+<script src="data/b22.js?v=25"></script>
+<script src="data/topik1.js?v=25"></script>
+<script src="data/topik2.js?v=25"></script>
+<script src="data/hanja.js?v=25"></script>
+<script src="app.js?v=25"></script>
 </body>
 </html>
