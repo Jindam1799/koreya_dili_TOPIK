@@ -403,4 +403,15 @@
 妻 (처)|arvad, həyat yoldaşı (아내)|처자=arvad-uşaq;처남=qayın (arvadın qardaşı);처제=baldız;조강지처=çətin günlərin həyat yoldaşı
 熱 (열)|isti / hərarət / ehtiras (뜨겁다)|열정=ehtiras;열기=hərarət;발열=qızdırma;과열=həddindən çox qızma;열대=tropik zona
 哭 (곡)|ağlamaq, ağı demək (울다)|통곡=hönkürtü;곡성=ağlama səsi;애곡=acı-acı ağlama;호곡=ucadan ağlama;조곡=yas ağısı
+#14 · 王–空
+王 (왕)|kral (임금)|왕자=şahzadə;여왕=kraliça;왕국=krallıq
+正 (정)|düz, doğru (바를)|정답=düzgün cavab;정직=dürüstlük;정확=dəqiqlik
+平 (평)|düz, sülh (평평할)|평일=həftə içi;평화=sülh;평가=qiymətləndirmə
+和 (화)|ahəng, sülh (화할)|평화=sülh;조화=ahəng;화해=barışıq
+光 (광)|işıq (빛)|관광=turizm;광고=reklam;월광=ay işığı
+半 (반)|yarım (반)|반값=yarı qiymət;반년=yarım il;절반=yarısı
+百 (백)|yüz (일백)|백화점=univermaq;백과사전=ensiklopediya;백 년=yüz il
+千 (천)|min (일천)|천 원=min von;천만=on milyon;천년=min il
+萬 (만)|on min (일만)|만 원=on min von;만일=əgər;만세=yaşasın
+空 (공)|boş, göy (빌)|공항=hava limanı;공기=hava;공간=məkan
 `});

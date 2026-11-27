@@ -133,4 +133,217 @@
 걱정이 앞서다|əvvəlcə narahatlıq gəlmək|새 일을 시작하니 걱정이 앞서다=yeni işə başlayanda əvvəlcə narahatlıq gəlir;기대보다 걱정이 앞서다=sevincdən çox narahatlıq hiss etmək
 부담스럽다|ağır gəlmək, yük olmaq|선물이 부담스럽다=hədiyyə ağır gəlir;기대가 부담스럽다=gözləntilər təzyiq edir
 마음이 따뜻해지다|ürəyi isinmək|이야기를 듣고 마음이 따뜻해지다=əhvalatı eşidib ürəyi isinir;따뜻한 위로=səmimi təsəlli
+#Əlavə 1 · Orta səviyyə sözlər
+출퇴근|işə gediş-gəliş|출퇴근 시간=işə gediş-gəliş vaxtı;지하철로 출퇴근하다=metro ilə işə gedib-gəlmək
+남다|qalmaq|음식이 남다=yemək artıq qalmaq;기억에 남다=yadda qalmaq
+매장|mağaza|매장에 들르다=mağazaya baş çəkmək;매장 직원=mağaza işçisi
+가볍다|yüngül olmaq|가방이 가볍다=çanta yüngüldür;가벼운 운동=yüngül idman
+쉽다|asan olmaq|문제가 쉽다=sual asandır;쉽게 생각하다=asan düşünmək
+심심하다|darıxmaq|혼자 있어서 심심하다=tək olduğu üçün darıxmaq;심심할 때=darıxanda
+좁다|dar olmaq|방이 좁다=otaq dardır;길이 좁다=yol dardır
+모이다|toplaşmaq|사람들이 모이다=insanlar toplaşmaq;돈이 모이다=pul yığılmaq
+유명|məşhur|유명한 가수=məşhur müğənni;유명해지다=məşhurlaşmaq
+조심|ehtiyat, diqqət|감기 조심하세요=soyuqdəymədən qorunun;조심해서 가세요=ehtiyatlı gedin
+거울|güzgü|거울을 보다=güzgüyə baxmaq;거울에 비치다=güzgüdə əks olunmaq
+먹이다|yedirmək|아이에게 밥을 먹이다=uşağa yemək yedirmək;약을 먹이다=dərman içirtmək
+잃다|itirmək|지갑을 잃다=pul kisəsini itirmək;희망을 잃다=ümidini itirmək
+결심|qərar, əzm|결심을 하다=qərara gəlmək;굳은 결심=qəti qərar
+슬프다|kədərli olmaq|마음이 슬프다=ürəyi kədərlidir;슬픈 영화=kədərli film
+긴장|gərginlik, həyəcan|긴장을 풀다=rahatlamaq;긴장이 되다=həyəcanlanmaq
+늦잠|gec oyanma|늦잠을 자다=gec oyanmaq;주말에 늦잠을 자다=həftəsonu gec qalxmaq
+열차|qatar|열차를 타다=qatara minmək;열차 시간표=qatarların cədvəli
+짜다|duzlu olmaq|국이 짜다=şorba duzludur;짠 음식=duzlu yemək
+부치다|göndərmək (poçtla)|편지를 부치다=məktub göndərmək;소포를 부치다=bağlama göndərmək
+웃기다|güldürmək|친구를 웃기다=dostunu güldürmək;웃기는 이야기=gülməli əhvalat
+물어보다|soruşmaq|길을 물어보다=yol soruşmaq;선생님께 물어보다=müəllimdən soruşmaq
+안내문|məlumat yazısı, elan|안내문을 읽다=elanı oxumaq;안내문을 붙이다=elan yapışdırmaq
+사귀다|dostlaşmaq, görüşmək (sevgili)|친구를 사귀다=dost qazanmaq;두 사람이 사귀다=ikisi görüşür
+가입|üzv olma, qoşulma|회원 가입=üzvlük qeydiyyatı;보험에 가입하다=sığorta etdirmək
+본문|əsas mətn|본문을 읽다=mətni oxumaq;본문 내용=mətnin məzmunu
+월급|aylıq maaş|월급을 받다=maaş almaq;월급이 오르다=maaşı artmaq
+짐|yük, əşya|짐을 싸다=əşyalarını yığmaq;짐이 무겁다=yük ağırdır
+복잡하다|qarışıq olmaq|길이 복잡하다=yollar qarışıqdır;복잡한 문제=mürəkkəb məsələ
+치다|vurmaq, çalmaq|피아노를 치다=piano çalmaq;공을 치다=topa vurmaq
+그다지|o qədər də (inkarla)|그다지 어렵지 않다=o qədər də çətin deyil;그다지 좋아하지 않다=o qədər də xoşlamamaq
+통통하다|dolubədən, ətli olmaq|볼이 통통하다=yanaqları ətlidir;통통한 아기=dolu körpə
+닮다|oxşamaq|엄마를 닮다=anasına oxşamaq;많이 닮다=çox oxşamaq
+버릇|vərdiş, xasiyyət|나쁜 버릇=pis vərdiş;버릇을 고치다=vərdişi düzəltmək|vərdiş, xasiyyət (xüsusən daim təkrarlanan davranış)
+습관|vərdiş, adət|좋은 습관=yaxşı vərdiş;습관이 되다=vərdişə çevrilmək
+제품|məhsul|신제품=yeni məhsul;제품을 판매하다=məhsul satmaq
+국적|vətəndaşlıq|국적이 다르다=vətəndaşlıqları fərqlidir;한국 국적=Koreya vətəndaşlığı
+늘리다|artırmaq, genişləndirmək|시간을 늘리다=vaxtı uzatmaq;인원을 늘리다=adam sayını artırmaq|artırmaq, çoxaltmaq, genişləndirmək, uzatmaq
+썩다|çürümək|과일이 썩다=meyvə çürümək;이가 썩다=diş çürümək
+외우다|əzbərləmək|단어를 외우다=söz əzbərləmək;전화번호를 외우다=telefon nömrəsini əzbərləmək
+거짓말|yalan|거짓말을 하다=yalan danışmaq;거짓말쟁이=yalançı
+결석하다|dərsə gəlməmək|수업에 결석하다=dərsə gəlməmək;아파서 결석하다=xəstə olduğu üçün dərsə gəlməmək
+합격하다|imtahandan keçmək, qəbul olmaq|시험에 합격하다=imtahandan keçmək;대학에 합격하다=universitetə qəbul olmaq
+다니다|getmək (müntəzəm)|학교에 다니다=məktəbə getmək;회사에 다니다=şirkətdə işləmək
+이후|sonra|졸업 이후=məzun olandan sonra;그 이후로=o vaxtdan bəri
+불편하다|narahat, əlverişsiz olmaq|교통이 불편하다=nəqliyyat əlverişsizdir;몸이 불편하다=özünü pis hiss etmək
+참고하다|istinad etmək, nəzərə almaq|자료를 참고하다=materiallara istinad etmək;의견을 참고하다=fikri nəzərə almaq|mənbə kimi istinad etmək
+서로|bir-biri|서로 돕다=bir-birinə kömək etmək;서로 다르다=bir-birindən fərqlənmək
+어깨|çiyin|어깨가 아프다=çiyni ağrımaq;어깨를 펴다=çiyinlərini düzəltmək
+우정|dostluq|우정을 나누다=dostluğu bölüşmək;변함없는 우정=dəyişməz dostluq
+어리다|kiçik yaşlı olmaq|나이가 어리다=yaşı kiçikdir;어린 아이=balaca uşaq
+불다|əsmək / üfürmək|바람이 불다=külək əsmək;풍선을 불다=şar şişirtmək
+빼다|çıxarmaq|살을 빼다=arıqlamaq;이름을 빼다=adını çıxarmaq
+#Əlavə 2 · Orta səviyyə sözlər
+식다|soyumaq|국이 식다=şorba soyumaq;열정이 식다=həvəsi sönmək
+저절로|öz-özünə|문이 저절로 열리다=qapı öz-özünə açılmaq;저절로 웃음이 나다=istər-istəməz gülmək
+식습관|qidalanma vərdişi|식습관을 바꾸다=qidalanma vərdişini dəyişmək;좋은 식습관=sağlam qidalanma vərdişi
+아까|bayaq|아까 말했다=bayaq dedim;아까부터=bayaqdan bəri
+추가하다|əlavə etmək|메뉴를 추가하다=menyuya əlavə etmək;내용을 추가하다=məzmun əlavə etmək
+희다|ağ olmaq|피부가 희다=dərisi ağdır;흰 눈=ağ qar
+버리다|atmaq|쓰레기를 버리다=zibil atmaq;나쁜 습관을 버리다=pis vərdişdən əl çəkmək
+걸다|asmaq / zəng etmək|벽에 그림을 걸다=divara şəkil asmaq;전화를 걸다=zəng etmək
+경제|iqtisadiyyat|경제가 어렵다=iqtisadiyyat çətin vəziyyətdədir;경제 성장=iqtisadi artım
+변함없이|dəyişmədən|변함없이 사랑하다=dəyişmədən sevmək;변함없이 건강하다=həmişəki kimi sağlam olmaq
+고백하다|etiraf etmək|사랑을 고백하다=sevgisini etiraf etmək;잘못을 고백하다=səhvini etiraf etmək
+일상|gündəlik həyat|일상생활=gündəlik həyat;일상으로 돌아가다=adi həyata qayıtmaq
+늘|həmişə|늘 웃다=həmişə gülümsəmək;늘 바쁘다=həmişə məşğul olmaq
+전자|elektron|전자 제품=elektron məhsul;전자 사전=elektron lüğət
+중간|orta, ara|중간 시험=aralıq imtahan;중간에 쉬다=arada dincəlmək
+불친절하다|qaba, nəzakətsiz olmaq|직원이 불친절하다=işçi nəzakətsizdir;불친절한 서비스=qaba xidmət
+수리|təmir|수리를 맡기다=təmirə vermək;수리 비용=təmir xərci
+찾아보다|axtarıb baxmaq|사전을 찾아보다=lüğətə baxmaq;인터넷에서 찾아보다=internetdə axtarmaq
+긍정적|müsbət|긍정적인 생각=müsbət fikir;긍정적으로 보다=müsbət baxmaq
+모양|forma|모양이 예쁘다=forması gözəldir;하트 모양=ürək formalı
+예상|proqnoz, gözlənti|예상이 맞다=proqnoz düz çıxmaq;예상 밖의 결과=gözlənilməz nəticə
+깎다|kəsmək / endirim etdirmək|값을 깎다=qiyməti endirtmək;사과를 깎다=almanın qabığını soymaq
+입히다|geyindirmək / vurmaq (zərər)|아이에게 옷을 입히다=uşağı geyindirmək;피해를 입히다=ziyan vurmaq
+사이|ara, aralıq / münasibət|두 사람 사이=iki adamın arası;사이가 좋다=araları yaxşıdır|= 틈
+올라가다|yuxarı qalxmaq|산에 올라가다=dağa qalxmaq;계단을 올라가다=pilləkənlə qalxmaq
+다녀오다|gedib-gəlmək|학교에 다녀오다=məktəbə gedib-gəlmək;다녀오겠습니다=gedib gəlirəm
+한가하다|boş olmaq (vaxt)|오늘은 한가하다=bu gün boşam;한가한 시간=boş vaxt
+추천|tövsiyə|추천을 받다=tövsiyə almaq;추천 메뉴=tövsiyə olunan menyu
+전부|hamısı|전부 먹다=hamısını yemək;전부 다=tamamilə hamısı
+기쁨|sevinc|기쁨을 나누다=sevinci bölüşmək;큰 기쁨=böyük sevinc
+맞벌이|hər ikisi işləyən ailə|맞벌이 부부=hər ikisi işləyən ər-arvad;맞벌이를 하다=ikisi də işləmək
+수집|toplama, kolleksiya|우표 수집=marka kolleksiyası;정보 수집=məlumat toplama
+엊그제|bir neçə gün əvvəl|엊그제 만났다=bir neçə gün əvvəl görüşdük;엊그제 같다=dünən kimi olmaq
+조사|araşdırma, sorğu|설문 조사=anket sorğusu;조사를 하다=araşdırma aparmaq
+어색하다|yöndəmsiz, qəribə olmaq|분위기가 어색하다=ab-hava yöndəmsizdir;어색한 사이=soyuq münasibət
+훌륭하다|əla, gözəl olmaq|훌륭한 사람=gözəl insan;실력이 훌륭하다=bacarığı əladır
+끓이다|qaynatmaq|물을 끓이다=su qaynatmaq;라면을 끓이다=ramen bişirmək
+담그다|turşu qoymaq / suya salmaq|김치를 담그다=kimçi hazırlamaq;물에 발을 담그다=ayaqlarını suya salmaq
+마치다|bitirmək|수업을 마치다=dərsi bitirmək;일을 마치다=işi bitirmək
+알리다|xəbər vermək|소식을 알리다=xəbər vermək;이름을 알리다=adını tanıtmaq
+부탁|xahiş|부탁을 하다=xahiş etmək;부탁을 들어주다=xahişi yerinə yetirmək
+낫다|sağalmaq / daha yaxşı olmaq|감기가 낫다=soyuqdəymə keçmək;이게 더 낫다=bu daha yaxşıdır
+변하다|dəyişmək|날씨가 변하다=hava dəyişmək;마음이 변하다=fikri dəyişmək
+바뀌다|dəyişmək, dəyişdirilmək|계획이 바뀌다=plan dəyişmək;신호가 바뀌다=işıq dəyişmək|dəyişmək, dəyişdirilmək, başqası ilə əvəz olunmaq
+규칙적|müntəzəm|규칙적인 생활=nizamlı həyat;규칙적으로 운동하다=müntəzəm idman etmək
+더위|isti, bürkü|더위를 먹다=isti vurmaq;더위를 피하다=istidən qaçmaq
+사원|işçi|신입 사원=yeni işçi;회사 사원=şirkət işçisi
+수준|səviyyə|수준이 높다=səviyyəsi yüksəkdir;생활 수준=həyat səviyyəsi
+실망|məyusluq|실망을 하다=məyus olmaq;실망을 주다=məyus etmək
+왕복|gediş-dönüş|왕복 표=gediş-dönüş bileti;왕복 두 시간=gediş-dönüş iki saat
+존경|hörmət|존경을 받다=hörmət qazanmaq;존경하는 사람=hörmət etdiyi adam
+깨다|sındırmaq / oyanmaq|컵을 깨다=fincanı sındırmaq;잠에서 깨다=yuxudan oyanmaq
+#Əlavə 3 · Orta səviyyə sözlər
+두다|qoymaq|책상 위에 두다=masanın üstünə qoymaq;그대로 두다=olduğu kimi saxlamaq|qoymaq, saxlamaq, yerləşdirmək
+놓다|qoymaq|가방을 놓다=çantanı qoymaq;마음을 놓다=arxayın olmaq
+말리다|qurutmaq|빨래를 말리다=paltar qurutmaq;머리를 말리다=saç qurutmaq
+묶다|bağlamaq|머리를 묶다=saçını bağlamaq;끈으로 묶다=iplə bağlamaq
+매다|bağlamaq (qalstuk, bağ)|넥타이를 매다=qalstuk bağlamaq;신발 끈을 매다=ayaqqabı bağını bağlamaq|qalstuk, ayaqqabı bağı və s. bağlamaq
+수출|ixrac|수출이 늘다=ixrac artmaq;수출 기업=ixracatçı şirkət
+웃어른|böyük, yaşca böyük adam|웃어른을 공경하다=böyüklərə hörmət etmək;웃어른께 인사하다=böyükləri salamlamaq
+적응|uyğunlaşma|적응이 빠르다=tez uyğunlaşmaq;새 환경에 적응하다=yeni mühitə öyrəşmək
+포함|daxil olma|세금 포함=vergi daxil;포함되다=daxil olmaq
+따로|ayrıca|따로 살다=ayrı yaşamaq;따로 계산하다=ayrı-ayrı ödəmək
+글쓰기|yazı yazma|글쓰기 연습=yazı məşqi;글쓰기 대회=inşa müsabiqəsi
+연주|ifa (musiqi)|피아노 연주=piano ifası;연주를 하다=çalmaq
+국민|xalq, vətəndaşlar|국민의 권리=vətəndaş hüquqları;국민 가수=xalq müğənnisi
+대표|nümayəndə|학생 대표=tələbə nümayəndəsi;대표 음식=ən tanınmış yemək
+손잡이|dəstək, qulp|문 손잡이=qapı dəstəyi;손잡이를 잡다=tutacaqdan tutmaq
+신입|yeni gələn|신입 사원=yeni işçi;신입생=birinci kurs tələbəsi
+철|dəmir|철로 만들다=dəmirdən düzəltmək;철이 들다=ağıllanmaq
+촬영|çəkiliş|영화 촬영=film çəkilişi;촬영 금지=çəkiliş qadağandır
+당황하다|çaşmaq|질문에 당황하다=sualdan çaşmaq;당황한 표정=çaşqın ifadə
+유창하다|səlis olmaq|한국어가 유창하다=koreyacası səlisdir;유창하게 말하다=səlis danışmaq
+우선|əvvəlcə|우선 쉬다=əvvəlcə dincəlmək;우선순위=prioritet|= 먼저
+거절|rədd etmə|거절을 당하다=rədd cavabı almaq;부탁을 거절하다=xahişi rədd etmək
+연말|ilin sonu|연말 파티=ilsonu məclisi;연말이 다가오다=ilin sonu yaxınlaşmaq
+전날|bir gün əvvəl|시험 전날=imtahandan bir gün əvvəl;전날 밤=əvvəlki gecə
+따라가다|ardınca getmək|친구를 따라가다=dostunun ardınca getmək;수업을 따라가다=dərsə çatmaq
+감정|hiss, duyğu|감정을 표현하다=hisslərini ifadə etmək;감정이 풍부하다=hissiyyatlı olmaq
+판매|satış|판매가 늘다=satışlar artmaq;온라인 판매=onlayn satış
+환불|pulun qaytarılması|환불을 받다=pulu geri almaq;환불이 안 되다=pul geri qaytarılmır
+끊다|kəsmək, atmaq (vərdiş)|담배를 끊다=siqareti atmaq;전화를 끊다=telefonu qapatmaq
+관람|tamaşa etmə|영화 관람=filmə baxma;관람 시간=ziyarət saatları
+궁금하다|maraqlanmaq|결과가 궁금하다=nəticə maraqlıdır;궁금한 점=maraqlandığı məqam
+세우다|dikəltmək, qurmaq / saxlamaq|계획을 세우다=plan qurmaq;차를 세우다=maşını saxlamaq|dikəltmək, ayaqda saxlamaq; qurmaq, yaratmaq
+차례|növbə, sıra|차례를 기다리다=növbəsini gözləmək;제 차례예요=növbə məndədir
+구입|alış|표 구입=bilet alışı;온라인 구입=onlayn alış
+이제|indi, artıq|이제 시작이다=indi başlayır;이제 그만=artıq bəsdir
+틀림없이|mütləq|틀림없이 온다=mütləq gələcək;틀림없이 성공하다=şübhəsiz uğur qazanmaq
+찬성|razılıq, tərəfdarlıq|찬성하다=tərəfdar çıxmaq;찬성 의견=müsbət rəy
+넘어지다|yıxılmaq|길에서 넘어지다=yolda yıxılmaq;넘어져서 다치다=yıxılıb zədələnmək
+따로따로|ayrı-ayrı|따로따로 포장하다=ayrı-ayrı qablaşdırmaq;따로따로 앉다=ayrı-ayrı oturmaq
+제각기|hər biri özünəməxsus|제각기 다르다=hər biri fərqlidir;제각기 의견을 말하다=hər biri öz fikrini demək|hər biri özünə görə, hər biri fərqli
+화해|barışıq|친구와 화해하다=dostu ilə barışmaq;화해를 청하다=barışığa çağırmaq
+값싸다|ucuz olmaq|값싼 물건=ucuz şey;값싸고 좋다=həm ucuz, həm yaxşı
+절약|qənaət|전기 절약=elektrik qənaəti;시간을 절약하다=vaxta qənaət etmək
+해결|həll|문제 해결=problemin həlli;해결 방법=həll yolu
+마침|elə o an|마침 잘 왔다=düz vaxtında gəldin;마침 그때=elə o vaxt
+초대|dəvət|초대를 받다=dəvət almaq;초대장=dəvətnamə
+퇴원|xəstəxanadan çıxma|병원에서 퇴원하다=xəstəxanadan çıxmaq;퇴원 날짜=xəstəxanadan çıxma tarixi
+당연하다|təbii olmaq, əlbəttə|당연한 일=təbii bir şey;당연히 그렇다=əlbəttə, elədir
+들르다|baş çəkmək|편의점에 들르다=marketə baş çəkmək;잠깐 들르다=bir anlıq baş çəkmək
+세다|saymaq|돈을 세다=pul saymaq;숫자를 세다=rəqəmləri saymaq
+감정적|emosional|감정적으로 대하다=emosional davranmaq;감정적인 반응=emosional reaksiya
+무관심|laqeydlik|정치에 무관심하다=siyasətə laqeyd olmaq;무관심한 태도=laqeyd münasibət
+#Əlavə 4 · Orta səviyyə sözlər
+정치|siyasət|정치에 관심이 있다=siyasətlə maraqlanmaq;정치인=siyasətçi
+추측|təxmin|추측이 맞다=təxmin düz çıxmaq;추측하다=təxmin etmək
+항공|aviasiya|항공권=aviabilet;항공사=aviaşirkət
+위험하다|təhlükəli olmaq|밤길이 위험하다=gecə yolu təhlükəlidir;위험한 일=təhlükəli iş
+돌아보다|geri baxmaq|뒤를 돌아보다=arxaya baxmaq;지난날을 돌아보다=keçmişə nəzər salmaq
+기계|maşın, mexanizm|기계를 고치다=maşını təmir etmək;기계가 고장 나다=maşın xarab olmaq
+야근|gecə işi, əlavə iş|야근을 하다=gecə işləmək;야근 수당=əlavə iş haqqı
+평균|orta|평균 점수=orta bal;평균보다 높다=ortadan yüksəkdir
+향기|ətir|꽃 향기=gül ətri;향기가 나다=xoş ətir gəlmək
+환영|qarşılama|환영을 받다=səmimi qarşılanmaq;환영 파티=qarşılama məclisi
+똑똑하다|ağıllı olmaq|똑똑한 학생=ağıllı şagird;아주 똑똑하다=çox ağıllıdır
+내다|vermək, ödəmək|돈을 내다=pul ödəmək;숙제를 내다=tapşırığı təhvil vermək
+줍다|yerdən götürmək|쓰레기를 줍다=zibil yığmaq;지갑을 줍다=pul kisəsi tapmaq (yerdən)
+팔리다|satılmaq|잘 팔리다=yaxşı satılmaq;다 팔리다=hamısı satılmaq
+과식|həddindən artıq yemə|과식을 하다=çox yemək;과식하지 마세요=çox yeməyin
+동의|razılıq|동의를 구하다=razılıq istəmək;동의하다=razılaşmaq
+빼앗다|zorla almaq|돈을 빼앗다=pulunu zorla almaq;마음을 빼앗다=ürəyini oğurlamaq
+씹다|çeynəmək|껌을 씹다=saqqız çeynəmək;잘 씹어 먹다=yaxşıca çeynəyib yemək
+접다|qatlamaq|종이를 접다=kağız qatlamaq;우산을 접다=çətiri yığmaq
+흔들다|yelləmək|손을 흔들다=əl yelləmək;고개를 흔들다=başını yelləmək
+칭찬|tərif|칭찬을 받다=tərif almaq;칭찬하다=tərifləmək
+두통|baş ağrısı|두통이 있다=başı ağrıyır;두통약=baş ağrısı dərmanı
+반복|təkrar|반복 연습=təkrar məşq;반복하다=təkrarlamaq
+집들이|yeni ev məclisi|집들이를 하다=yeni ev məclisi vermək;집들이 선물=yeni ev hədiyyəsi
+구분하다|ayırd etmək|색깔로 구분하다=rənginə görə ayırmaq;잘 구분하다=yaxşı ayırd etmək|ayırd etmək, bir-birindən ayırmaq, təsnif etmək
+벌다|qazanmaq (pul)|돈을 벌다=pul qazanmaq;시간을 벌다=vaxt qazanmaq
+신나다|coşmaq, kefi kök olmaq|신나는 음악=şən musiqi;아이들이 신나다=uşaqların kefi kök olmaq
+지키다|qorumaq, əməl etmək|약속을 지키다=sözünü tutmaq;규칙을 지키다=qaydalara əməl etmək
+이내|ərzində|일주일 이내=bir həftə ərzində;10분 이내=10 dəqiqə ərzində
+마중하다|qarşılamaq|공항에서 마중하다=hava limanında qarşılamaq;친구를 마중하다=dostunu qarşılamaq
+털|tük|고양이 털=pişik tükü;털이 빠지다=tük tökülmək
+연결|bağlantı|인터넷 연결=internet bağlantısı;연결이 끊기다=bağlantı kəsilmək
+서두르다|tələsmək|서둘러 가다=tələsik getmək;서두르지 마세요=tələsməyin
+불행|bədbəxtlik|불행한 사고=bədbəxt hadisə;불행 중 다행=pisin yaxşısı
+새벽|dan yeri, səhər tezdən|새벽에 일어나다=səhər tezdən qalxmaq;새벽 두 시=gecə saat iki
+정리|səliqəyə salma|방 정리=otağın yığışdırılması;정리를 하다=səliqəyə salmaq
+좌석|oturacaq, yer|좌석을 예약하다=yer sifariş etmək;창가 좌석=pəncərə kənarındakı yer
+얼굴빛|üzün rəngi|얼굴빛이 좋다=üzü gülür;얼굴빛이 변하다=rəngi dəyişmək
+금지|qadağa|주차 금지=dayanmaq qadağandır;금지되다=qadağan olunmaq
+불평|şikayət|불평을 하다=şikayət etmək;불평이 많다=çox şikayət etmək
+유지|qoruma, saxlama|건강 유지=sağlamlığın qorunması;유지하다=saxlamaq
+장단점|müsbət və mənfi cəhətlər|장단점을 비교하다=müsbət və mənfi cəhətləri müqayisə etmək;각각의 장단점=hər birinin müsbət və mənfi cəhəti
+배웅|yola salma|배웅을 하다=yola salmaq;공항까지 배웅하다=hava limanına qədər yola salmaq
+밤늦다|gecə gec olmaq|밤늦게 귀가하다=gecə gec evə qayıtmaq;밤늦도록 공부하다=gecə gec saatlara qədər oxumaq
+비다|boş olmaq|자리가 비다=yer boşdur;빈 방=boş otaq
+급히|tələsik|급히 나가다=tələsik çıxmaq;급히 먹다=tələsik yemək
+생각|fikir|좋은 생각=yaxşı fikir;생각이 나다=yadına düşmək
+취업|işə düzəlmə|취업 준비=işə düzəlməyə hazırlıq;취업에 성공하다=iş tapmaq
+줄이다|azaltmaq|소리를 줄이다=səsi azaltmaq;비용을 줄이다=xərci azaltmaq
+비서|katib|사장 비서=direktorun katibi;비서로 일하다=katib işləmək
+중심|mərkəz|도시 중심=şəhər mərkəzi;관심의 중심=diqqət mərkəzi
+곱다|incə, gözəl olmaq|피부가 곱다=dərisi zərifdir;고운 마음=gözəl ürək|incə, zərif, gözəl olmaq; yumşaq və hamar olmaq
 `});

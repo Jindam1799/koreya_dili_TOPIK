@@ -31,6 +31,29 @@
 유학생|xarici tələbə|외국인 유학생=əcnəbi tələbə;유학생 기숙사=xarici tələbələr yataqxanası
 쌍둥이|əkiz|쌍둥이 형제=əkiz qardaşlar;쌍둥이를 낳다=əkiz doğmaq
 천사|mələk|천사 같은 사람=mələk kimi insan;작은 천사=balaca mələk
+이름|ad|이름이 뭐예요?=Adın nədir?;이름을 쓰다=adını yazmaq
+나이|yaş|나이가 많다=yaşı çox olmaq;나이가 어떻게 되세요?=Neçə yaşınız var?
+남자|kişi, oğlan|남자 친구=oğlan dost (sevgili);남자 화장실=kişi tualeti
+여자|qadın, qız|여자 친구=qız dost (sevgili);여자 아이=qız uşaq
+학생|tələbə, şagird|대학생=universitet tələbəsi;학생 식당=tələbə yeməkxanası
+선생님|müəllim|한국어 선생님=Koreya dili müəllimi;선생님께 질문하다=müəllimə sual vermək
+#가족 (ailə)
+가족|ailə|가족 사진=ailə şəkli;가족이 몇 명이에요?=Ailən neçə nəfərdir?
+아버지|ata|아버지께 전화하다=ataya zəng etmək;아버지의 직업=atanın peşəsi
+어머니|ana|어머니가 요리하다=ananın yemək bişirməsi;어머니를 돕다=anaya kömək etmək
+부모님|valideynlər|부모님과 살다=valideynlərlə yaşamaq;부모님께 감사하다=valideynlərə təşəkkür etmək
+형|böyük qardaş (oğlan üçün)|형이 한 명 있다=bir böyük qardaşı var;친한 형=yaxın böyük qardaş
+오빠|böyük qardaş (qız üçün)|오빠가 있다=böyük qardaşı var;오빠와 놀다=böyük qardaşı ilə oynamaq
+누나|böyük bacı (oğlan üçün)|누나가 결혼하다=böyük bacının evlənməsi;누나에게 물어보다=böyük bacıdan soruşmaq
+언니|böyük bacı (qız üçün)|언니 옷=böyük bacının paltarı;언니와 쇼핑하다=böyük bacı ilə alış-veriş etmək
+동생|kiçik qardaş/bacı|동생이 두 명 있다=iki kiçik qardaşı var;동생을 돌보다=kiçik qardaşına baxmaq
+할아버지|baba (ata tərəfi), dədə|할아버지 댁=babanın evi;할아버지가 되다=baba olmaq
+할머니|nənə|할머니가 만든 음식=nənənin bişirdiyi yemək;할머니를 뵙다=nənəni ziyarət etmək
+남편|ər|남편과 결혼하다=əri ilə evlənmək;남편의 생일=ərin ad günü
+아내|arvad, həyat yoldaşı|아내를 사랑하다=həyat yoldaşını sevmək;아내와 여행하다=həyat yoldaşı ilə səyahət etmək
+아들|oğul|아들이 태어나다=oğlunun doğulması;큰아들=böyük oğul
+딸|qız övlad|딸이 하나 있다=bir qızı var;막내딸=ən kiçik qız
+친구|dost|친구를 만나다=dostla görüşmək;친한 친구=yaxın dost
 #학교와 공부 (məktəb və dərs)
 공책|dəftər|공책에 쓰다=dəftərə yazmaq;공책을 펴다=dəftəri açmaq
 한자어|Çin mənşəli söz|한자어 숫자=Çin mənşəli rəqəmlər;한자어를 배우다=Çin mənşəli sözləri öyrənmək
@@ -435,6 +458,12 @@
 초콜릿|şokolad|초콜릿을 먹다=şokolad yemək;초콜릿 케이크=şokoladlı tort
 비타민|vitamin|비타민을 먹다=vitamin qəbul etmək;비타민 C=C vitamini
 다이어트|pəhriz|다이어트를 하다=pəhriz saxlamaq;다이어트에 성공하다=pəhrizdə uğur qazanmaq
+밥|düyü; yemək|밥을 짓다=düyü bişirmək;밥 먹었어요?=Yemək yedin?
+물|su|물 한 잔=bir stəkan su;물을 마시다=su içmək
+우유|süd|우유 한 잔=bir stəkan süd;우유를 사다=süd almaq
+커피|qəhvə|커피 한 잔=bir fincan qəhvə;커피를 타다=qəhvə hazırlamaq
+사과|alma|사과를 깎다=alma soymaq;빨간 사과=qırmızı alma
+빵|çörək|빵을 굽다=çörək bişirmək;빵 한 조각=bir dilim çörək
 #쇼핑과 물건 (alış-veriş və əşyalar)
 화장품|kosmetika|화장품 가게=kosmetika mağazası;화장품을 바르다=kosmetika sürtmək
 공|top|공을 던지다=top atmaq;공을 차다=topa zərbə vurmaq
@@ -898,6 +927,28 @@
 익숙해지다|öyrəşmək|생활에 익숙해지다=həyata öyrəşmək;음식에 익숙해지다=yeməklərə öyrəşmək
 좋아지다|yaxşılaşmaq|날씨가 좋아지다=hava yaxşılaşır;건강이 좋아지다=səhhəti yaxşılaşır
 달라지다|dəyişmək, fərqlənmək|생활이 달라지다=həyat dəyişir;많이 달라지다=çox dəyişmək
+가다|getmək|학교에 가다=məktəbə getmək;집에 가다=evə getmək
+오다|gəlmək|한국에 오다=Koreyaya gəlmək;비가 오다=yağış yağmaq
+먹다|yemək|밥을 먹다=yemək yemək;약을 먹다=dərman içmək
+마시다|içmək|물을 마시다=su içmək;커피를 마시다=qəhvə içmək
+보다|görmək, baxmaq|영화를 보다=film izləmək;시험을 보다=imtahan vermək
+자다|yatmaq|일찍 자다=tez yatmaq;잘 자요=gecən xeyrə
+일어나다|oyanmaq, qalxmaq|아침에 일어나다=səhər oyanmaq;늦게 일어나다=gec oyanmaq
+읽다|oxumaq|책을 읽다=kitab oxumaq;소리 내어 읽다=səsli oxumaq
+듣다|dinləmək, eşitmək|음악을 듣다=musiqi dinləmək;수업을 듣다=dərsə qulaq asmaq
+말하다|danışmaq, demək|한국어로 말하다=koreyaca danışmaq;천천히 말하다=yavaş danışmaq
+사다|almaq (satın)|옷을 사다=paltar almaq;선물을 사다=hədiyyə almaq
+만나다|görüşmək, tanış olmaq|친구를 만나다=dostla görüşmək;처음 만나다=ilk dəfə tanış olmaq
+공부하다|oxumaq, dərs öyrənmək|한국어를 공부하다=Koreya dilini öyrənmək;열심히 공부하다=çox çalışmaq
+일하다|işləmək|회사에서 일하다=şirkətdə işləmək;열심히 일하다=çox işləmək
+쉬다|dincəlmək|집에서 쉬다=evdə dincəlmək;잠깐 쉬다=bir az dincəlmək
+기다리다|gözləmək|친구를 기다리다=dostu gözləmək;버스를 기다리다=avtobus gözləmək
+배우다|öyrənmək|한국어를 배우다=Koreya dilini öyrənmək;요리를 배우다=yemək bişirməyi öyrənmək
+살다|yaşamaq|서울에 살다=Seulda yaşamaq;혼자 살다=tək yaşamaq
+주다|vermək|선물을 주다=hədiyyə vermək;물을 주다=su vermək
+받다|almaq (qəbul)|선물을 받다=hədiyyə almaq;전화를 받다=telefona cavab vermək
+만들다|düzəltmək, hazırlamaq|음식을 만들다=yemək hazırlamaq;친구를 만들다=dost qazanmaq
+좋아하다|sevmək, xoşlamaq|음악을 좋아하다=musiqini sevmək;제일 좋아하다=ən çox sevmək
 #자주 쓰는 형용사 (tez-tez işlənən sifətlər)
 크다|böyük olmaq|키가 크다=hündürboydur;집이 크다=ev böyükdür
 작다|kiçik olmaq|키가 작다=alçaqboydur;작은 가방=kiçik çanta
@@ -923,6 +974,18 @@
 비슷하다|oxşar olmaq|성격이 비슷하다=xasiyyətləri oxşardır;비슷한 색=oxşar rəng
 최고|ən yaxşı|최고의 선물=ən yaxşı hədiyyə;기분이 최고다=əhvalım əladır
 부족하다|çatışmamaq|시간이 부족하다=vaxt çatmır;잠이 부족하다=yuxusu çatmır
+좋다|yaxşı olmaq|날씨가 좋다=hava yaxşıdır;기분이 좋다=əhvalı yaxşı olmaq
+맛있다|dadlı olmaq|맛있는 음식=dadlı yemək;정말 맛있다=həqiqətən dadlıdır
+많다|çox olmaq|사람이 많다=adam çoxdur;숙제가 많다=ev tapşırığı çox olmaq
+비싸다|bahalı olmaq|값이 비싸다=qiyməti bahalıdır;너무 비싸다=çox bahalıdır
+싸다|ucuz olmaq|값이 싸다=qiyməti ucuzdur;싸게 사다=ucuz almaq
+예쁘다|gözəl olmaq|꽃이 예쁘다=gül gözəldir;예쁜 옷=gözəl paltar
+바쁘다|məşğul olmaq|일이 바쁘다=işi çox olmaq;요즘 바쁘다=bu yaxınlarda məşğuldur
+아프다|ağrımaq, xəstə olmaq|머리가 아프다=başı ağrımaq;많이 아프다=çox xəstə olmaq
+재미있다|maraqlı olmaq|영화가 재미있다=film maraqlıdır;재미있는 이야기=maraqlı hekayə
+쉽다|asan olmaq|문제가 쉽다=sual asandır;쉽게 배우다=asanlıqla öyrənmək
+어렵다|çətin olmaq|한국어가 어렵다=Koreya dili çətindir;어려운 단어=çətin söz
+피곤하다|yorğun olmaq|너무 피곤하다=çox yorğundur;피곤해 보이다=yorğun görünmək
 #부사와 표현 (zərflər və ifadələr)
 좀|bir az, zəhmət olmasa|좀 도와주세요=bir az kömək edin, zəhmət olmasa;좀 비싸다=bir az bahadır
 아주|çox|아주 좋다=çox yaxşıdır;아주 맛있다=çox dadlıdır
