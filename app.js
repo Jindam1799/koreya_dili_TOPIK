@@ -656,6 +656,7 @@ $('rvxShare').onclick=async()=>{const f=new File([JSON.stringify(rvPayload(),nul
 
 // ---------- güncelleme notları ----------
 const NOTES=[
+ ['2.1','2026-11-27',{az:["Açılış bələdçisinə Azərbaycan dilində səsli izah əlavə olundu; keçəndə növbəti səs dərhal başlayır, bitəndə avtomatik irəliləyir (🔊/🔇 ilə bağlana bilər)"],ko:['오프닝 안내에 아제르바이잔어 음성 내레이션 추가. 넘기면 다음 음성이 바로 나오고, 끝나면 자동으로 넘어가요']}],
  ['2.0','2026-11-27',{az:["Bitki dostuna verdiyin ad hər yerdə istifadə olunur (balon, bələdçi, hekayə); sürüşdürmə, böyütmə və kopyalama bağlandı; lobidə versiya məlumatı"],ko:['식물 친구 이름을 정하면 말풍선·오프닝 안내·이야기에서 그 이름으로 불러요. 화면 스크롤·확대·복사 방지, 로비 아래 버전 표시']}],
  ['1.9','2026-11-27',{az:["Bitki dostuna ad verəndə özünü tanıdır, toxunanda adını deyir; xoş gəldin başlığı tək sətir"],ko:['식물 친구에게 이름을 지어 주면 그 이름으로 자기소개를 하고, 누르면 이름을 말해요. 환영 인사 한 줄로']}],
  ['1.8','2026-11-27',{az:["Oxuyarkən fon musiqisi həmişə alçaq çalır, söz səsi dərhal və aydın çıxır; effekt səsləri oxunuşla toqquşmur"],ko:['공부 화면에서는 배경 음악을 계속 작게 틀고, 단어 음성은 크게 바로 나와요. 효과음이 음성과 부딪히지 않아요']}],
@@ -880,7 +881,8 @@ const SILENT=(()=>{const n=800,b=new ArrayBuffer(44+n),d=new DataView(b),w=(o,t)
  w(0,'RIFF');d.setUint32(4,36+n,true);w(8,'WAVE');w(12,'fmt ');d.setUint32(16,16,true);d.setUint16(20,1,true);d.setUint16(22,1,true);d.setUint32(24,8000,true);d.setUint32(28,8000,true);d.setUint16(32,1,true);d.setUint16(34,8,true);w(36,'data');d.setUint32(40,n,true);for(let k=0;k<n;k++)d.setUint8(44+k,128);
  return URL.createObjectURL(new Blob([b],{type:'audio/wav'}))})();
 document.addEventListener('pointerdown',()=>{if(gtUnlocked)return;gtUnlocked=true;
- try{GTA.src=SILENT;GTA.play().catch(()=>{})}catch(e){}},{capture:true});
+ try{GTA.src=SILENT;GTA.play().catch(()=>{})}catch(e){}
+ try{if(!GDA.src||GDA.src===location.href){GDA.src=SILENT;GDA.play().catch(()=>{})}}catch(e){}},{capture:true});
 // iOS ses motorunu önceden ısıt: ilk dokunuşta sessiz kısa okuma (ilk kelimede gecikme olmasın)
 let ttsWarm=false;function ttsWarmUp(){if(ttsWarm)return;ttsWarm=true;try{const u=new SpeechSynthesisUtterance(' ');u.volume=0;u.lang='ko-KR';if(voice)u.voice=voice;speechSynthesis.speak(u)}catch(e){}}
 document.addEventListener('pointerdown',()=>ttsWarmUp(),{capture:true,once:true});
@@ -937,13 +939,14 @@ applyLang();
 $('nameIn').value=S.name;
 $('iScene').innerHTML=sceneSVG();$('iMascot').innerHTML=art();
 /* ── 오프닝 안내 (덩이의 소개) ── */
-const GD={"az": {"ui": {"skip": "Ötür ›", "tap": "toxun ›", "start": "Başla! 🌱", "l1": "başlanğıc", "l2": "orta", "l3": "yüksək", "soon": "tezliklə!", "sun": "gün · günəş"}, "s": [["hello", "Hamıya salam! <b>덩어리숲</b>-a xoş gəlmisiniz!", "jump"], ["wonju", "<b>덩어리숲</b> Azərbaycanda yaşayan və Koreya dilini öyrənməyə könül vermiş hər kəs üçün <b>Wonju</b> tərəfindən yaradılmış Koreya dili öyrənmə tətbiqidir.", "wave"], ["roof", "<b>Koreya dili öyrənmə yolunuzda ehtiyac duya biləcəyiniz hər şey bir dam altında!</b> Bu şüarla yola çıxaraq tətbiqimizdəki məzmunu müxtəlif öyrənmə məqsədlərinə görə bölmələrə ayırdıq.", "squish"], ["levels", "Koreya dilini yeni öyrənməyə başlayanlar və hobbi kimi öyrənənlər üçün <b>A1-A2, B1-B2</b> və <b>C1-C2</b> səviyyələrində söz məşqləri hazırladıq. (C1-C2 tezliklə!)", "bounce"], ["topik", "TOPIK imtahanına hazırlaşanlar, Koreyada təhsil almaq və ya iş həyatında Koreya dilindən istifadə etmək istəyənlər üçün isə <b>TOPIK I (1-2급)</b> və <b>TOPIK II (3-6급)</b> söz bölmələrini yaratdıq.", "jump"], ["hanja", "Həmçinin Koreya dilini yüksək səviyyədə öyrənmək və TOPIK II-də 5-ci və 6-cı səviyyələrə çatmaq istəyənlər üçün <b>Hanca (한자)</b> məşqlərinə də yer verdik.", "wiggle"], ["grow", "Üstəlik, məzmunumuz <b>daim yenilənir</b> və hər gün təkmilləşir.", "spin"], ["all", "Koreya dilini öyrənmək üçün ehtiyac duya biləcəyiniz belə geniş məzmunu əvvəllər bir yerdə görmüşdünüzmü?", "wave"], ["end", "İndi kəşf etmə növbəsi sizdədir! Koreya dili öyrənmə yolunuzda yeni yol yoldaşınız: <b>덩어리숲</b>!", "spin"]]}, "ko": {"ui": {"skip": "건너뛰기 ›", "tap": "터치 ›", "start": "시작! 🌱", "l1": "입문", "l2": "중급", "l3": "고급", "soon": "곧 출시!", "sun": "날 · 해"}, "s": [["hello", "여러분 안녕하세요. <b>덩어리숲</b>에 오신 것을 환영합니다.", "jump"], ["wonju", "<b>덩어리숲</b>은 아제르바이잔에 살면서 한국어 공부에 마음을 쏟는 모든 분들을 위해 제가 만든 한국어 학습 앱입니다.", "wave"], ["roof", "<b>한국어 공부 여정에 필요한 모든 것을 한곳에 넣었습니다.</b> 이 모토로 출발해서 앱의 내용을 학습 목적에 따라 나눴어요.", "squish"], ["levels", "한국어를 처음 시작하거나 취미로 배우는 분들을 위해 <b>A1, A2, B1, B2, C1, C2</b> 단어를 준비했습니다. (C1, C2는 곧 업데이트돼요!)", "bounce"], ["topik", "TOPIK을 준비하거나 한국에서 공부하고 일하고 싶은 분들을 위해 <b>TOPIK Ⅰ</b>과 <b>TOPIK Ⅱ</b> 단어를 만들었어요.", "jump"], ["hanja", "고급 한국어를 배우고 TOPIK Ⅱ 5, 6급을 목표로 하는 분들을 위해 <b>한자</b> 공부도 넣었습니다.", "wiggle"], ["grow", "게다가 내용은 계속 업데이트될 거고요. 날마다 저희가 개선하고 수정하고 있습니다.", "spin"], ["all", "한국어 공부에 필요한 이렇게 풍부한 내용을 한곳에서 보기가 쉽지 않거든요. 특히 아제르바이잔어로 된 자료는 많이 없을 거예요.", "wave"], ["end", "자, 이제 여러분이 한국어 탐험을 할 차례입니다. 한국어 여정의 친구가 되어 드리겠습니다. <b>덩어리숲!</b>", "spin"]]}};
+const GD={"az": {"ui": {"skip": "Ötür ›", "tap": "toxun ›", "start": "Başla! 🌱", "l1": "başlanğıc", "l2": "orta", "l3": "yüksək", "soon": "tezliklə!", "sun": "gün · günəş"}, "s": [["hello", "Hamıya salam! <b>덩어리숲</b>-a xoş gəlmisiniz!", "jump"], ["wonju", "<b>덩어리숲</b> Azərbaycanda Koreya dilini öyrənən hər kəs üçün <b>Wonju</b> tərəfindən yaradılmış Koreya dili öyrənmə tətbiqidir.", "wave"], ["roof", "<b>Koreya dili öyrənmə yolunuzda ehtiyac duya biləcəyiniz hər şey bir dam altında!</b> Bu şüarla yola çıxaraq tətbiqimizdəki məzmunu müxtəlif öyrənmə məqsədlərinə görə bölmələrə ayırdıq.", "squish"], ["levels", "Koreya dilini yeni öyrənməyə başlayanlar və hobbi kimi öyrənənlər üçün <b>A1-A2, B1-B2</b> və <b>C1-C2</b> səviyyələrində söz məşqləri hazırladıq. (C1-C2 tezliklə!)", "bounce"], ["topik", "TOPIK imtahanına hazırlaşanlar, Koreyada oxumaq və ya işləmək istəyənlər üçün isə <b>TOPIK I (1-2급)</b> və <b>TOPIK II (3-6급)</b> söz bölmələrini yaratdıq.", "jump"], ["hanja", "Həmçinin TOPIK II-də 5-ci və 6-cı səviyyələrə çatmaq istəyənlər üçün <b>Hanca (한자)</b> məşqlərinə də yer verdik.", "wiggle"], ["grow", "Üstəlik, məzmunumuz <b>daim yenilənir</b> və hər gün təkmilləşir.", "spin"], ["all", "Koreya dilini öyrənmək üçün ehtiyac duya biləcəyiniz belə geniş məzmunu əvvəllər bir yerdə görmüşdünüzmü?", "wave"], ["end", "İndi kəşf etmə növbəsi sizdədir! Koreya dili öyrənmə yolunuzda yeni yol yoldaşınız: <b>덩어리숲</b>!", "spin"]]}, "ko": {"ui": {"skip": "건너뛰기 ›", "tap": "터치 ›", "start": "시작! 🌱", "l1": "입문", "l2": "중급", "l3": "고급", "soon": "곧 출시!", "sun": "날 · 해"}, "s": [["hello", "여러분 안녕하세요. <b>덩어리숲</b>에 오신 것을 환영합니다.", "jump"], ["wonju", "<b>덩어리숲</b>은 아제르바이잔에 살면서 한국어 공부에 마음을 쏟는 모든 분들을 위해 제가 만든 한국어 학습 앱입니다.", "wave"], ["roof", "<b>한국어 공부 여정에 필요한 모든 것을 한곳에 넣었습니다.</b> 이 모토로 출발해서 앱의 내용을 학습 목적에 따라 나눴어요.", "squish"], ["levels", "한국어를 처음 시작하거나 취미로 배우는 분들을 위해 <b>A1, A2, B1, B2, C1, C2</b> 단어를 준비했습니다. (C1, C2는 곧 업데이트돼요!)", "bounce"], ["topik", "TOPIK을 준비하거나 한국에서 공부하고 일하고 싶은 분들을 위해 <b>TOPIK Ⅰ</b>과 <b>TOPIK Ⅱ</b> 단어를 만들었어요.", "jump"], ["hanja", "고급 한국어를 배우고 TOPIK Ⅱ 5, 6급을 목표로 하는 분들을 위해 <b>한자</b> 공부도 넣었습니다.", "wiggle"], ["grow", "게다가 내용은 계속 업데이트될 거고요. 날마다 저희가 개선하고 수정하고 있습니다.", "spin"], ["all", "한국어 공부에 필요한 이렇게 풍부한 내용을 한곳에서 보기가 쉽지 않거든요. 특히 아제르바이잔어로 된 자료는 많이 없을 거예요.", "wave"], ["end", "자, 이제 여러분이 한국어 탐험을 할 차례입니다. 한국어 여정의 친구가 되어 드리겠습니다. <b>덩어리숲!</b>", "spin"]]}};
 let gdLang=null;
 const gdT=()=>GD[gdLang]||GD[S.lang]||GD[Object.keys(GD)[0]];
 /* 음성 나레이션: audio/guide/<언어>/01.mp3 … 09.mp3 를 올린 뒤 해당 언어를 true 로 바꾸세요. */
-const GD_VOICE=Object.fromEntries(Object.keys(GD).map(k=>[k,false]));
+const GD_VOICE={az:true,ko:false};
 const GDA=new Audio();GDA.preload='auto';let gdAuto=null;
 function gdStopVoice(){clearTimeout(gdAuto);try{GDA.pause()}catch(e){}GDA.onended=GDA.onerror=GDA.onloadedmetadata=null;BGM.duck(false)}
+const GDPRE={};function gdPre(i){const g=gdT();if(i>=g.s.length)return;const src=`audio/guide/${gdLang}/${String(i+1).padStart(2,'0')}.mp3`;if(!GDPRE[src]){const a=new Audio();a.preload='auto';a.src=src;GDPRE[src]=a}}
 function gdVoice(n,len){
  gdStopVoice();if(!GD_VOICE[gdLang]||S.gdMute)return 26;
  GDA.src=`audio/guide/${gdLang}/${String(n+1).padStart(2,'0')}.mp3`;
@@ -951,6 +954,7 @@ function gdVoice(n,len){
  GDA.onerror=()=>BGM.duck(false);
  GDA.onloadedmetadata=()=>{if(isFinite(GDA.duration)&&gdI===n)gdSpeed=Math.max(18,Math.min(90,GDA.duration*1000*.85/Math.max(1,len)))};
  BGM.duck(true);const pr=GDA.play();if(pr&&pr.catch)pr.catch(()=>BGM.duck(false));
+ gdPre(n+1);
  return 40;
 }
 let gdSpeed=26;
