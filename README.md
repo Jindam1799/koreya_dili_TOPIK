@@ -13,7 +13,7 @@ Azərbaycanlı dostlar üçün Koreya dili söz oyunu.
 | A1–A2 | 1000 | `data/a12.js` |
 | B1–B2 | 2000 | `data/b11.js` `b12.js` `b21.js` `b22.js` |
 | TOPIK Ⅰ | 2000 | `data/topik1.js` (`tools/build_topik1.py`) |
-| TOPIK Ⅱ | 3500 | `data/topik2.js` (bölmə 54–66: 3–4 səviyyə əlavə siyahı, `tools/az/topik2_34.txt`; mövzu bölmələri: `tools/az/topik2_topics.txt`) |
+| TOPIK Ⅱ | 3500 | `data/topik2.js` — 20 mövzu, 82 bölmə |
 | 한자 (Hanca) | 400 | `data/hanja.js` |
 
 - **단어 뜻은 아직 튀르키예어예요.** 아제르바이잔어 검수자가 검수 모드에서 고쳐 나가면 돼요.
