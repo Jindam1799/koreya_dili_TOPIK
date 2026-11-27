@@ -292,7 +292,8 @@ const SECONDS=12,BONUS_EXTRA=2,BASE=5,BONUS=3,STREAK_EVERY=5,STREAK_XP=3;
 function show(id){['home','game','cards','prog','review','result'].forEach(s=>$(s).hidden=s!==id);try{BGM.study(['game','cards','review'].includes(id))}catch(e){}}
 function buildQueue(){
  const score=w=>{const m=S.mem[w.id];return (m?m.c*2-m.w:-1)+Math.random()*1.5};
- return pool().slice().sort((x,y)=>score(x)-score(y)).slice(0,S.size||Infinity);
+ // önce zayıf ve yeni kelimeler seçilir, sonra seçilen 10 kelimenin sırası tamamen karıştırılır
+ return shuffle(pool().slice().sort((x,y)=>score(x)-score(y)).slice(0,S.size||Infinity));
 }
 function start(kind,items){
  const queue=items||(kind==='review'?shuffle(S.retry.map(id=>BYID.get(id)).filter(Boolean)).slice(0,20):buildQueue());
