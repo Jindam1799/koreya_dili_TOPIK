@@ -30,7 +30,12 @@ const LEVELS=(window.LEVELS||[]).map(L=>{
 const GROUPS=[{id:'B1-B2',name:'B1–B2',parts:['B1.1','B1.2','B2.1','B2.2']}];
 for(const G of GROUPS){const parts=G.parts.map(id=>LEVELS.find(L=>L.id===id)).filter(Boolean);if(!parts.length)continue;
  const units=[],words=[];
- parts.forEach(P=>P.units.forEach(u=>{const nu={key:P.name+' · '+u.key,words:u.words};units.push(nu);u.words.forEach(w=>{w.unit=nu.key;w.ui=units.length-1;w.grp=G.id;words.push(w)})}));
+ // aynı konu başlıkları birleşir (kelime kimlikleri dosyada kalır), 50'den büyük konular eşit parçalara bölünür
+ const byKey=new Map();parts.forEach(P=>P.units.forEach(u=>{if(!byKey.has(u.key))byKey.set(u.key,[]);byKey.get(u.key).push(...u.words)}));
+ for(const [key,ws] of byKey){const n=Math.ceil(ws.length/50),size=Math.ceil(ws.length/n),cut=key.indexOf(' (');
+  for(let k=0;k<n;k++){const part=ws.slice(k*size,(k+1)*size);if(!part.length)continue;
+   const nk=n>1?(cut>0?key.slice(0,cut)+' '+(k+1)+key.slice(cut):key+' '+(k+1)):key;const nu={key:nk,words:part};units.push(nu);
+   part.forEach(w=>{w.unit=nu.key;w.ui=units.length-1;w.grp=G.id;words.push(w)})}}
  parts.forEach(P=>LEVELS.splice(LEVELS.indexOf(P),1));LEVELS.push({id:G.id,name:G.name,units,words})}
 LEVELS.forEach(L=>L.words.forEach(w=>{if(!w.grp)w.grp=L.id}));
 const ORDER=['A1-A2','B1-B2','TOPIK1','TOPIK2','HANJA'];
@@ -658,6 +663,7 @@ $('rvxShare').onclick=async()=>{const f=new File([JSON.stringify(rvPayload(),nul
 
 // ---------- güncelleme notları ----------
 const NOTES=[
+ ['2.6','2026-11-27',{az:["B1–B2 də artıq mövzulara görə: 19 mövzu, 51 bölmə (irəliləyişin qorunur)"],ko:['B1–B2도 주제별로 정리: 19개 주제, 51단원 (단어 학습 기록은 그대로)']}],
  ['2.5','2026-11-27',{az:["Yoxlama rejimində 'Yeni əlavə' filtri: yalnız yeni əlavə olunan 651 söz yoxlanıla bilər"],ko:['검수 모드에 \'새로 추가\' 필터: 새로 들어간 651개 단어만 골라서 검수할 수 있어요']}],
  ['2.4','2026-11-27',{az:["TOPIK II artıq mövzulara görə: 20 mövzu (hisslər, sağlamlıq, iqtisadiyyat, cəmiyyət, mədəniyyət, elm, fellər…), 82 bölmə"],ko:['TOPIK Ⅱ를 주제별로 정리: 감정·건강·경제·사회·문화·과학·자주 쓰는 동사 등 20개 주제, 82단원']}],
  ['2.3','2026-11-27',{az:["Söz sayları yuvarlaqlaşdırıldı: A1–A2 1000 (ailə və əsas fellər daxil 62 yeni), B1–B2 2000, TOPIK I 2000, TOPIK II 3500, Hanca 400"],ko:['단어 수 정리: A1–A2 1000 (가족·기본 동사 등 62개 새로), B1–B2 2000, TOPIK Ⅰ 2000, TOPIK Ⅱ 3500, 한자 400']}],
