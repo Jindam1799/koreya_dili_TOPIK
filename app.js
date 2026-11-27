@@ -656,7 +656,7 @@ $('rvxShare').onclick=async()=>{const f=new File([JSON.stringify(rvPayload(),nul
 
 // ---------- güncelleme notları ----------
 const NOTES=[
- ['2.1','2026-11-27',{az:["Açılış bələdçisinə Azərbaycan dilində səsli izah əlavə olundu; keçəndə növbəti səs dərhal başlayır, bitəndə avtomatik irəliləyir (🔊/🔇 ilə bağlana bilər)"],ko:['오프닝 안내에 아제르바이잔어 음성 내레이션 추가. 넘기면 다음 음성이 바로 나오고, 끝나면 자동으로 넘어가요']}],
+ ['2.1','2026-11-27',{az:["Açılış bələdçisinə Azərbaycan dilində səsli izah əlavə olundu; keçəndə növbəti səs dərhal başlayır, bitəndə avtomatik irəliləyir (AZ altyazıda Azərbaycan dilində, 한 altyazıda Korece; 🔊/🔇 ilə bağlana bilər)"],ko:['오프닝 안내에 음성 내레이션 추가 (AZ 자막은 아제르바이잔어, 한 자막은 한국어). 넘기면 다음 음성이 바로 나오고, 끝나면 자동으로 넘어가요']}],
  ['2.0','2026-11-27',{az:["Bitki dostuna verdiyin ad hər yerdə istifadə olunur (balon, bələdçi, hekayə); sürüşdürmə, böyütmə və kopyalama bağlandı; lobidə versiya məlumatı"],ko:['식물 친구 이름을 정하면 말풍선·오프닝 안내·이야기에서 그 이름으로 불러요. 화면 스크롤·확대·복사 방지, 로비 아래 버전 표시']}],
  ['1.9','2026-11-27',{az:["Bitki dostuna ad verəndə özünü tanıdır, toxunanda adını deyir; xoş gəldin başlığı tək sətir"],ko:['식물 친구에게 이름을 지어 주면 그 이름으로 자기소개를 하고, 누르면 이름을 말해요. 환영 인사 한 줄로']}],
  ['1.8','2026-11-27',{az:["Oxuyarkən fon musiqisi həmişə alçaq çalır, söz səsi dərhal və aydın çıxır; effekt səsləri oxunuşla toqquşmur"],ko:['공부 화면에서는 배경 음악을 계속 작게 틀고, 단어 음성은 크게 바로 나와요. 효과음이 음성과 부딪히지 않아요']}],
@@ -943,7 +943,7 @@ const GD={"az": {"ui": {"skip": "Ötür ›", "tap": "toxun ›", "start": "Baş
 let gdLang=null;
 const gdT=()=>GD[gdLang]||GD[S.lang]||GD[Object.keys(GD)[0]];
 /* 음성 나레이션: audio/guide/<언어>/01.mp3 … 09.mp3 를 올린 뒤 해당 언어를 true 로 바꾸세요. */
-const GD_VOICE={az:true,ko:false};
+const GD_VOICE={az:true,ko:true};
 const GDA=new Audio();GDA.preload='auto';let gdAuto=null;
 function gdStopVoice(){clearTimeout(gdAuto);try{GDA.pause()}catch(e){}GDA.onended=GDA.onerror=GDA.onloadedmetadata=null;BGM.duck(false)}
 const GDPRE={};function gdPre(i){const g=gdT();if(i>=g.s.length)return;const src=`audio/guide/${gdLang}/${String(i+1).padStart(2,'0')}.mp3`;if(!GDPRE[src]){const a=new Audio();a.preload='auto';a.src=src;GDPRE[src]=a}}
